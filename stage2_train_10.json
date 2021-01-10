@@ -1,0 +1,686 @@
+{
+    "passage_1": {
+        "passage": "Nancy has saved 1 dozen quarters from washing cars",
+        "qa_pairs": [
+            {
+                "question": "  How much money does Nancy have ?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "515ab26c135e92ed8bf3a594d67e4ade"
+            }
+        ]
+    },
+    "passage_2": {
+        "passage": "Bryan had 8 precious stones in his collection which he sold to his friend from the jewelry store",
+        "qa_pairs": [
+            {
+                "question": " If the stones were sold at 1785 dollar each, how much money did Bryan get in total?",
+                "answer": {
+                    "number": "14280",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "03e7d2ebec1e820ac34d054df7e68f48"
+            }
+        ]
+    },
+    "passage_3": {
+        "passage": "Sara has saved 9 dollars from washing cars",
+        "qa_pairs": [
+            {
+                "question": "  How many dozen quarters does Sara have?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "08e6bea8e90ba87af3c9554d94db6579"
+            }
+        ]
+    },
+    "passage_4": {
+        "passage": "Marlee has 12 guests coming to her Halloween party.  Each table will hold 3 guests",
+        "qa_pairs": [
+            {
+                "question": " How many tables will Marlee need?",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "728f206c2a01bf572b5940d7d9a8fa4c"
+            }
+        ]
+    },
+    "passage_5": {
+        "passage": "There are 10 stickers on a page",
+        "qa_pairs": [
+            {
+                "question": " If you have 22 pages of stickers, how many stickers do you have?",
+                "answer": {
+                    "number": "220",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d5c186983b52c4551ee00f72316c6eaa"
+            }
+        ]
+    },
+    "passage_6": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "If Joan bicycled 25 miles at 5 miles per hour, how long was Joan travelling?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "192fc044e74dffea144f9ac5dc9f3395"
+            }
+        ]
+    },
+    "passage_7": {
+        "passage": "James rode 80 miles at 16 miles per hour",
+        "qa_pairs": [
+            {
+                "question": " How long did James ride?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5dd9db5e033da9c6fb5ba83c7a7ebea9"
+            }
+        ]
+    },
+    "passage_8": {
+        "passage": " Arthur baked 115 muffins.  James baked 12 times as many",
+        "qa_pairs": [
+            {
+                "question": " How many muffins did James bake?",
+                "answer": {
+                    "number": "1380",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9f53d83ec0691550f7d2507d57f4f5a2"
+            }
+        ]
+    },
+    "passage_9": {
+        "passage": " A perfect score is 21 points",
+        "qa_pairs": [
+            {
+                "question": " How many points would you have after 3 perfect games in a row?",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "da0d1111d2dc5d489242e60ebcbaf988"
+            }
+        ]
+    },
+    "passage_10": {
+        "passage": "A 12 ounce can of cranberry juice sells for 84 cents.  What is the cost in cents per ounce",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f8c0c968632845cd133308b1a494967f"
+            }
+        ]
+    },
+    "passage_11": {
+        "passage": "It took Amanda 2 hours to stroll to Kimberly's house at 4 miles per hour",
+        "qa_pairs": [
+            {
+                "question": " How far is it between Amanda's house and Kimberly's house?",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3d2d8ccb37df977cb6d9da15b76c3f3a"
+            }
+        ]
+    },
+    "passage_12": {
+        "passage": "There are 96 cupcakes for 8 children to share",
+        "qa_pairs": [
+            {
+                "question": " How much will each person get if they share the cupcakes equally?",
+                "answer": {
+                    "number": "12",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c5a4e7e6882845ea7bb4d9462868219b"
+            }
+        ]
+    },
+    "passage_13": {
+        "passage": "Each bag contains 23 pounds of oranges",
+        "qa_pairs": [
+            {
+                "question": " How many pounds of oranges are in 45 bags?",
+                "answer": {
+                    "number": "1035",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a9813e9550fee3110373c21fa012eee7"
+            }
+        ]
+    },
+    "passage_14": {
+        "passage": "There are 4 dozen calories in a candy bar",
+        "qa_pairs": [
+            {
+                "question": " How many calories are there in 42 candy bars ?",
+                "answer": {
+                    "number": "2016",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "25e2a30f44898b9f3e978b1786dcd85c"
+            }
+        ]
+    },
+    "passage_15": {
+        "passage": " Marie can bike at a speed of 12 miles an hour",
+        "qa_pairs": [
+            {
+                "question": " How far can she bike in 31 hours?",
+                "answer": {
+                    "number": "372",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c8fbbc86abe8bd6a5eb6a3b4d0411301"
+            }
+        ]
+    },
+    "passage_16": {
+        "passage": "Paula has 6 boxes of peanuts.  Each box holds 4 peanuts",
+        "qa_pairs": [
+            {
+                "question": " How many peanuts does Paula have?",
+                "answer": {
+                    "number": "24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c399862d3b9d6b76c8436e924a68c45b"
+            }
+        ]
+    },
+    "passage_17": {
+        "passage": " Mrs.  Hilt bought 6 hot dogs.  Each hot dog cost 50 cents",
+        "qa_pairs": [
+            {
+                "question": " How much money did she pay for all of the hot dogs?",
+                "answer": {
+                    "number": "300",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "35cf8659cfcb13224cbd47863a34fc58"
+            }
+        ]
+    },
+    "passage_18": {
+        "passage": " Mrs.  Hilt bought 3 pizzas for $8 each",
+        "qa_pairs": [
+            {
+                "question": " What was the total amount she paid for the three pizzas?",
+                "answer": {
+                    "number": "24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9e3cfc48eccf81a0d57663e129aef3cb"
+            }
+        ]
+    },
+    "passage_19": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "If Benjamin skated 80 kilometers at 10 kilometers per hour, how long was Benjamin skating?",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "08d98638c6fcd194a4b1e6992063e944"
+            }
+        ]
+    },
+    "passage_20": {
+        "passage": " 256 students are going to the zoo.  They have to be divided into groups so that each teacher has one group.  There are 8 teachers",
+        "qa_pairs": [
+            {
+                "question": " How many  students will be in each group?",
+                "answer": {
+                    "number": "32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1f4477bad7af3616c1f933a02bfabe4e"
+            }
+        ]
+    },
+    "passage_21": {
+        "passage": " Maggi had 3 packages of cupcakes.  There are 4 cupcakes in each package.  She ate 5 cupcakes",
+        "qa_pairs": [
+            {
+                "question": " How many are left?",
+                "answer": {
+                    "number": "12",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8c235f89a8143a28a1d6067e959dd858"
+            }
+        ]
+    },
+    "passage_22": {
+        "passage": "Steven wants to split a collection of cards into groups of 6.  Steven has 30 cards",
+        "qa_pairs": [
+            {
+                "question": " How many groups will be created?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e5f6ad6ce374177eef023bf5d0c018b6"
+            }
+        ]
+    },
+    "passage_23": {
+        "passage": "There are 72 cards in Jean's card collection",
+        "qa_pairs": [
+            {
+                "question": " If the cards are organized into 9 groups, how big is each group?",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "11b921ef080f7736089c757404650e40"
+            }
+        ]
+    },
+    "passage_24": {
+        "passage": " Robin has 9 packages of gum.  There are 15 pieces in each package",
+        "qa_pairs": [
+            {
+                "question": " How many pieces of gum does Robin have?",
+                "answer": {
+                    "number": "135",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "aff1621254f7c1be92f64550478c56e6"
+            }
+        ]
+    },
+    "passage_25": {
+        "passage": "The school is planning a field trip.  There are 9 students and 3 seats on each school bus",
+        "qa_pairs": [
+            {
+                "question": " How many buses are needed to take the trip?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "97e8527feaf77a97fc38f34216141515"
+            }
+        ]
+    },
+    "passage_26": {
+        "passage": "Each ticket costs $9. 00",
+        "qa_pairs": [
+            {
+                "question": " How much do 4 tickets cost?",
+                "answer": {
+                    "number": "36",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "37f0e884fbad9667e38940169d0a3c95"
+            }
+        ]
+    },
+    "passage_27": {
+        "passage": "Lexie’s mom gathered all her watercolor paintings and thought of placing an equal number of paintings in 4 rooms in the house",
+        "qa_pairs": [
+            {
+                "question": " If Lexie has 32 watercolor paintings, how many paintings will be placed in each room?",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "39dcaf7a053dc372fbc391d4e6b5d693"
+            }
+        ]
+    },
+    "passage_28": {
+        "passage": "Sara has 9 dozen golf balls",
+        "qa_pairs": [
+            {
+                "question": " How many golf balls does she have ?",
+                "answer": {
+                    "number": "108",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7fea637fd6d02b8f0adf6f7dc36aed93"
+            }
+        ]
+    },
+    "passage_29": {
+        "passage": " Frank worked 8 hours on the first 4 days of the week",
+        "qa_pairs": [
+            {
+                "question": " How many hours did he work in all?",
+                "answer": {
+                    "number": "32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7634ea65a4e6d9041cfd3f7de18e334a"
+            }
+        ]
+    },
+    "passage_30": {
+        "passage": " A sandbox is 312 centimeters long and 146 centimeters wide",
+        "qa_pairs": [
+            {
+                "question": " How many square centimeters of ground does the sandbox cover?",
+                "answer": {
+                    "number": "45552",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c2626d850c80ea07e7511bbae4c76f4b"
+            }
+        ]
+    },
+    "passage_31": {
+        "passage": "Joe has 45 oranges that must be put away in boxes.  Daniel comes to help and brings 16 cookies to share with Joe",
+        "qa_pairs": [
+            {
+                "question": " If there are 9 boxes, how many oranges must go in each box?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "67e103b0761e60683e83c559be18d40c"
+            }
+        ]
+    },
+    "passage_32": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "If Madison sold 24 boxes of Tagalongs, how many cases of 12 boxes does Madison pickup from the cookie mom?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f5deaeeae1538fb6c45901d524ee2f98"
+            }
+        ]
+    },
+    "passage_33": {
+        "passage": "There are 37 baskets.  There are 17 apples in each basket",
+        "qa_pairs": [
+            {
+                "question": " How many apples are there in all?",
+                "answer": {
+                    "number": "629",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "de03beffeed9da5f3639a621bcab5dd4"
+            }
+        ]
+    },
+    "passage_34": {
+        "passage": "Jeremy strolled 20 kilometers at 2 kilometers per hour",
+        "qa_pairs": [
+            {
+                "question": " How long did Jeremy stroll?",
+                "answer": {
+                    "number": "10",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "24681928425f5a9133504de568f5f6df"
+            }
+        ]
+    },
+    "passage_35": {
+        "passage": "Shirley sold 20 boxes of Do-Si-Dos",
+        "qa_pairs": [
+            {
+                "question": " How many cases of 4 boxes, plus extra boxes does Shirley need to deliver?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "daca41214b39c5dc66674d09081940f0"
+            }
+        ]
+    },
+    "passage_36": {
+        "passage": "Benny worked 3 hours for 6 days",
+        "qa_pairs": [
+            {
+                "question": " How many hours did he work in total ?",
+                "answer": {
+                    "number": "18",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "464d828b85b0bed98e80ade0a5c43b0f"
+            }
+        ]
+    },
+    "passage_37": {
+        "passage": "Tom was at the beach for 5 days and found 7 seashells every day",
+        "qa_pairs": [
+            {
+                "question": " How many seashells did Tom find during the beach trip ?",
+                "answer": {
+                    "number": "35",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a51c896c9cb81ecb5a199d51ac9fc3c5"
+            }
+        ]
+    },
+    "passage_38": {
+        "passage": "A teacher has 344 pieces of candy",
+        "qa_pairs": [
+            {
+                "question": " If there are 43 students, and the candy is divided evenly, How many pieces will each student get?",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cdf1035c34ec380218a8cc9a43d438f9"
+            }
+        ]
+    }
+}

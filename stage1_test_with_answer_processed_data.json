@@ -1,0 +1,722 @@
+{
+    "passage_37": {
+        "passage": " My car gets 20 miles per gallon",
+        "qa_pairs": [
+            {
+                "question": " How many miles can I drive on 5 gallons of gas?",
+                "answer": {
+                    "number": "100",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f4552671f8909587cf485ea990207f3b"
+            }
+        ]
+    },
+    "passage_33": {
+        "passage": " There are 64 pigs in the barn. Some more come to join them. Now there are 86 pigs",
+        "qa_pairs": [
+            {
+                "question": " How many pigs came to join  them?",
+                "answer": {
+                    "number": "22",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4b04a686b0ad13dce35fa99fa4161c65"
+            }
+        ]
+    },
+    "passage_9": {
+        "passage": "There are 7 students in the class and 56 eggs",
+        "qa_pairs": [
+            {
+                "question": " If the eggs are divided equally among the students, how many does each student get?",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5e388103a391daabe3de1d76a6739ccd"
+            }
+        ]
+    },
+    "passage_12": {
+        "passage": "Martha is inviting 4 friends to a party. She has 12 cookies",
+        "qa_pairs": [
+            {
+                "question": " How many cookies will each friend get?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "94c7bb58efc3b337800875b5d382a072"
+            }
+        ]
+    },
+    "passage_13": {
+        "passage": "Kenji and his classmates placed colored blocks on a scale during a science lab. The yellow block weighed 0.6 pounds and the green block weighed 0.4 pounds",
+        "qa_pairs": [
+            {
+                "question": " How much more did the yellow block weigh than the green block?",
+                "answer": {
+                    "number": "0.2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "333222170ab9edca4785c39f55221fe7"
+            }
+        ]
+    },
+    "passage_28": {
+        "passage": " Albert’s cabbage patch has 12 rows of cabbage. In each row, there are 15 heads of cabbage",
+        "qa_pairs": [
+            {
+                "question": " How many heads of cabbage does Albert have in  all?",
+                "answer": {
+                    "number": "180",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f57a2f557b098c43f11ab969efe1504b"
+            }
+        ]
+    },
+    "passage_34": {
+        "passage": "The school is planning a field trip. There are 14 students and 2 seats on each school bus",
+        "qa_pairs": [
+            {
+                "question": " How many buses are needed to take the trip?",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7dcd340d84f762eba80aa538b0c527f7"
+            }
+        ]
+    },
+    "passage_5": {
+        "passage": "There is 0.16666666666666666 cup of oil in Scarlett 's measuring cup . If Scarlett adds 0",
+        "qa_pairs": [
+            {
+                "question": "6666666666666666 cup more , how much oil will be in the measuring cup ? ",
+                "answer": {
+                    "number": "0.8333333333333334",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "31fefc0e570cb3860f2a6d4b38c6490d"
+            }
+        ]
+    },
+    "passage_22": {
+        "passage": "There are 11 rulers and 34 crayons in the drawer . Tim placed 14 rulers in the drawer ",
+        "qa_pairs": [
+            {
+                "question": " How many rulers are now there in all ? ",
+                "answer": {
+                    "number": "25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6ea9ab1baa0efb9e19094440c317e21b"
+            }
+        ]
+    },
+    "passage_6": {
+        "passage": "Dan had 7 potatoes and 4 cantelopes in the garden . The rabbits ate 4 of the potatoes ",
+        "qa_pairs": [
+            {
+                "question": " How many potatoes does Dan now have ? ",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "577bcc914f9e55d5e4e4f82f9f00e7d4"
+            }
+        ]
+    },
+    "passage_11": {
+        "passage": "The junior ranger asked Christian to help him place 420 seedlings in packets",
+        "qa_pairs": [
+            {
+                "question": " If every packet needs to contain 7 seeds, how many packets do they need?",
+                "answer": {
+                    "number": "60",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3683af9d6f6c06acee72992f2977f67e"
+            }
+        ]
+    },
+    "passage_30": {
+        "passage": "Stephanie went to the store 8 times last month. She buys 2 oranges each time she goes to the store",
+        "qa_pairs": [
+            {
+                "question": " How many oranges did Stephanie buy last month?",
+                "answer": {
+                    "number": "16",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d64a340bcb633f536d56e51874281454"
+            }
+        ]
+    },
+    "passage_31": {
+        "passage": "Sara has saved 11 quarters from washing cars",
+        "qa_pairs": [
+            {
+                "question": "  How many cents does Sara have ?",
+                "answer": {
+                    "number": "275",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3e7e0224018ab3cf51abb96464d518cd"
+            }
+        ]
+    },
+    "passage_17": {
+        "passage": "There are 88 candies in a box. Lisa has 18 candies in a bag. Diana takes 6 candies out of the box",
+        "qa_pairs": [
+            {
+                "question": " How many candies are left in the box?",
+                "answer": {
+                    "number": "82",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "233509073ed3432027d48b1a83f5fbd2"
+            }
+        ]
+    },
+    "passage_7": {
+        "passage": " For the fifth grade play, the chairs have been put into 27 rows with 16 chairs in each row",
+        "qa_pairs": [
+            {
+                "question": " How many chairs have been put out for the play?",
+                "answer": {
+                    "number": "432",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d554f7bb7be44a7267068a7df88ddd20"
+            }
+        ]
+    },
+    "passage_19": {
+        "passage": "While making desserts for a bake sale, Victor used 0.625 of a scoop of brown sugar as well as 0.25 of a scoop of white sugar",
+        "qa_pairs": [
+            {
+                "question": " How much more brown sugar did Victor use?",
+                "answer": {
+                    "number": "0.375",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "958adb57686c2fdec5796398de5f317a"
+            }
+        ]
+    },
+    "passage_10": {
+        "passage": "Freeport McMoran projects the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand",
+        "qa_pairs": [
+            {
+                "question": " What will the world grain demand be?",
+                "answer": {
+                    "number": "2400000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2eace51d8f796d04991c831a07059758"
+            }
+        ]
+    },
+    "passage_15": {
+        "passage": "Eve ran 0.7 of a mile and walked 0.6 of a mile",
+        "qa_pairs": [
+            {
+                "question": " How much farther did Eve run than walk?",
+                "answer": {
+                    "number": "0.1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7e9e346dc5fd268b49bf418523af8679"
+            }
+        ]
+    },
+    "passage_29": {
+        "passage": " Mrs. Hilt saw 144 bees in the hive. The next day she saw 3 times that many",
+        "qa_pairs": [
+            {
+                "question": " How many bees did she see on the second day?",
+                "answer": {
+                    "number": "432",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4b0250793549726d5c1ea3906726ebfe"
+            }
+        ]
+    },
+    "passage_32": {
+        "passage": "There are 2 bananas in a pile on the desk. Each banana comes in a package of 17. 7 bananas are added to the pile",
+        "qa_pairs": [
+            {
+                "question": " How many bananas are there in the pile?",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3435c378bb76d4357324dd7e69f3cd18"
+            }
+        ]
+    },
+    "passage_25": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "If Victor split 25 Skittles between 5 people in her class and kept the left overs, how many Skittles did each classmate get?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "605ff764c617d3cd28dbbdd72be8f9a2"
+            }
+        ]
+    },
+    "passage_14": {
+        "passage": "Lemon heads come in packages of 6. Louis ate 54 Lemon Heads",
+        "qa_pairs": [
+            {
+                "question": " How many whole boxes did he eat and how many Lemon Heads does he have left?",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3493894fa4ea036cfc6433c3e2ee63b0"
+            }
+        ]
+    },
+    "passage_20": {
+        "passage": "There were a total of 6 soccer games this year. Jessica missed 4 of the games",
+        "qa_pairs": [
+            {
+                "question": " How many soccer games did Jessica go to in all ?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "955a1584af63a546588caae4d23840b3"
+            }
+        ]
+    },
+    "passage_1": {
+        "passage": "There are 47 orchid bushes currently in the park . Park workers will plant 37 orchid bushes today and 25 orchid bushes tomorrow . It took 35 workers to finish the work ",
+        "qa_pairs": [
+            {
+                "question": " How many orchid bushes will the park have when the workers are finished ? ",
+                "answer": {
+                    "number": "109",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cf004fdc76fa1a4f25f62e0eb5261ca3"
+            }
+        ]
+    },
+    "passage_18": {
+        "passage": "This afternoon Craig left school , rode the bus 3.8333333333333335 miles , and then walked 0.16666666666666666 mile to get home ",
+        "qa_pairs": [
+            {
+                "question": " How much farther did Craig ride than walk ? ",
+                "answer": {
+                    "number": "3.6666666666666665",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "01161aaa0b6d1345dd8fe4e481144d84"
+            }
+        ]
+    },
+    "passage_35": {
+        "passage": "A bee colony produced 0.36 pounds of honey, but bears ate 0.05 pounds of it",
+        "qa_pairs": [
+            {
+                "question": " How much honey remains?",
+                "answer": {
+                    "number": "0.31",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "139f0874f2ded2e41b0393c4ac5644f7"
+            }
+        ]
+    },
+    "passage_21": {
+        "passage": " Bobby ate 26 pieces of candy. Then, he ate 17 more",
+        "qa_pairs": [
+            {
+                "question": " How many pieces of candy did Bobby eat?",
+                "answer": {
+                    "number": "43",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "aba3b6fd5d186d28e06ff97135cade7f"
+            }
+        ]
+    },
+    "passage_26": {
+        "passage": "Sandy grew 6 carrots . Sam grew 3 carrots ",
+        "qa_pairs": [
+            {
+                "question": " How many carrots did they grow in total ? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c74d97b01eae257e44aa9d5bade97baf"
+            }
+        ]
+    },
+    "passage_39": {
+        "passage": "Jenny sold 24 boxes of Trefoils",
+        "qa_pairs": [
+            {
+                "question": " How many cases of 8 boxes, plus extra boxes does Jenny need to deliver?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "766ebcd59621e305170616ba3d3dac32"
+            }
+        ]
+    },
+    "passage_23": {
+        "passage": "Jose wandered 4 kilometers at 2 kilometers per hour",
+        "qa_pairs": [
+            {
+                "question": " How long did Jose wander?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b7b16ecf8ca53723593894116071700c"
+            }
+        ]
+    },
+    "passage_36": {
+        "passage": "There were a total of 27 soccer games during the 3 month season",
+        "qa_pairs": [
+            {
+                "question": "  If the games are equally divided, how many soccer games are played a month ?",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c0560792e4a3c79e62f76cbf9fb277dd"
+            }
+        ]
+    },
+    "passage_3": {
+        "passage": "Sam had 98 pennies in his bank. He spent 93 of his pennies",
+        "qa_pairs": [
+            {
+                "question": " How many pennies does he have now ?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "81c650caac28cdefce4de5ddc18befa0"
+            }
+        ]
+    },
+    "passage_16": {
+        "passage": " 6 students were sitting at each table in the lunchroom. There are 34 tables",
+        "qa_pairs": [
+            {
+                "question": " How many students were sitting in the lunchroom?",
+                "answer": {
+                    "number": "204",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0efe32849d230d7f53049ddc4a4b0c60"
+            }
+        ]
+    },
+    "passage_4": {
+        "passage": "Nicole found an orange caterpillar and a green caterpillar in her backyard. The green caterpillar was 3 inches long and the orange caterpillar was 1.1666666666666667 inches long",
+        "qa_pairs": [
+            {
+                "question": " How much longer was the green caterpillar than the orange caterpillar?",
+                "answer": {
+                    "number": "1.8333333333333335",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b432f34c5a997c8e7c806a895ecc5e25"
+            }
+        ]
+    },
+    "passage_27": {
+        "passage": " It takes 4 feet of cotton to make a tee-shirt",
+        "qa_pairs": [
+            {
+                "question": " How many tee-shirts can be made with 60 feet of material?",
+                "answer": {
+                    "number": "15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b86e8d03fe992d1b0e19656875ee557c"
+            }
+        ]
+    },
+    "passage_0": {
+        "passage": "As part of a lesson on earthquakes, a science class is researching the movement of a nearby fault line. The fault line moved 1.25 inches during the past year and 5.25 inches the year before",
+        "qa_pairs": [
+            {
+                "question": " How far did the fault line move in all?",
+                "answer": {
+                    "number": "6.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ff7d0f525b3be596a51fb919492c099c"
+            }
+        ]
+    },
+    "passage_24": {
+        "passage": "In Haley’s class, 5 are boys who love to play marbles",
+        "qa_pairs": [
+            {
+                "question": " If Haley has 35 marbles, how many will each of the boys receive?",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7d2b92b6726c241134dae6cd3fb8c182"
+            }
+        ]
+    },
+    "passage_8": {
+        "passage": "Marilyn has 40 bananas that must be put away in boxes. Daniel comes to help and brings 10 cookies to share with Marilyn",
+        "qa_pairs": [
+            {
+                "question": " If there are 8 boxes, how many bananas must go in each box?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6766aa2750c19aad2fa1b32f36ed4aee"
+            }
+        ]
+    },
+    "passage_2": {
+        "passage": "A bathing suit manufacturer has a supply of 14,797 bathing suits for men. In addition, it has 4,969 bathing suits for women",
+        "qa_pairs": [
+            {
+                "question": " How many bathing suits are available overall?",
+                "answer": {
+                    "number": "19766",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d1e946f4e67db4b362ad23818a6fb78a"
+            }
+        ]
+    },
+    "passage_38": {
+        "passage": "Mrs. Hilt saw 144 bees in the hive. The next day she saw 3 times that many",
+        "qa_pairs": [
+            {
+                "question": " How many bees did she see on the second day?",
+                "answer": {
+                    "number": "432",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "71e09b16e21f7b6919bbfc43f6a5b2f0"
+            }
+        ]
+    }
+}

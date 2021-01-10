@@ -1,0 +1,1082 @@
+{
+    "passage_1": {
+        "passage": "As part of a lesson on earthquakes, a science class is researching the movement of a nearby fault line.  The fault line moved 1. 25 inches during the past year and 5. 25 inches the year before",
+        "qa_pairs": [
+            {
+                "question": " How far did the fault line move in all?",
+                "query_id": "ff7d0f525b3be596a51fb919492c099c"
+            }
+        ]
+    },
+    "passage_2": {
+        "passage": "There are 47 orchid bushes currently in the park .  Park workers will plant 37 orchid bushes today and 25 orchid bushes tomorrow .  It took 35 workers to finish the work ",
+        "qa_pairs": [
+            {
+                "question": " How many orchid bushes will the park have when the workers are finished ? ",
+                "query_id": "cf004fdc76fa1a4f25f62e0eb5261ca3"
+            }
+        ]
+    },
+    "passage_3": {
+        "passage": "A bathing suit manufacturer has a supply of 14,797 bathing suits for men.  In addition, it has 4,969 bathing suits for women",
+        "qa_pairs": [
+            {
+                "question": " How many bathing suits are available overall?",
+                "query_id": "d1e946f4e67db4b362ad23818a6fb78a"
+            }
+        ]
+    },
+    "passage_4": {
+        "passage": "Sam had 98 pennies in his bank.  He spent 93 of his pennies",
+        "qa_pairs": [
+            {
+                "question": " How many pennies does he have now ?",
+                "query_id": "81c650caac28cdefce4de5ddc18befa0"
+            }
+        ]
+    },
+    "passage_5": {
+        "passage": "Nicole found an orange caterpillar and a green caterpillar in her backyard.  The green caterpillar was 3 inches long and the orange caterpillar was 1. 1666666666666667 inches long",
+        "qa_pairs": [
+            {
+                "question": " How much longer was the green caterpillar than the orange caterpillar?",
+                "query_id": "b432f34c5a997c8e7c806a895ecc5e25"
+            }
+        ]
+    },
+    "passage_6": {
+        "passage": "There is 0. 16666666666666666 cup of oil in Scarlett 's measuring cup .  If Scarlett adds 0",
+        "qa_pairs": [
+            {
+                "question": "6666666666666666 cup more , how much oil will be in the measuring cup ? ",
+                "query_id": "31fefc0e570cb3860f2a6d4b38c6490d"
+            }
+        ]
+    },
+    "passage_7": {
+        "passage": "Dan had 7 potatoes and 4 cantelopes in the garden .  The rabbits ate 4 of the potatoes ",
+        "qa_pairs": [
+            {
+                "question": " How many potatoes does Dan now have ? ",
+                "query_id": "577bcc914f9e55d5e4e4f82f9f00e7d4"
+            }
+        ]
+    },
+    "passage_8": {
+        "passage": " For the fifth grade play, the chairs have been put into 27 rows with 16 chairs in each row",
+        "qa_pairs": [
+            {
+                "question": " How many chairs have been put out for the play?",
+                "query_id": "d554f7bb7be44a7267068a7df88ddd20"
+            }
+        ]
+    },
+    "passage_9": {
+        "passage": "Marilyn has 40 bananas that must be put away in boxes.  Daniel comes to help and brings 10 cookies to share with Marilyn",
+        "qa_pairs": [
+            {
+                "question": " If there are 8 boxes, how many bananas must go in each box?",
+                "query_id": "6766aa2750c19aad2fa1b32f36ed4aee"
+            }
+        ]
+    },
+    "passage_10": {
+        "passage": "There are 7 students in the class and 56 eggs",
+        "qa_pairs": [
+            {
+                "question": " If the eggs are divided equally among the students, how many does each student get?",
+                "query_id": "5e388103a391daabe3de1d76a6739ccd"
+            }
+        ]
+    },
+    "passage_11": {
+        "passage": "Freeport McMoran projects the world grain supply will be 1800000 metric tons and the supply will be only 0. 75 of the world grain demand",
+        "qa_pairs": [
+            {
+                "question": " What will the world grain demand be?",
+                "query_id": "2eace51d8f796d04991c831a07059758"
+            }
+        ]
+    },
+    "passage_12": {
+        "passage": "The junior ranger asked Christian to help him place 420 seedlings in packets",
+        "qa_pairs": [
+            {
+                "question": " If every packet needs to contain 7 seeds, how many packets do they need?",
+                "query_id": "3683af9d6f6c06acee72992f2977f67e"
+            }
+        ]
+    },
+    "passage_13": {
+        "passage": "Martha is inviting 4 friends to a party.  She has 12 cookies",
+        "qa_pairs": [
+            {
+                "question": " How many cookies will each friend get?",
+                "query_id": "94c7bb58efc3b337800875b5d382a072"
+            }
+        ]
+    },
+    "passage_14": {
+        "passage": "Kenji and his classmates placed colored blocks on a scale during a science lab.  The yellow block weighed 0. 6 pounds and the green block weighed 0. 4 pounds",
+        "qa_pairs": [
+            {
+                "question": " How much more did the yellow block weigh than the green block?",
+                "query_id": "333222170ab9edca4785c39f55221fe7"
+            }
+        ]
+    },
+    "passage_15": {
+        "passage": "Lemon heads come in packages of 6.  Louis ate 54 Lemon Heads",
+        "qa_pairs": [
+            {
+                "question": " How many whole boxes did he eat and how many Lemon Heads does he have left?",
+                "query_id": "3493894fa4ea036cfc6433c3e2ee63b0"
+            }
+        ]
+    },
+    "passage_16": {
+        "passage": "Eve ran 0. 7 of a mile and walked 0. 6 of a mile",
+        "qa_pairs": [
+            {
+                "question": " How much farther did Eve run than walk?",
+                "query_id": "7e9e346dc5fd268b49bf418523af8679"
+            }
+        ]
+    },
+    "passage_17": {
+        "passage": " 6 students were sitting at each table in the lunchroom.  There are 34 tables",
+        "qa_pairs": [
+            {
+                "question": " How many students were sitting in the lunchroom?",
+                "query_id": "0efe32849d230d7f53049ddc4a4b0c60"
+            }
+        ]
+    },
+    "passage_18": {
+        "passage": "There are 88 candies in a box.  Lisa has 18 candies in a bag.  Diana takes 6 candies out of the box",
+        "qa_pairs": [
+            {
+                "question": " How many candies are left in the box?",
+                "query_id": "233509073ed3432027d48b1a83f5fbd2"
+            }
+        ]
+    },
+    "passage_19": {
+        "passage": "This afternoon Craig left school , rode the bus 3. 8333333333333335 miles , and then walked 0. 16666666666666666 mile to get home ",
+        "qa_pairs": [
+            {
+                "question": " How much farther did Craig ride than walk ? ",
+                "query_id": "01161aaa0b6d1345dd8fe4e481144d84"
+            }
+        ]
+    },
+    "passage_20": {
+        "passage": "While making desserts for a bake sale, Victor used 0. 625 of a scoop of brown sugar as well as 0. 25 of a scoop of white sugar",
+        "qa_pairs": [
+            {
+                "question": " How much more brown sugar did Victor use?",
+                "query_id": "958adb57686c2fdec5796398de5f317a"
+            }
+        ]
+    },
+    "passage_21": {
+        "passage": "There were a total of 6 soccer games this year.  Jessica missed 4 of the games",
+        "qa_pairs": [
+            {
+                "question": " How many soccer games did Jessica go to in all ?",
+                "query_id": "955a1584af63a546588caae4d23840b3"
+            }
+        ]
+    },
+    "passage_22": {
+        "passage": " Bobby ate 26 pieces of candy.  Then, he ate 17 more",
+        "qa_pairs": [
+            {
+                "question": " How many pieces of candy did Bobby eat?",
+                "query_id": "aba3b6fd5d186d28e06ff97135cade7f"
+            }
+        ]
+    },
+    "passage_23": {
+        "passage": "There are 11 rulers and 34 crayons in the drawer .  Tim placed 14 rulers in the drawer ",
+        "qa_pairs": [
+            {
+                "question": " How many rulers are now there in all ? ",
+                "query_id": "6ea9ab1baa0efb9e19094440c317e21b"
+            }
+        ]
+    },
+    "passage_24": {
+        "passage": "Jose wandered 4 kilometers at 2 kilometers per hour",
+        "qa_pairs": [
+            {
+                "question": " How long did Jose wander?",
+                "query_id": "b7b16ecf8ca53723593894116071700c"
+            }
+        ]
+    },
+    "passage_25": {
+        "passage": "In Haley’s class, 5 are boys who love to play marbles",
+        "qa_pairs": [
+            {
+                "question": " If Haley has 35 marbles, how many will each of the boys receive?",
+                "query_id": "7d2b92b6726c241134dae6cd3fb8c182"
+            }
+        ]
+    },
+    "passage_26": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "If Victor split 25 Skittles between 5 people in her class and kept the left overs, how many Skittles did each classmate get?",
+                "query_id": "605ff764c617d3cd28dbbdd72be8f9a2"
+            }
+        ]
+    },
+    "passage_27": {
+        "passage": "Sandy grew 6 carrots .  Sam grew 3 carrots ",
+        "qa_pairs": [
+            {
+                "question": " How many carrots did they grow in total ? ",
+                "query_id": "c74d97b01eae257e44aa9d5bade97baf"
+            }
+        ]
+    },
+    "passage_28": {
+        "passage": " It takes 4 feet of cotton to make a tee-shirt",
+        "qa_pairs": [
+            {
+                "question": " How many tee-shirts can be made with 60 feet of material?",
+                "query_id": "b86e8d03fe992d1b0e19656875ee557c"
+            }
+        ]
+    },
+    "passage_29": {
+        "passage": " Albert’s cabbage patch has 12 rows of cabbage.  In each row, there are 15 heads of cabbage",
+        "qa_pairs": [
+            {
+                "question": " How many heads of cabbage does Albert have in  all?",
+                "query_id": "f57a2f557b098c43f11ab969efe1504b"
+            }
+        ]
+    },
+    "passage_30": {
+        "passage": " Mrs.  Hilt saw 144 bees in the hive.  The next day she saw 3 times that many",
+        "qa_pairs": [
+            {
+                "question": " How many bees did she see on the second day?",
+                "query_id": "4b0250793549726d5c1ea3906726ebfe"
+            }
+        ]
+    },
+    "passage_31": {
+        "passage": "Stephanie went to the store 8 times last month.  She buys 2 oranges each time she goes to the store",
+        "qa_pairs": [
+            {
+                "question": " How many oranges did Stephanie buy last month?",
+                "query_id": "d64a340bcb633f536d56e51874281454"
+            }
+        ]
+    },
+    "passage_32": {
+        "passage": "Sara has saved 11 quarters from washing cars",
+        "qa_pairs": [
+            {
+                "question": "  How many cents does Sara have ?",
+                "query_id": "3e7e0224018ab3cf51abb96464d518cd"
+            }
+        ]
+    },
+    "passage_33": {
+        "passage": "There are 2 bananas in a pile on the desk.  Each banana comes in a package of 17.  7 bananas are added to the pile",
+        "qa_pairs": [
+            {
+                "question": " How many bananas are there in the pile?",
+                "query_id": "3435c378bb76d4357324dd7e69f3cd18"
+            }
+        ]
+    },
+    "passage_34": {
+        "passage": " There are 64 pigs in the barn.  Some more come to join them.  Now there are 86 pigs",
+        "qa_pairs": [
+            {
+                "question": " How many pigs came to join  them?",
+                "query_id": "4b04a686b0ad13dce35fa99fa4161c65"
+            }
+        ]
+    },
+    "passage_35": {
+        "passage": "The school is planning a field trip.  There are 14 students and 2 seats on each school bus",
+        "qa_pairs": [
+            {
+                "question": " How many buses are needed to take the trip?",
+                "query_id": "7dcd340d84f762eba80aa538b0c527f7"
+            }
+        ]
+    },
+    "passage_36": {
+        "passage": "A bee colony produced 0. 36 pounds of honey, but bears ate 0. 05 pounds of it",
+        "qa_pairs": [
+            {
+                "question": " How much honey remains?",
+                "query_id": "139f0874f2ded2e41b0393c4ac5644f7"
+            }
+        ]
+    },
+    "passage_37": {
+        "passage": "There were a total of 27 soccer games during the 3 month season",
+        "qa_pairs": [
+            {
+                "question": "  If the games are equally divided, how many soccer games are played a month ?",
+                "query_id": "c0560792e4a3c79e62f76cbf9fb277dd"
+            }
+        ]
+    },
+    "passage_38": {
+        "passage": " My car gets 20 miles per gallon",
+        "qa_pairs": [
+            {
+                "question": " How many miles can I drive on 5 gallons of gas?",
+                "query_id": "f4552671f8909587cf485ea990207f3b"
+            }
+        ]
+    },
+    "passage_39": {
+        "passage": "Mrs.  Hilt saw 144 bees in the hive.  The next day she saw 3 times that many",
+        "qa_pairs": [
+            {
+                "question": " How many bees did she see on the second day?",
+                "query_id": "71e09b16e21f7b6919bbfc43f6a5b2f0"
+            }
+        ]
+    },
+    "passage_40": {
+        "passage": "Jenny sold 24 boxes of Trefoils",
+        "qa_pairs": [
+            {
+                "question": " How many cases of 8 boxes, plus extra boxes does Jenny need to deliver?",
+                "query_id": "766ebcd59621e305170616ba3d3dac32"
+            }
+        ]
+    },
+    "passage_41": {
+        "passage": "The school is planning a field trip.  There are 14 students and 2 seats on each school bus",
+        "qa_pairs": [
+            {
+                "question": " How many buses are needed to take the trip?",
+                "query_id": "7dcd340d84f762eba80aa538b0c527f7"
+            }
+        ]
+    },
+    "passage_42": {
+        "passage": "Jenny sold 24 boxes of Trefoils",
+        "qa_pairs": [
+            {
+                "question": " How many cases of 8 boxes, plus extra boxes does Jenny need to deliver?",
+                "query_id": "766ebcd59621e305170616ba3d3dac32"
+            }
+        ]
+    },
+    "passage_43": {
+        "passage": "The junior ranger asked Christian to help him place 420 seedlings in packets",
+        "qa_pairs": [
+            {
+                "question": " If every packet needs to contain 7 seeds, how many packets do they need?",
+                "query_id": "3683af9d6f6c06acee72992f2977f67e"
+            }
+        ]
+    },
+    "passage_44": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "If Victor split 25 Skittles between 5 people in her class and kept the left overs, how many Skittles did each classmate get?",
+                "query_id": "605ff764c617d3cd28dbbdd72be8f9a2"
+            }
+        ]
+    },
+    "passage_45": {
+        "passage": "Marilyn has 40 bananas that must be put away in boxes.  Daniel comes to help and brings 10 cookies to share with Marilyn",
+        "qa_pairs": [
+            {
+                "question": " If there are 8 boxes, how many bananas must go in each box?",
+                "query_id": "6766aa2750c19aad2fa1b32f36ed4aee"
+            }
+        ]
+    },
+    "passage_46": {
+        "passage": "Mrs.  Hilt saw 144 bees in the hive.  The next day she saw 3 times that many",
+        "qa_pairs": [
+            {
+                "question": " How many bees did she see on the second day?",
+                "query_id": "71e09b16e21f7b6919bbfc43f6a5b2f0"
+            }
+        ]
+    },
+    "passage_47": {
+        "passage": " Dave was helping the cafeteria workers pick up lunch trays, but he could only carry 9 trays at a time",
+        "qa_pairs": [
+            {
+                "question": " If he had to pick up 17 trays from one table and 55 trays from another, how many trips will he make? ",
+                "query_id": "242c100dc94f871b6d7215b868a875f8"
+            }
+        ]
+    },
+    "passage_48": {
+        "passage": "Sara has saved 11 quarters from washing cars",
+        "qa_pairs": [
+            {
+                "question": "  How many cents does Sara have ?",
+                "query_id": "3e7e0224018ab3cf51abb96464d518cd"
+            }
+        ]
+    },
+    "passage_49": {
+        "passage": " A toy store had 6 giant stuffed bears in stock when they got another shipment with 18 bears in it.  The put the bears onto shelves with 6 on each shelf",
+        "qa_pairs": [
+            {
+                "question": " How many shelves did they use? ",
+                "query_id": "a51fb975227d6640e4fe47854476d133"
+            }
+        ]
+    },
+    "passage_50": {
+        "passage": " A waiter at 'The Greasy Spoon' restaurant had 26 customers to wait on.  During the lunch rush he added another 27 customers",
+        "qa_pairs": [
+            {
+                "question": " If 27 of the customers didn't leave him a tip, how many customers did leave a tip? ",
+                "query_id": "1579779b98ce9edb98dd85606f2c119d"
+            }
+        ]
+    },
+    "passage_51": {
+        "passage": " In a video game, each enemy defeated gives you 5 points",
+        "qa_pairs": [
+            {
+                "question": " If a level has 8 enemies total and you destroy all but 6 of them, how many points would you earn? ",
+                "query_id": "d82118376df344b0010f53909b961db3"
+            }
+        ]
+    },
+    "passage_52": {
+        "passage": "Martha is inviting 4 friends to a party.  She has 12 cookies",
+        "qa_pairs": [
+            {
+                "question": " How many cookies will each friend get?",
+                "query_id": "94c7bb58efc3b337800875b5d382a072"
+            }
+        ]
+    },
+    "passage_53": {
+        "passage": " A pet shelter had 3 puppies when another 3 were brought in",
+        "qa_pairs": [
+            {
+                "question": " If 3 puppies a day are adopted, how long would it take for all of them to be adopted? ",
+                "query_id": "28e209b61a52482a0ae1cb9f5959c792"
+            }
+        ]
+    },
+    "passage_54": {
+        "passage": " Oliver had 35 dollars.  For his birthday he got 50 more dollars but spent 84 on a new game",
+        "qa_pairs": [
+            {
+                "question": " How much money does he have now? ",
+                "query_id": "d7322ed717dedf1eb4e6e52a37ea7bcd"
+            }
+        ]
+    },
+    "passage_55": {
+        "passage": " For the fifth grade play, the chairs have been put into 27 rows with 16 chairs in each row",
+        "qa_pairs": [
+            {
+                "question": " How many chairs have been put out for the play?",
+                "query_id": "d554f7bb7be44a7267068a7df88ddd20"
+            }
+        ]
+    },
+    "passage_56": {
+        "passage": " For Halloween Bianca received 32 pieces of candy.  She ate 12 pieces then placed the rest into piles with 5 in each pile",
+        "qa_pairs": [
+            {
+                "question": " How many piles could she make? ",
+                "query_id": "aff0a6a4521232970b2c1cf539ad0a19"
+            }
+        ]
+    },
+    "passage_57": {
+        "passage": " Lana was unboxing some of her old winter clothes.  She found 4 boxes of clothing and inside each box there were 2 scarves and 6 mittens",
+        "qa_pairs": [
+            {
+                "question": " How many pieces of winter clothing did Lana have total? ",
+                "query_id": "905056c1ac1dad141560467e0a99e1cf"
+            }
+        ]
+    },
+    "passage_58": {
+        "passage": " It takes 4 feet of cotton to make a tee-shirt",
+        "qa_pairs": [
+            {
+                "question": " How many tee-shirts can be made with 60 feet of material?",
+                "query_id": "b86e8d03fe992d1b0e19656875ee557c"
+            }
+        ]
+    },
+    "passage_59": {
+        "passage": "In Haley’s class, 5 are boys who love to play marbles",
+        "qa_pairs": [
+            {
+                "question": " If Haley has 35 marbles, how many will each of the boys receive?",
+                "query_id": "7d2b92b6726c241134dae6cd3fb8c182"
+            }
+        ]
+    },
+    "passage_60": {
+        "passage": "There are 7 students in the class and 56 eggs",
+        "qa_pairs": [
+            {
+                "question": " If the eggs are divided equally among the students, how many does each student get?",
+                "query_id": "5e388103a391daabe3de1d76a6739ccd"
+            }
+        ]
+    },
+    "passage_61": {
+        "passage": "Lemon heads come in packages of 6.  Louis ate 54 Lemon Heads",
+        "qa_pairs": [
+            {
+                "question": " How many whole boxes did he eat and how many Lemon Heads does he have left?",
+                "query_id": "3493894fa4ea036cfc6433c3e2ee63b0"
+            }
+        ]
+    },
+    "passage_62": {
+        "passage": " A waiter had 21 customers in his section",
+        "qa_pairs": [
+            {
+                "question": " If 12 of them left and the rest of his tables had 3 people at each table, how many tables did he have? ",
+                "query_id": "55c567fd4395ecef6d936cf77b8d5b2b"
+            }
+        ]
+    },
+    "passage_63": {
+        "passage": " My car gets 20 miles per gallon",
+        "qa_pairs": [
+            {
+                "question": " How many miles can I drive on 5 gallons of gas?",
+                "query_id": "f4552671f8909587cf485ea990207f3b"
+            }
+        ]
+    },
+    "passage_64": {
+        "passage": "Johnny saved $30 in September.  He saved $49 in October and $46 in November.  Then Johnny spent $58 on a video game",
+        "qa_pairs": [
+            {
+                "question": " How much money does Johnny have left?",
+                "query_id": "0e087ec55dcbe7b2d7992d6b69b519fb"
+            }
+        ]
+    },
+    "passage_65": {
+        "passage": "Freeport McMoran projects the world grain supply will be 1800000 metric tons and the supply will be only 0. 75 of the world grain demand",
+        "qa_pairs": [
+            {
+                "question": " What will the world grain demand be?",
+                "query_id": "2eace51d8f796d04991c831a07059758"
+            }
+        ]
+    },
+    "passage_66": {
+        "passage": " Sam had to wash 40 short sleeve shirts and 23 long sleeve shirts before school",
+        "qa_pairs": [
+            {
+                "question": " If he had only washed 29 of them by the time school started, how many did he not wash? ",
+                "query_id": "d79aac075930c83c2f1e369a511148fe"
+            }
+        ]
+    },
+    "passage_67": {
+        "passage": " In a video game, each enemy defeated gives you 3 points",
+        "qa_pairs": [
+            {
+                "question": " If a level has 6 enemies total and you destroy all but 2 of them, how many points would you earn? ",
+                "query_id": "a9be4c2a4041cadbf9d61ae16dd1389e"
+            }
+        ]
+    },
+    "passage_68": {
+        "passage": " Bianca uploaded 33 pictures to Facebook.  She put 27 pics into one album and put the rest into 3 different albums",
+        "qa_pairs": [
+            {
+                "question": " How many pictures were in each album? ",
+                "query_id": "86df7dcfd896fcaf2674f757a2463eba"
+            }
+        ]
+    },
+    "passage_69": {
+        "passage": " A waiter had 9 tables he was waiting on, with 7 women and 3 men at each table",
+        "qa_pairs": [
+            {
+                "question": " How many customers total did the waiter have? ",
+                "query_id": "a8240cb8235e9c493a0c30607586166c"
+            }
+        ]
+    },
+    "passage_70": {
+        "passage": " In a video game, each enemy defeated gives you 7 points",
+        "qa_pairs": [
+            {
+                "question": " If a level has 11 enemies total and you destroy all but 8 of them, how many points would you earn? ",
+                "query_id": "b197ffdef2ddc3308584dce7afa3661b"
+            }
+        ]
+    },
+    "passage_71": {
+        "passage": "Stephanie went to the store 8 times last month.  She buys 2 oranges each time she goes to the store",
+        "qa_pairs": [
+            {
+                "question": " How many oranges did Stephanie buy last month?",
+                "query_id": "d64a340bcb633f536d56e51874281454"
+            }
+        ]
+    },
+    "passage_72": {
+        "passage": " There are 64 students trying out for the school's trivia teams",
+        "qa_pairs": [
+            {
+                "question": " If 36 of them didn't get picked for the team and the rest were put into 4 groups, how many students would be in each group? ",
+                "query_id": "226d1f15ecd35f784d2a20c3ecf56d7f"
+            }
+        ]
+    },
+    "passage_73": {
+        "passage": " 6 students were sitting at each table in the lunchroom.  There are 34 tables",
+        "qa_pairs": [
+            {
+                "question": " How many students were sitting in the lunchroom?",
+                "query_id": "0efe32849d230d7f53049ddc4a4b0c60"
+            }
+        ]
+    },
+    "passage_74": {
+        "passage": " While playing at the arcade, Edward won 3 tickets playing 'whack a mole' and 5 tickets playing 'skee ball'",
+        "qa_pairs": [
+            {
+                "question": " If he was trying to buy candy that cost 4 tickets a piece, how many could he buy? ",
+                "query_id": "7c82fab8c8f89124e2ce92984e04fb40"
+            }
+        ]
+    },
+    "passage_75": {
+        "passage": " While shopping for music online, Janet bought 6 country albums and 2 pop albums.  Each album came with a lyric sheet and had 9 songs",
+        "qa_pairs": [
+            {
+                "question": " How many songs did Janet buy total? ",
+                "query_id": "884ce4bb65d328ecb03c598409e2b168"
+            }
+        ]
+    },
+    "passage_76": {
+        "passage": " Mrs.  Hilt saw 144 bees in the hive.  The next day she saw 3 times that many",
+        "qa_pairs": [
+            {
+                "question": " How many bees did she see on the second day?",
+                "query_id": "4b0250793549726d5c1ea3906726ebfe"
+            }
+        ]
+    },
+    "passage_77": {
+        "passage": " Albert’s cabbage patch has 12 rows of cabbage.  In each row, there are 15 heads of cabbage",
+        "qa_pairs": [
+            {
+                "question": " How many heads of cabbage does Albert have in  all?",
+                "query_id": "f57a2f557b098c43f11ab969efe1504b"
+            }
+        ]
+    },
+    "passage_78": {
+        "passage": " Tom bought 14 boxes of chocolate candy and gave 8 to his little brother",
+        "qa_pairs": [
+            {
+                "question": " If each box has 3 pieces inside it, how many pieces did Tom still have? ",
+                "query_id": "56468d5607a5aaf1604ff5e15593b003"
+            }
+        ]
+    },
+    "passage_79": {
+        "passage": "Manuel opened a savings account with an initial deposit of 177 dollars",
+        "qa_pairs": [
+            {
+                "question": " If he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars?",
+                "query_id": "52dbb0686f8bd0c0c757acf716e28ec0"
+            }
+        ]
+    },
+    "passage_80": {
+        "passage": "There were a total of 27 soccer games during the 3 month season",
+        "qa_pairs": [
+            {
+                "question": "  If the games are equally divided, how many soccer games are played a month ?",
+                "query_id": "c0560792e4a3c79e62f76cbf9fb277dd"
+            }
+        ]
+    },
+    "passage_81": {
+        "passage": "One number is 3 more than twice a second number.  Their sum is 27.  Find the smaller number.  Find the larger number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "query_id": "25db67c5657914454081c6a18e93d6dd"
+            }
+        ]
+    },
+    "passage_82": {
+        "passage": " Bianca uploaded 33 pictures to Facebook.  She put 27 pics into one album and put the rest into 3 different albums",
+        "qa_pairs": [
+            {
+                "question": " How many pictures were in each album? ",
+                "query_id": "86df7dcfd896fcaf2674f757a2463eba"
+            }
+        ]
+    },
+    "passage_83": {
+        "passage": " Lana was unboxing some of her old winter clothes.  She found 4 boxes of clothing and inside each box there were 2 scarves and 6 mittens",
+        "qa_pairs": [
+            {
+                "question": " How many pieces of winter clothing did Lana have total? ",
+                "query_id": "905056c1ac1dad141560467e0a99e1cf"
+            }
+        ]
+    },
+    "passage_84": {
+        "passage": "Twice a number increased by 5 is 17.  Find the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "query_id": "52cf49fea5ff66588408852f65cf8272"
+            }
+        ]
+    },
+    "passage_85": {
+        "passage": " There are 64 students trying out for the school's trivia teams",
+        "qa_pairs": [
+            {
+                "question": " If 36 of them didn't get picked for the team and the rest were put into 4 groups, how many students would be in each group? ",
+                "query_id": "226d1f15ecd35f784d2a20c3ecf56d7f"
+            }
+        ]
+    },
+    "passage_86": {
+        "passage": "A direct flight on delta air lines from Atlanta to Paris is 4000 miles and takes approximately 8 hours going East and 10 hours going West.  Although the plane averages the same airspeed , there is a headwind while traveling East , resulting in a different air speeds",
+        "qa_pairs": [
+            {
+                "question": " What is the average air speed of the plane in miles per hour and the average wind speed? ",
+                "query_id": "cbf8710b43df3f2c1553e649403426df"
+            }
+        ]
+    },
+    "passage_87": {
+        "passage": "On a canoe trip , Rita paddled upstream at an average speed of 2 miles per hour relative to the riverbank.  On the return trip downstream, her average speed was 3 miles per hour.  Find Rita 's paddling speed in still water and the speed of the river 's current",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "query_id": "217c0e01c1828e7279051f1b6675745d"
+            }
+        ]
+    },
+    "passage_88": {
+        "passage": "Tim and Judy mix two kinds of feed for pedigreed dogs.  They wish to make 35 pounds of feed worth 0. 36 dollars per pound by mixing one kind worth 0. 18 dollars per pound with another worth 0. 53 dollars per pound",
+        "qa_pairs": [
+            {
+                "question": " How many pounds of the cheaper kind should they use in the mix?",
+                "query_id": "e6c2dc3dee4a51dcec3a876aa2339a78"
+            }
+        ]
+    },
+    "passage_89": {
+        "passage": "Two cars leave the same point , traveling in opposite directions.  If one travels at a constant speed of 52 miles per hour and the other travels at a constant speed of 58 miles per hour",
+        "qa_pairs": [
+            {
+                "question": " In how many hours will they be 385 miles apart? ",
+                "query_id": "ae1eaa32d10b6c886981755d579fb4d8"
+            }
+        ]
+    },
+    "passage_90": {
+        "passage": "Tickets at a local theater cost 6 dollars for adults and 2 dollars dollars for kids under twelve",
+        "qa_pairs": [
+            {
+                "question": " If 175 tickets were sold and the profit was 750 dollars , how many kid tickets were sold? ",
+                "query_id": "cf05968255451bdefe3c5bc64d550517"
+            }
+        ]
+    },
+    "passage_91": {
+        "passage": " While shopping for music online, Janet bought 6 country albums and 2 pop albums.  Each album came with a lyric sheet and had 9 songs",
+        "qa_pairs": [
+            {
+                "question": " How many songs did Janet buy total? ",
+                "query_id": "884ce4bb65d328ecb03c598409e2b168"
+            }
+        ]
+    },
+    "passage_92": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "How many milliliters of a 10 % HCL solution should be combined with a 60 % HCL solution in order to get 50 milliliters of a 30 % HCL solution?",
+                "query_id": "b3f61131b6eceeb2b14835fa648a48ff"
+            }
+        ]
+    },
+    "passage_93": {
+        "passage": "The total cost of a pair of pants and a belt was 70. 93 dollars.  If the price of the pair of pants was 2",
+        "qa_pairs": [
+            {
+                "question": "93 dollars less than the belt , what was the price of the pair of pants? ",
+                "query_id": "f55cadb97eaff2ba1980e001b0bd9842"
+            }
+        ]
+    },
+    "passage_94": {
+        "passage": " A pet shelter had 3 puppies when another 3 were brought in",
+        "qa_pairs": [
+            {
+                "question": " If 3 puppies a day are adopted, how long would it take for all of them to be adopted? ",
+                "query_id": "28e209b61a52482a0ae1cb9f5959c792"
+            }
+        ]
+    },
+    "passage_95": {
+        "passage": "The second of two numbers is 4 more than the first.  The sum is 56.  Find the first and second numbers",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "query_id": "0f46c64b74a6c964c674853a89796c8e"
+            }
+        ]
+    },
+    "passage_96": {
+        "passage": " A waiter had 9 tables he was waiting on, with 7 women and 3 men at each table",
+        "qa_pairs": [
+            {
+                "question": " How many customers total did the waiter have? ",
+                "query_id": "a8240cb8235e9c493a0c30607586166c"
+            }
+        ]
+    },
+    "passage_97": {
+        "passage": " A waiter at 'The Greasy Spoon' restaurant had 26 customers to wait on.  During the lunch rush he added another 27 customers",
+        "qa_pairs": [
+            {
+                "question": " If 27 of the customers didn't leave him a tip, how many customers did leave a tip? ",
+                "query_id": "1579779b98ce9edb98dd85606f2c119d"
+            }
+        ]
+    },
+    "passage_98": {
+        "passage": "A person wishes to invest 2,400. 00 dollars , part at 9 % and part at 6 %.  If the total interest desired at the end of the year is 189",
+        "qa_pairs": [
+            {
+                "question": "00 dollars , how much should be invested at each rate? ",
+                "query_id": "b53477c2821c1bf0da5d40e57b870d35"
+            }
+        ]
+    },
+    "passage_99": {
+        "passage": "A dealer has some hard candy worth 2 dollars a pound and some worth 3 dollars a pound.  He wishes to make a mixture of 80 pounds that he can sell for 2. 20 dollars per pound",
+        "qa_pairs": [
+            {
+                "question": " How many pounds of each kind should he use?",
+                "query_id": "d4dd111a4fd973394238aca5c05bebe3"
+            }
+        ]
+    },
+    "passage_100": {
+        "passage": "Sunshine Car Rentals rents a basic car at a daily rate of 17. 99 dollars plus 0. 18 per mile.  City Rentals rents a basic car at 18. 95 dollars plus 0. 16 per mile",
+        "qa_pairs": [
+            {
+                "question": " For what mileage is the cost the same? ",
+                "query_id": "32e05616c8ed659463f9af00b142dd6f"
+            }
+        ]
+    },
+    "passage_101": {
+        "passage": "A chemist has one solution that is 15 % acid and a second that is 25 % acid",
+        "qa_pairs": [
+            {
+                "question": " How many liters of each should be mixed together to get 100 liters that is 18 % acid?",
+                "query_id": "b0b79da57b95837f14be95aaa4d54cf8"
+            }
+        ]
+    },
+    "passage_102": {
+        "passage": "You have 30 total items that consist of hats and boots.  The total cost is 190. 00 dollars.  Boots cost 9. 00 dollars and hats cost 5. 00 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many boots are there? How many hats?",
+                "query_id": "1c6a0198177bfcc9bd93f6aab94aad3c"
+            }
+        ]
+    },
+    "passage_103": {
+        "passage": " In a video game, each enemy defeated gives you 7 points",
+        "qa_pairs": [
+            {
+                "question": " If a level has 11 enemies total and you destroy all but 8 of them, how many points would you earn? ",
+                "query_id": "b197ffdef2ddc3308584dce7afa3661b"
+            }
+        ]
+    },
+    "passage_104": {
+        "passage": " A waiter had 21 customers in his section",
+        "qa_pairs": [
+            {
+                "question": " If 12 of them left and the rest of his tables had 3 people at each table, how many tables did he have? ",
+                "query_id": "55c567fd4395ecef6d936cf77b8d5b2b"
+            }
+        ]
+    },
+    "passage_105": {
+        "passage": " While playing at the arcade, Edward won 3 tickets playing 'whack a mole' and 5 tickets playing 'skee ball'",
+        "qa_pairs": [
+            {
+                "question": " If he was trying to buy candy that cost 4 tickets a piece, how many could he buy? ",
+                "query_id": "7c82fab8c8f89124e2ce92984e04fb40"
+            }
+        ]
+    },
+    "passage_106": {
+        "passage": "Find a number such that 1 more than 0. 6667 the number is 0. 75 the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "query_id": "c3a690be93aa602ee2dc0ccab5b7b67e"
+            }
+        ]
+    },
+    "passage_107": {
+        "passage": " For Halloween Bianca received 32 pieces of candy.  She ate 12 pieces then placed the rest into piles with 5 in each pile",
+        "qa_pairs": [
+            {
+                "question": " How many piles could she make? ",
+                "query_id": "aff0a6a4521232970b2c1cf539ad0a19"
+            }
+        ]
+    },
+    "passage_108": {
+        "passage": " A toy store had 6 giant stuffed bears in stock when they got another shipment with 18 bears in it.  The put the bears onto shelves with 6 on each shelf",
+        "qa_pairs": [
+            {
+                "question": " How many shelves did they use? ",
+                "query_id": "a51fb975227d6640e4fe47854476d133"
+            }
+        ]
+    },
+    "passage_109": {
+        "passage": "The number of boys in eighth grade is 16 less than twice the number of girls.  There are 68 students in eighth grade",
+        "qa_pairs": [
+            {
+                "question": " How many are girls?",
+                "query_id": "53f0d7c537d99b3824f0f99d62ea2428"
+            }
+        ]
+    },
+    "passage_110": {
+        "passage": "Manuel opened a savings account with an initial deposit of 177 dollars",
+        "qa_pairs": [
+            {
+                "question": " If he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars?",
+                "query_id": "52dbb0686f8bd0c0c757acf716e28ec0"
+            }
+        ]
+    },
+    "passage_111": {
+        "passage": "A rancher raises 5 times as many cows as horses",
+        "qa_pairs": [
+            {
+                "question": " If he has 168 animals , how many cows does he have? ",
+                "query_id": "ea204361fe7f024b130143eb3e189a18"
+            }
+        ]
+    },
+    "passage_112": {
+        "passage": " Tom bought 14 boxes of chocolate candy and gave 8 to his little brother",
+        "qa_pairs": [
+            {
+                "question": " If each box has 3 pieces inside it, how many pieces did Tom still have? ",
+                "query_id": "56468d5607a5aaf1604ff5e15593b003"
+            }
+        ]
+    },
+    "passage_113": {
+        "passage": "Johnny saved $30 in September.  He saved $49 in October and $46 in November.  Then Johnny spent $58 on a video game",
+        "qa_pairs": [
+            {
+                "question": " How much money does Johnny have left?",
+                "query_id": "0e087ec55dcbe7b2d7992d6b69b519fb"
+            }
+        ]
+    },
+    "passage_114": {
+        "passage": "The Drama Club sold 1,500 tickets for the end-of-year-performance.  Admission prices were 12 dollars for adults and 6 dollars for students.  The total amount collected at the box office was 16,200 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many students attended the play? How many adult attended the play? ",
+                "query_id": "4c8c76b39d294759a9000cbda3a6571a"
+            }
+        ]
+    },
+    "passage_115": {
+        "passage": " Dave was helping the cafeteria workers pick up lunch trays, but he could only carry 9 trays at a time",
+        "qa_pairs": [
+            {
+                "question": " If he had to pick up 17 trays from one table and 55 trays from another, how many trips will he make? ",
+                "query_id": "242c100dc94f871b6d7215b868a875f8"
+            }
+        ]
+    },
+    "passage_116": {
+        "passage": "Terry did all 25 problems on his test and got an 85.  Scores are computed by giving 4 points for each right answer and subtracting one point for each wrong answer",
+        "qa_pairs": [
+            {
+                "question": " How many problems did terry get right and wrong?",
+                "query_id": "d69116f8b0140cdeb1f99a4d5096ffe4"
+            }
+        ]
+    },
+    "passage_117": {
+        "passage": " Oliver had 35 dollars.  For his birthday he got 50 more dollars but spent 84 on a new game",
+        "qa_pairs": [
+            {
+                "question": " How much money does he have now? ",
+                "query_id": "d7322ed717dedf1eb4e6e52a37ea7bcd"
+            }
+        ]
+    },
+    "passage_118": {
+        "passage": " Sam had to wash 40 short sleeve shirts and 23 long sleeve shirts before school",
+        "qa_pairs": [
+            {
+                "question": " If he had only washed 29 of them by the time school started, how many did he not wash? ",
+                "query_id": "d79aac075930c83c2f1e369a511148fe"
+            }
+        ]
+    },
+    "passage_119": {
+        "passage": " In a video game, each enemy defeated gives you 5 points",
+        "qa_pairs": [
+            {
+                "question": " If a level has 8 enemies total and you destroy all but 6 of them, how many points would you earn? ",
+                "query_id": "d82118376df344b0010f53909b961db3"
+            }
+        ]
+    },
+    "passage_120": {
+        "passage": " In a video game, each enemy defeated gives you 3 points",
+        "qa_pairs": [
+            {
+                "question": " If a level has 6 enemies total and you destroy all but 2 of them, how many points would you earn? ",
+                "query_id": "a9be4c2a4041cadbf9d61ae16dd1389e"
+            }
+        ]
+    }
+}

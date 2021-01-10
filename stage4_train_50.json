@@ -1,0 +1,4250 @@
+{
+    "passage_0": {
+        "passage": "A 200 seat theater charges 3.00 dollars for adults and 1.50 dollars for children",
+        "qa_pairs": [
+            {
+                "question": " If all seats were filled and the total ticket income was 510 dollars how many adults and children were in the audience? ",
+                "answer": {
+                    "number": "140,60",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4aecfbe5d21e3f7912bf8eb29124423a"
+            }
+        ]
+    },
+    "passage_1": {
+        "passage": "A student is pricing 2 different picture packages. John 's Photo World charges 2.75 dollars per sheet and a one time sitting fee of 125 dollars. Sam 's Picture Emporium charges 1.50 dollars per sheet and a one time sitting fee of 140 dollars",
+        "qa_pairs": [
+            {
+                "question": " For how many sheets of pictures do the 2 companies charge the same amount?",
+                "answer": {
+                    "number": "12",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c5866e93cab1776890fe343c9e7063fb"
+            }
+        ]
+    },
+    "passage_2": {
+        "passage": "0.6667 of a number increased by 0.75 is 1",
+        "qa_pairs": [
+            {
+                "question": "6667 , what is the number? ",
+                "answer": {
+                    "number": "1.375",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "273448411df1962cba1db6c05b3213c9"
+            }
+        ]
+    },
+    "passage_3": {
+        "passage": "A cashier has a total of 126 bills , made up of 5-dollar bills and 10-dollar bills. The total value of the money is 840 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many 5-dollar bills does he have? How many 10-dollar bills? ",
+                "answer": {
+                    "number": "84,42",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a07c2f3b3b907aaf8436a26c6d77f0a2"
+            }
+        ]
+    },
+    "passage_4": {
+        "passage": "When 4 times the number is added to 7 times the number the result is 55",
+        "qa_pairs": [
+            {
+                "question": " What is the number?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "130f1a8e9e102707f3f91b010f151b0b"
+            }
+        ]
+    },
+    "passage_5": {
+        "passage": "Steve invests in a circus production. The coast includes an overhead of 81,000 dollars , plus production costs of 7,000 dollars per performance. A sold-out performance brings in 16,000 dollars , Determine the number of sold-out performances , x , needed to break even",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "86ecfcbc1e9f1ae5ee2d71910877da36"
+            }
+        ]
+    },
+    "passage_6": {
+        "passage": "A car rents for 30 dollars per day plus 18 cents per mile. You are on a budget of 75 dollars",
+        "qa_pairs": [
+            {
+                "question": " What mileage would allow you to stay within your budget?",
+                "answer": {
+                    "number": "250",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d5e2fbef30a4eb668a203060ec8e5eef"
+            }
+        ]
+    },
+    "passage_7": {
+        "passage": "One number is 3 less than twice another. If their sum is 39 , find the numbers",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "25,14",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f976b57bb9dd27aa2e7e7df2825893a6"
+            }
+        ]
+    },
+    "passage_8": {
+        "passage": "The difference between two numbers is 20 and their sum is 48. Find the numbers",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "34,14",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "24f0d2c90473b2bc949ad962e61d9bcb"
+            }
+        ]
+    },
+    "passage_9": {
+        "passage": "An athlete can burn 10 calories per minute while running and 4 calories per minute while walking",
+        "qa_pairs": [
+            {
+                "question": " If the athlete burns 450 calories in 60 minutes , how many minutes are spent running? How many minutes are spent walking? ",
+                "answer": {
+                    "number": "35,25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "af5d5ef24881f3c3049a7b9bfe74d58b"
+            }
+        ]
+    },
+    "passage_10": {
+        "passage": "Wal-Mart sells thermometers for 2 dollars and hot-water bottles for 6 dollars . In December , Wal-Mart 's total sales for these two items was 1200 dollars. Customers bought 7 times as many thermometers as hot-water bottles",
+        "qa_pairs": [
+            {
+                "question": " How many thermometers did Wal-Mart sell? How many hot-water bottles? ",
+                "answer": {
+                    "number": "420,60",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "23af4b45f1e166141a790d1a3126e77a"
+            }
+        ]
+    },
+    "passage_11": {
+        "passage": "There are 11 animals in a barnyard. Some are chickens and some are cows. There are 38 legs in all",
+        "qa_pairs": [
+            {
+                "question": " How many chickens and cows are in the barnyard?",
+                "answer": {
+                    "number": "3,8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2056d8c1dec3d12cbce646b348d189d1"
+            }
+        ]
+    },
+    "passage_12": {
+        "passage": "A woman is paid 20 dollars for each day she works and forfeits 5 dollars for each day she is idle. At the end of 25 days she nets 450 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many days did she work?",
+                "answer": {
+                    "number": "23",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d6bcb486f72ae7b5dc68b5b7df7ec887"
+            }
+        ]
+    },
+    "passage_13": {
+        "passage": "Safety Rent-a-Car rents an intermediate-size car at a daily rate of 21.95 dollars plus 0.19 per mile. City Rentals rent an intermediate-size car for 18.95 dollars plus 0.21 per mile",
+        "qa_pairs": [
+            {
+                "question": " For what milage is the cost the same? ",
+                "answer": {
+                    "number": "150",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "71560ce98c8250ce57a6a970c9991a5f"
+            }
+        ]
+    },
+    "passage_14": {
+        "passage": "A theater sold 900 tickets to a play. Floor seats cost 12 dollars each and balcony seats 10 dollars each. Total receipts were 9,780 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many floor seats were sold? How many balcony seats were sold? ",
+                "answer": {
+                    "number": "390,510",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ee26fc66b1369c7625333bedafbfcaf6"
+            }
+        ]
+    },
+    "passage_15": {
+        "passage": "The sum of 2 numbers is 64 and their difference is 18",
+        "qa_pairs": [
+            {
+                "question": " What is the first number? What is the second number?",
+                "answer": {
+                    "number": "41,23",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c3614206a443012045cfd75d2600af2d"
+            }
+        ]
+    },
+    "passage_16": {
+        "passage": "Suppose you invest 1,500 dollars in equipment to put pictures on T-shirts. You buy each T-shirt for 3 dollars. After you have placed the pictures on a shirt , you sell it for 20 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many T-shirts must you sell to break even? ",
+                "answer": {
+                    "number": "83",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8232e119d8f59aa83050a741631803a6"
+            }
+        ]
+    },
+    "passage_17": {
+        "passage": "Sara and Jim both decided to save some money each week. Sara has already saved 4100 dollars , and she plans to save 10 dollars a week. Jim plans to save 15 dollars a week",
+        "qa_pairs": [
+            {
+                "question": " In how many weeks will Jim and Sara have saved the same amount? ",
+                "answer": {
+                    "number": "820",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "40b5f25a228570053bc64a043c3f1833"
+            }
+        ]
+    },
+    "passage_18": {
+        "passage": "Find two numbers whose sum is 14 if one number is 3 times as large as the other number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "3.5,10.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e9412ee564384b987d086df32d4ce6b7"
+            }
+        ]
+    },
+    "passage_19": {
+        "passage": "In 1 week , a music store sold 9 guitars for a total of of 3611 dollars. Electric guitars sold for 479 dollars each and acoustic guitars sold for 339 dollars each",
+        "qa_pairs": [
+            {
+                "question": " How many electric guitars were sold? How many acoustic guitars were sold? ",
+                "answer": {
+                    "number": "4,5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d20be76a86c0d71c75035fced631f874"
+            }
+        ]
+    },
+    "passage_20": {
+        "passage": "An employment agency specializing in temporary construction help pays heavy equipment operators 140 dollars per day and general laborers 90 dollars per day",
+        "qa_pairs": [
+            {
+                "question": " If 35 people were hired and the payroll was 3950 dollars , how many heavy equipment operators were employed? How many laborers were employed? ",
+                "answer": {
+                    "number": "16,19",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a012869311d64a44b5a0d567cd20de04"
+            }
+        ]
+    },
+    "passage_21": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "Find the number whose double is 45 greater than its half?",
+                "answer": {
+                    "number": "30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7bc1ec1d9c3426357e69acd5bf320061"
+            }
+        ]
+    },
+    "passage_22": {
+        "passage": "A cosmetologist has a bottle of 7 % hydrogen peroxide solution and a bottle of 4 % hydrogen peroxide solution. The cosmetologist needs 300 milliliters of a 5 % hydrogen peroxide solution. Find how many milliliters of each solution the cosmetologist needs to mix together",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "100,200",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7827d1ec626c891d4b61a15c9dff296e"
+            }
+        ]
+    },
+    "passage_23": {
+        "passage": "A washer and a dryer cost 600 dollars combined. The price of the washer is 3 times the price of the dryer",
+        "qa_pairs": [
+            {
+                "question": " What is the cost of the dryer?",
+                "answer": {
+                    "number": "150",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5d6646aad9bcc0be55b2c82f69750387"
+            }
+        ]
+    },
+    "passage_24": {
+        "passage": "Tennis rackets can be packaged in cartons holding 2 rackets each or in cartons holding 3 rackets each. Yesterday 's packing slip showed that 38 cartons were used to pack a total of 100 rackets",
+        "qa_pairs": [
+            {
+                "question": " How many cartons of 2 rackets size were used yesterday? How many cartons of 3 rackets size were used yesterday? ",
+                "answer": {
+                    "number": "14,24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "be53d253d6bc3258a8160556dda3e9b2"
+            }
+        ]
+    },
+    "passage_25": {
+        "passage": "High school graduating class is made up of 466 students. There are 212 more girls than boys",
+        "qa_pairs": [
+            {
+                "question": " How many boys are in the class? ",
+                "answer": {
+                    "number": "127",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "229754d7799160502a143a72f6789927"
+            }
+        ]
+    },
+    "passage_26": {
+        "passage": "For the first performance of a play in a community theater , 50 reserved-seat tickets and 80 general-admission tickets were sold. The total receipts were 980 dollars. For the second performance , 60 reserved-seat tickets and 90 general-admission tickets were sold. The total receipts were 1140 dollars. Find the price of a reserved-set ticket , in dollars. Find the price of a general-admission ticket",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "10,6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "03cf87174debaccd689c90c34577b82f"
+            }
+        ]
+    },
+    "passage_27": {
+        "passage": "You are selling tickets for a high school play. Student tickets cost 4 dollars and general admission tickets cost 6 dollars. You sell 525 tickets and collect 2876 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many student tickets and general admission tickets did you sell?",
+                "answer": {
+                    "number": "137,388",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f8bf09f5fceaea80e1f864a1b48938bf"
+            }
+        ]
+    },
+    "passage_28": {
+        "passage": "The Lakers scored a total of 80 points in a basketball game against the Bulls. The Lakers made a total of 37 baskets , consisting of 2 point baskets and 3 point baskets",
+        "qa_pairs": [
+            {
+                "question": " How many 2 point baskets did the Lakers make? How many 3 point baskets did the Lakers make? ",
+                "answer": {
+                    "number": "31,6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c3e4035af2a1cde9f21e1ae1951ac80b"
+            }
+        ]
+    },
+    "passage_29": {
+        "passage": "At its Grand Opening , the Guthrie Market distributed two different types of souvenirs. One type cost 20 cents each , and the other type cost 25 cents each. One thousand souvenirs were distributed in all. If the cost of these souvenirs was 220 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many of 20 cents and 25 cents souveniers were distributed? ",
+                "answer": {
+                    "number": "600,400",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "37d097caf1299d9aa79c2c2b843d2d78"
+            }
+        ]
+    },
+    "passage_30": {
+        "passage": "2 cars start at the same place and time , and travel in opposite directions. One car is traveling 15 kilometers per hour faster than the other. After 5 hours , the 2 cars are 275 km apart. Find the speed of each car",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "20,35",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d04863f100d59b3eb688a11f95b0ae60"
+            }
+        ]
+    },
+    "passage_31": {
+        "passage": "A high school graduating class is made up of 485 students. There are 69 more girls than boys",
+        "qa_pairs": [
+            {
+                "question": " How many boys are in the class?",
+                "answer": {
+                    "number": "208",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7884a9652e94555c70f96b6be63be216"
+            }
+        ]
+    },
+    "passage_32": {
+        "passage": "Jack collects baseball and football cards. He has 125 cards total. The number of baseball cards he has is five more than three times the number of football cards",
+        "qa_pairs": [
+            {
+                "question": " How many baseball and football cards does he have? ",
+                "answer": {
+                    "number": "95,30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f0f6ba4b5e0000340312d33c212c3ae8"
+            }
+        ]
+    },
+    "passage_33": {
+        "passage": "El Segundo High School put on their annual musical. The students sold 650 tickets for a value of 4375 dollars. If orchestra seats cost 7.50 dollars and balcony seats cost 3",
+        "qa_pairs": [
+            {
+                "question": "50 dollars , how many orchestra seats were sold , and how many balcony seats were sold? ",
+                "answer": {
+                    "number": "525,125",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7e3b7a5bafcb0fa8e8dfe3ea6aca9186"
+            }
+        ]
+    },
+    "passage_34": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "There are 30 legs and 13 heads of goats and chicken , so how may goats and chicken are there? ",
+                "answer": {
+                    "number": "2,11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b23975176653284f1f7356ba5539cfcb"
+            }
+        ]
+    },
+    "passage_35": {
+        "passage": "The sum of two numbers is 32 and the difference is 14. Find the two numbers",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "23,9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "300891a62162b960cf02ce3827bb363c"
+            }
+        ]
+    },
+    "passage_36": {
+        "passage": "During a sale an automobile dealer sold 69 cars and trucks",
+        "qa_pairs": [
+            {
+                "question": " If she sold 27 more cars than trucks how many trucks did she sell?",
+                "answer": {
+                    "number": "21",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "743394beff4b1282ba735e5e3723ed74"
+            }
+        ]
+    },
+    "passage_37": {
+        "passage": "Your teacher is giving you a test worth 100 points and containing 40 questions. There are 2 point and 4 point questions on the test",
+        "qa_pairs": [
+            {
+                "question": " How many two point questions are there? How many 4 point questions? ",
+                "answer": {
+                    "number": "30,10",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b5f1e8fb36cd7fbeb7988e8639ac79e9"
+            }
+        ]
+    },
+    "passage_38": {
+        "passage": "In a class of 35 students the number of girls is 0.4 of the number of boys. Find the number of girls in the class",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "10",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cd10c7f376188a4a2ca3e8fea2c03aeb"
+            }
+        ]
+    },
+    "passage_39": {
+        "passage": "a grocer wants to mix nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo",
+        "qa_pairs": [
+            {
+                "question": " How many kilos of each should he mix to get a mixture of 42 kilos?",
+                "answer": {
+                    "number": "28,14",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "959ef477884b6ac2241b19ee4fb776ae"
+            }
+        ]
+    },
+    "passage_40": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "How many liters of 5 % saline solution and 25 % saline solution must be mixed together to get 10 liters of 18 % saline solution?",
+                "answer": {
+                    "number": "3.5,6.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "68d309812548887400e375eaa036d2f1"
+            }
+        ]
+    },
+    "passage_41": {
+        "passage": "Tickets for a show cost 6.00 dollars for adults and 4.50 dollars for children. 400 tickets were sold for a total of 2100 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many adult tickets and how many childrens tickets were sold? ",
+                "answer": {
+                    "number": "200,200",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0a65e195cb51418279b6fa8d96847a60"
+            }
+        ]
+    },
+    "passage_42": {
+        "passage": "Find a number so that 10 less than 0.6667 the number is 0.25 the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0b1ec366924b26fc98fa7b71a9c249cf"
+            }
+        ]
+    },
+    "passage_43": {
+        "passage": "A farmhouse has 15 animals. Some are goats and some are ducks. Altogether there are 48 legs",
+        "qa_pairs": [
+            {
+                "question": " How many of each animal are there?",
+                "answer": {
+                    "number": "9,6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "be6c7b094f88532b6c6b35bbcd525ee8"
+            }
+        ]
+    },
+    "passage_44": {
+        "passage": "For a matinee , a movie theater charges 4.50 dollars for children and 6.75 dollars for adults. At today 's matinee , there are 20 more children than adults and the total receipts are 405 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many children are at today 's matinee? ",
+                "answer": {
+                    "number": "48",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cb8da6767461f2812ae4290eac7cbc42"
+            }
+        ]
+    },
+    "passage_45": {
+        "passage": "Mary can purchase roses and daisies from a flower shop. She can buy four roses and five daisies for 7.90 dollars or two roses and six daisies for 5.70 dollars",
+        "qa_pairs": [
+            {
+                "question": " What is the individual cost for each rose and daisy?",
+                "answer": {
+                    "number": "1.35,0.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f3d9de86462c28781cbe5c47ef22c3e5"
+            }
+        ]
+    },
+    "passage_46": {
+        "passage": "There are some 2-dollar coins and some 5-dollar coins. There are 40 coins , which give a total amount of 125 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many 2-dollar coins are there? How many 5-dollar coins are there? ",
+                "answer": {
+                    "number": "25,15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c3535febaff29fcb7c0d20cbe94391c7"
+            }
+        ]
+    },
+    "passage_47": {
+        "passage": "Mrs. Naidu bought 155 dollars in groceries. She paid her bill with 5-dollar notes and 20-dollar notes using a total of 13 notes",
+        "qa_pairs": [
+            {
+                "question": " How many 5-dollar notes were used? How many 20-dollar notes were used? ",
+                "answer": {
+                    "number": "7,6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "95f8d9901ca8878e291552f001f67692"
+            }
+        ]
+    },
+    "passage_48": {
+        "passage": "0.20 of a number decreased by 4 is equal to 6. Find the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "50",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "169779d3852b32ce8b1a1724dbf5217d"
+            }
+        ]
+    },
+    "passage_49": {
+        "passage": "Two numbers are in the ratio 8 to 3. If the sum of numbers is 143 , find the numbers",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "39,104",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "54b2b21af94108d83c2a909d5b0a6a50"
+            }
+        ]
+    },
+    "passage_50": {
+        "passage": "The state market has 27 more apples than oranges. There are 301 apples and oranges all together",
+        "qa_pairs": [
+            {
+                "question": " How many apples are in the market?",
+                "answer": {
+                    "number": "164",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9978b7063e297d84bb2ac8e46c1c845f"
+            }
+        ]
+    },
+    "passage_51": {
+        "passage": "You make candles and sell them for 15 dollars each. The material to make up to 20 candles costs 20 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many candles must you sell to have a profit of 85 dollars?",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d827f12e35eae370ba9c65b7f6026695"
+            }
+        ]
+    },
+    "passage_52": {
+        "passage": "For Monday morning 's staff meeting , Jim bought 2 bags of bagels and 3 packages of cream cheese and paid 12.00 dollars. For Friday 's meeting , he bought 4 bags of bagels and 2 packages of cream cheese and paid 14.00 dollars",
+        "qa_pairs": [
+            {
+                "question": " How much does a bag of bagels and a package of cream cheese cost , in dollars? ",
+                "answer": {
+                    "number": "2.12,2.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2d3acd3e240c61820625fff66a19938f"
+            }
+        ]
+    },
+    "passage_53": {
+        "passage": "The ratio of boys to girls is 9 to 4. You know there are 91 total students",
+        "qa_pairs": [
+            {
+                "question": " How many of them are boys? How many are girls?",
+                "answer": {
+                    "number": "63,28",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "806fec5af7f5b48b8a31a003e171f3fb"
+            }
+        ]
+    },
+    "passage_54": {
+        "passage": "Juliet has a choice between receiving an 1800 dollars monthly salary from Furniture by Design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month",
+        "qa_pairs": [
+            {
+                "question": " For what amount of sales will the 2 choices be equal?",
+                "answer": {
+                    "number": "5000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b440509a0106086a67bc2ea9df0a1dab"
+            }
+        ]
+    },
+    "passage_55": {
+        "passage": "Your cell phone company offers two text-messaging plans. Plan A costs 0.25 dollars per text message , plus a monthly fee of 9 dollars. The other plan costs 0.40 dollars per text message with no monthly fee",
+        "qa_pairs": [
+            {
+                "question": " For how many text messages will both plans cost the same amount? ",
+                "answer": {
+                    "number": "60",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9d28de8ff9bb6a3fa41fddfdc28f3bc1"
+            }
+        ]
+    },
+    "passage_56": {
+        "passage": "There are 41 animals on a farm , each of which is either a pig or a chicken. There are 100 legs altogether",
+        "qa_pairs": [
+            {
+                "question": " How many pigs are there? How many chickens? ",
+                "answer": {
+                    "number": "9,32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "82ca5dd156cc926b2992f73c2896f761"
+            }
+        ]
+    },
+    "passage_57": {
+        "passage": "A car rents for 50 dollars a day plus 20 cents a mile. You are on a daily budget of 88 dollars",
+        "qa_pairs": [
+            {
+                "question": " What maximum mileage will allow you to stay within your budget?",
+                "answer": {
+                    "number": "190",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cc7e2b878868cbae992d1fb743995d8f"
+            }
+        ]
+    },
+    "passage_58": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "How many liters of a 60 % acid solution must be mixed with a 75 % acid solution to get 20 liters of a 72 % solution?",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e21e4e58ad9ab56e8a4634046da90113"
+            }
+        ]
+    },
+    "passage_59": {
+        "passage": "A piggy bank has 50 coins. The coins are either nickels or dimes. The bank has 4.55 dollars in total",
+        "qa_pairs": [
+            {
+                "question": " How many coins are nickels? How many are dimes?",
+                "answer": {
+                    "number": "9,41",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "778609db5dc7e1a8315717a9cdd8fd6f"
+            }
+        ]
+    },
+    "passage_60": {
+        "passage": "The carpenter saws a board that is 22 feet long into two pieces. One piece is to be 1 foot longer than twice the length of the shorter piece. Find the Length of each piece",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "7,15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3323fe11e9595c09af38fe67567a9394"
+            }
+        ]
+    },
+    "passage_61": {
+        "passage": "17 is 4 less than 8 times a number. Find the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "2.625",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d2a27e83d429f0dcae6b937cf440aeb1"
+            }
+        ]
+    },
+    "passage_62": {
+        "passage": "The sum of 2 numbers is 27. 0.5 of the first number plus 0.3333 of the second number is 11. Find the smaller and the larger number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "12,15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b06f50d1f89bd8b2a0fb771c1a69c2b0"
+            }
+        ]
+    },
+    "passage_63": {
+        "passage": "Two rainstorms occurred in one week in a certain area. The first storm lasted 20 hours , and the second storm lasted 40 hours , for a total 1800 milliliters of rain",
+        "qa_pairs": [
+            {
+                "question": " What was the rate of rainfall in milliliters per hour for the first and second storms if the sum of the two rates was 55 milliliters per hour? ",
+                "answer": {
+                    "number": "20,35",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "466accbac9a66b805ba50e42ad715740"
+            }
+        ]
+    },
+    "passage_64": {
+        "passage": "A 68-foot pipe is cut into 2 pieces , one of which is 12 feet less than the other",
+        "qa_pairs": [
+            {
+                "question": " What is the length of the shorter piece in feet? ",
+                "answer": {
+                    "number": "28",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a088ea2078cd92b0b8a0e78a32c5c082"
+            }
+        ]
+    },
+    "passage_65": {
+        "passage": "A woman has 450 dollars invested , part at 2 % and the remainder at 3 % simple interest",
+        "qa_pairs": [
+            {
+                "question": " If the total annual income is 11 dollars , how much is invested at 2 % , in dollars? How much is invested at 3 %? ",
+                "answer": {
+                    "number": "250,200",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a6ea8471c120fe8cc35a2954c9b9c595"
+            }
+        ]
+    },
+    "passage_66": {
+        "passage": "2 high speed trains are 380 miles apart and traveling toward each other. They meet in 4 hours. If one train is 15 miles per hour faster than the other , find the speed of the slower train in miles per hour. Find the speed of the faster train",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "40,55",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "bb03e43ffe34eeb242a2ee4a4f125e56"
+            }
+        ]
+    },
+    "passage_67": {
+        "passage": "On a college entrance exam , each correct answer adds 1 point to your raw score , each unanswered question adds nothing and each incorrect answer subtracts 0.25 point. You answer 82 out of 85 questions for a raw score of 67",
+        "qa_pairs": [
+            {
+                "question": " How many questions did you answer correctly? ",
+                "answer": {
+                    "number": "70",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b5c01503041b70d41d80e3dbe31bbd8c"
+            }
+        ]
+    },
+    "passage_68": {
+        "passage": "The length of a rectangular field is 24 meters. This is 3 meters less than twice the width. Find the width",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "13.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "234833147b97bb6aed53a8f4f1c7a7d8"
+            }
+        ]
+    },
+    "passage_69": {
+        "passage": "The Kings won two less than three times as many games as they lost. They played 82 games",
+        "qa_pairs": [
+            {
+                "question": " How many wins and losses did the team have? ",
+                "answer": {
+                    "number": "61,21",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "54ff9e9e3a2ec0300d4ce11261f5169f"
+            }
+        ]
+    },
+    "passage_70": {
+        "passage": "2 snails are 264 centimeters apart. They craw toward each other at rates that differ by 6 centimeters per minute. After 22 minutes they meet",
+        "qa_pairs": [
+            {
+                "question": " How fast is each snail crawling?",
+                "answer": {
+                    "number": "3,9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "47810f956e3d8fb8a32fb276448b464d"
+            }
+        ]
+    },
+    "passage_71": {
+        "passage": "To make a weak solution of 24 liters of 4 % acid , a lab technician will use some premixed solutions : one is 2 % acid and the other is 5 % acid",
+        "qa_pairs": [
+            {
+                "question": " How many liters of each , respectively , should he use to obtain the desired solution? ",
+                "answer": {
+                    "number": "8,16",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "12ffb0968f2f56e51a59a6beb37b2859"
+            }
+        ]
+    },
+    "passage_72": {
+        "passage": "There are 21 animals total , all sheep and chickens",
+        "qa_pairs": [
+            {
+                "question": " If there are 56 legs total , how many of the 21 animals are sheep? How many are chickens? ",
+                "answer": {
+                    "number": "7,14",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "347665597cbfaef834886adbb848011f"
+            }
+        ]
+    },
+    "passage_73": {
+        "passage": "There are 27 students in an Algebra 1 class. There are 5 fewer girls than boys",
+        "qa_pairs": [
+            {
+                "question": " How many girls are in the class?",
+                "answer": {
+                    "number": "11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3dd9424294b0292b6e89ea2bba2e1144"
+            }
+        ]
+    },
+    "passage_74": {
+        "passage": "Three times a number minus a second number is 20. The sum of the two numbers is 48. Find the two numbers",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "17,31",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e77dbaf6759253c7c6d0efc5690369c7"
+            }
+        ]
+    },
+    "passage_75": {
+        "passage": "Two airplanes left the same airport traveling in opposite directions",
+        "qa_pairs": [
+            {
+                "question": " If one airplane averages 400 miles per hour and the other 250 miles per hour , how many hours will it take for the distance between them be 1625 miles? ",
+                "answer": {
+                    "number": "2.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cdf1e288ca02272e717c9d5e4cb180bd"
+            }
+        ]
+    },
+    "passage_76": {
+        "passage": "Colombian coffee beans cost 5.50 dollars per pound, while Peruvian coffee beans cost 4.25 dollars per pound. We want to mix the beans together so as to produce a 40-pound bag , costing 4.60 dollars per pound",
+        "qa_pairs": [
+            {
+                "question": " How many pounds of Columbian beans and how many pounds of Peruvian beans should be used? ",
+                "answer": {
+                    "number": "11.2,28.8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "07cb5f86508f146774a2fac4373a8e50"
+            }
+        ]
+    },
+    "passage_77": {
+        "passage": "There are 2 numbers whose sum is 65 , such that one is 4 times as large as the other",
+        "qa_pairs": [
+            {
+                "question": " What is the smaller number? What is the larger number? ",
+                "answer": {
+                    "number": "13,52",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "777669af68dbccabc30c3b6bcaa81825"
+            }
+        ]
+    },
+    "passage_78": {
+        "passage": "A girl saves 1-dollar coins and 2-dollar coins. She takes it to a bank , she has 180 coins in total that equals 260 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many 1-dollar coins are there? How many 2-dollar coins are there? ",
+                "answer": {
+                    "number": "100,80",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "efdf562ce2fb0ad460fd8e9d33e57f57"
+            }
+        ]
+    },
+    "passage_79": {
+        "passage": "The sum of 2 numbers is 50. The first number is 43 less than twice the second number. Find the smaller number. Find the larger number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "19,31",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f410588e48dc83f2822a880a68f78923"
+            }
+        ]
+    },
+    "passage_80": {
+        "passage": "The owner of the Most Amazing Circus was counting the money from one day 's ticket sales. He knew that a total of 522 tickets were sold. Adult tickets cost 15 dollars each and children 's tickets cost 8 dollars each. If the total receipts for the day were 5086",
+        "qa_pairs": [
+            {
+                "question": "00 dollars , how many adult tickets were sold? How many children 's tickets? ",
+                "answer": {
+                    "number": "130,392",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e58aea67b01fa747687f038dfde066f6"
+            }
+        ]
+    },
+    "passage_81": {
+        "passage": "An art dealer sold 16 etchings for 630 dollars. He sold some of them at 35 dollars each and the rest at 45 dollars each",
+        "qa_pairs": [
+            {
+                "question": " How many etchings did he sell at 35 dollars? How many etchings did he sell at 45 dollars? ",
+                "answer": {
+                    "number": "9,7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "85353d3b2f39b9c9b5ee3576578c04b7"
+            }
+        ]
+    },
+    "passage_82": {
+        "passage": "A manufacturer produces two models of the same toy , Model A and Model B. Model A takes 4 hours to produce and costs 8 dollars each. Model B takes 3 hours to produce and costs 7 dollars each",
+        "qa_pairs": [
+            {
+                "question": " If the manufacturer allots a total of 5800 hours and 12,600 dollars for production each week , how many of each model will be produced? ",
+                "answer": {
+                    "number": "700,1000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d30960ce77e83d896503d43ba249caf7"
+            }
+        ]
+    },
+    "passage_83": {
+        "passage": "Janet invested 31,000 dollars , part at 10 % and part at 1 %",
+        "qa_pairs": [
+            {
+                "question": " If the total interest at the end of the year is 1,390 dollars , how much did she invest at 10 %? ",
+                "answer": {
+                    "number": "12000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4a06d868d044c50af0cf9bc82d2fc19f"
+            }
+        ]
+    },
+    "passage_84": {
+        "passage": "The sum of 2 numbers is 24. Seven times the smaller number is the same as 5 times the larger number. Find the smaller number",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "10",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "de7092ba6df4276921d27a3704c57998"
+            }
+        ]
+    },
+    "passage_85": {
+        "passage": "A carpenter gave an estimate of 980 dollars to build a cover over a patio. His hourly rate is 28 dollars and he expects to need 560 dollars in materials",
+        "qa_pairs": [
+            {
+                "question": " How many hours will the job take?",
+                "answer": {
+                    "number": "15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d1a21da7bca4abff8b0b61b87597de73"
+            }
+        ]
+    },
+    "passage_86": {
+        "passage": "A student works 2 part-time jobs. He earns 8.00 dollars an hour working at the college library and 15.00 dollars and hour for construction work. To save time for study , be limits his work to 25 hours a week",
+        "qa_pairs": [
+            {
+                "question": " If he enjoys the work at the library more , how many hours can he work at the library and still earn at 300 dollars a week? ",
+                "answer": {
+                    "number": "10",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "05546b0e38ab9175cd905eebcc6ebb76"
+            }
+        ]
+    },
+    "passage_87": {
+        "passage": "A car rents for 30 dollars per day plus 23 cents per mile. You are on a daily budget of 76 dollars",
+        "qa_pairs": [
+            {
+                "question": " What mileage can you go and stay within your budget?",
+                "answer": {
+                    "number": "200",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ef41d488755367316f04fc0e0e9dc9fc"
+            }
+        ]
+    },
+    "passage_88": {
+        "passage": "One solution contains 50 % alcohol and another solution contains 80 % alcohol. How many liters of 50 % alcohol and 80 % alcohol should be mixed to produce 10",
+        "qa_pairs": [
+            {
+                "question": "5 liters of a 70 % alcohol solution?",
+                "answer": {
+                    "number": "3.5,7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "da4902cb0bc38210839714ebdcf0efc3"
+            }
+        ]
+    },
+    "passage_89": {
+        "passage": "You buy 25 boxes of candy and spend 28.00 dollars. A box of peppermint cost 1.00 dollars a box and candy canes cost 1.30 dollars a box",
+        "qa_pairs": [
+            {
+                "question": " How many boxes of peppermint did you buy? How many boxes of candy canes? ",
+                "answer": {
+                    "number": "15,10",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1368ba1ab6ed38bb1f26f36673739d54"
+            }
+        ]
+    },
+    "passage_90": {
+        "passage": "Two rainstorms occurred in one week in a certain area. In the first storm 30 milliliters of rain fell per hour , and in the second storm 15 milliliters of rain fell per hour. Rain fell that week for a total of 45 hours , for a total rainfall of 975 milliliters. How many hours was the first storm and the second storm",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "20,25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8ca8da41fe1ebc8d3ca31dc14f5fc56c"
+            }
+        ]
+    },
+    "passage_91": {
+        "passage": "2 trains leave simultaneously traveling on the same track in opposite directions at speeds of 50 and 64 miles per hour",
+        "qa_pairs": [
+            {
+                "question": " How many hours will it take before they are 285 miles apart?",
+                "answer": {
+                    "number": "2.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8bdb5058376143fa358981954e7626b8"
+            }
+        ]
+    },
+    "passage_92": {
+        "passage": "Yuri has a board that 98 inches long. He wishes to cut the board into 2 pieces so that one piece will be 10 inches longer than the other",
+        "qa_pairs": [
+            {
+                "question": " What should the length of the shorter piece be , in inches? What will the length of the longer piece be? ",
+                "answer": {
+                    "number": "44,54",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a554f89dd61cabd2ff833d3468e2008a"
+            }
+        ]
+    },
+    "passage_93": {
+        "passage": "There are 13 animals in a barn. Some are chickens and some are pigs. There are 40 legs in the barn",
+        "qa_pairs": [
+            {
+                "question": " How many are pigs are there and how many chicken are there?",
+                "answer": {
+                    "number": "7,6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "fe40fb944ee700392ed51bfe84dd4e3d"
+            }
+        ]
+    },
+    "passage_94": {
+        "passage": "Norbert sold 23 books on Thursday for a certain price. On Friday , he sold 35 of the same books , but he charged 0.50 dollars less per book. He made 490.00 dollars in total",
+        "qa_pairs": [
+            {
+                "question": " How much did the book sell for on Thursday? How much did the book sell for on Friday? ",
+                "answer": {
+                    "number": "8.75,8.25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cd3afef9b8b89558cd56638c3631868a"
+            }
+        ]
+    },
+    "passage_95": {
+        "passage": "The difference between 2 times a number and -8 is -12. Find the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "-10",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9a49a25d845a483fae4be7e341368e36"
+            }
+        ]
+    },
+    "passage_96": {
+        "passage": "1 number is 9 less than twice another , and their sum is 42. Find the two numbers",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "17,25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5b8e4fd39d9786228649a8a8bec4e008"
+            }
+        ]
+    },
+    "passage_97": {
+        "passage": "The difference between two numbers is 3. Their sum is 13. Find the numbers",
+        "qa_pairs": [
+            {
+                "question": " What is the larger number? What is the smaller number?",
+                "answer": {
+                    "number": "8,5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1e8c391abfde9abea82d75a2d60278d4"
+            }
+        ]
+    },
+    "passage_98": {
+        "passage": "The world 's oldest bride was 19 yr older than her groom. Together , their ages totaled 185 years",
+        "qa_pairs": [
+            {
+                "question": " How old was the bride? How old was the groom? ",
+                "answer": {
+                    "number": "102,83",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "83691715fdc5baf20ed0742b0b85785b"
+            }
+        ]
+    },
+    "passage_99": {
+        "passage": "Advance tickets to a show cost 20 , and same-day tickets cost 30. The total number of tickets sold was 60 for total receipts of 1,600",
+        "qa_pairs": [
+            {
+                "question": " How many advance tickets were sold? How many same-day tickets were sold? ",
+                "answer": {
+                    "number": "20,40",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8b4224068a41c5d37f5e2d54f3995089"
+            }
+        ]
+    },
+    "passage_100": {
+        "passage": "An investor will invest a total of 15000 dollars in 2 accounts , one paying 4 % annual simple interest and the other 3 %",
+        "qa_pairs": [
+            {
+                "question": " If he wants to earn 550 dollars annual interest , how much should he invest at 4 %? How much at 3 %? ",
+                "answer": {
+                    "number": "10000,5000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "51174add1c52758f33d414ceaf3fe6ba"
+            }
+        ]
+    },
+    "passage_101": {
+        "passage": "Wal-Mart sells thermometers for 2 dollars, and hot-water bottles for 6 dollars. Total sales for these 2 items during the month of January was 1,200 dollars. There were 7 times as many thermometers as hot-water bottles sold",
+        "qa_pairs": [
+            {
+                "question": " How many thermometers were sold? How many hot-water bottles? ",
+                "answer": {
+                    "number": "420,60",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "70c445ee64b1ed0583367a12a79a9ef2"
+            }
+        ]
+    },
+    "passage_102": {
+        "passage": "Flying with the wind , a bird was able to make 150 kilometers per hour. If the wind was 0.5 times as strong and the bird flies against it , it could make only 30 kilometers per hour. Find the velocity of the wind in kilometers per hour. Find the velocity of the bird",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "80,70",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "bd5af7cd922fd2603be4ee3dc43b0b77"
+            }
+        ]
+    },
+    "passage_103": {
+        "passage": "A mixture of water and antifreeze in a car is 10 % antifreeze. In colder climates this mixture should contain 50 % antifreeze",
+        "qa_pairs": [
+            {
+                "question": " If the radiator contains 4 gallons of fluid , how many gallons of radiator fluid should be drained and replaced with a mixture containing 80 % antifreeze? ",
+                "answer": {
+                    "number": "2.2857",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2321994d85d661d792223f647000c65f"
+            }
+        ]
+    },
+    "passage_104": {
+        "passage": "Three times a number is the same as the difference of twice the number and seven. Find the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "-7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7dc1c7653ac42a05642a667959c12239"
+            }
+        ]
+    },
+    "passage_105": {
+        "passage": "A truck and trailer together weigh 7,000 pounds. The trailer weighs 200 pounds less than 0.5 as much as the truck. Find the truck 's weight. Find the trailer 's weight",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "4800,2200",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "90aef91f0d9e7c3be322bd7bae41617d"
+            }
+        ]
+    },
+    "passage_106": {
+        "passage": "A farmer has cows and chickens. He only sees 50 legs and 18 heads",
+        "qa_pairs": [
+            {
+                "question": " How many are cows and how many are chickens?",
+                "answer": {
+                    "number": "7,11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "26505e0494662534f633586941b77d0c"
+            }
+        ]
+    },
+    "passage_107": {
+        "passage": "A plane travels due East at 325 miles per hour and another plane travels due west at 275 miles per hour",
+        "qa_pairs": [
+            {
+                "question": " If they leave at the same time , and from the same place , in how many hours will they be 2100 miles apart? ",
+                "answer": {
+                    "number": "3.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "fca0789e7891cbc0583298a238316122"
+            }
+        ]
+    },
+    "passage_108": {
+        "passage": "A small publishing company has a 1 time product cost for editing and printing of 56,430.00 dollars. Variable cost per book is 8.25 dollars. The publisher is selling the book to the store for 21.75 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many books must the publisher print and sell so that the production cost will equal the money obtained from sells? ",
+                "answer": {
+                    "number": "4180",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4dd9cec1c21bc54eecb53786a2c5fa09"
+            }
+        ]
+    },
+    "passage_109": {
+        "passage": "A car rented for 29 dollars per day plus 0.08 dollars per mile. Julia paid 46.12 dollars for a 1-day rental",
+        "qa_pairs": [
+            {
+                "question": " How far did she drive , in miles? ",
+                "answer": {
+                    "number": "214",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c6335734dbc0b1ded766421cfc611750"
+            }
+        ]
+    },
+    "passage_110": {
+        "passage": "A new parking lot has spaces for 450 cars. The ratio of spaces for full sized cars to compact cars is 11 to 4",
+        "qa_pairs": [
+            {
+                "question": " How many spaces are for full-sized cars? How many spaces are for compact cars?",
+                "answer": {
+                    "number": "330,120",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8208974663db80265e9bfe7b222dcb18"
+            }
+        ]
+    },
+    "passage_111": {
+        "passage": "In a family there are two cars. In a given week , the first car gets an average of 25 miles per gallon , and the second car gets 40 miles per gallon. The two cars combined drives a total of 1825 miles in that one week , for a total gas consumption of 55 gallons",
+        "qa_pairs": [
+            {
+                "question": " How many gallons were consumed by the 25 mile per gallon car and how many gallons were consumed by the 40 mile per gallon car that week? ",
+                "answer": {
+                    "number": "25,30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2c3ddf4bf13852db711dd1901fb517fa"
+            }
+        ]
+    },
+    "passage_112": {
+        "passage": "You are running a concession stand. You are selling hot dogs and soda. Each hot dog costs 1.50 dollars and each soda costs 0.50 dollars. You made a total of 78.50 dollars. You sold a total of 87 hot dogs and sodas combined. You must report the number of hot dogs and sodas sold",
+        "qa_pairs": [
+            {
+                "question": " How many hot dogs and sodas were sold?",
+                "answer": {
+                    "number": "35,52",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "26f5bd4aa64fdadf96152ca6e6408068"
+            }
+        ]
+    },
+    "passage_113": {
+        "passage": "A total of 10,000 dollars was invested in two bond mutual funds , a junk bond fund and a government bond fund. The junk fund is risky and yields 11 % interest. The safer government bond fund yields only 5 %. The year 's total income from the two investments was 740 dollars",
+        "qa_pairs": [
+            {
+                "question": " How much was invested in each fund? ",
+                "answer": {
+                    "number": "4000,6000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2cad8fa47bbef282badbb8de5374b894"
+            }
+        ]
+    },
+    "passage_114": {
+        "passage": "3 Pairs of jeans and 6 shirts costs 104.25 dollars. The cost of 4 jeans and 5 shirts is 112.15 dollars. Find the cost of each pair of jeans and each shirt",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "16.85,8.95",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8c1b6fa97c4288a4514365198566c6fa"
+            }
+        ]
+    },
+    "passage_115": {
+        "passage": "The Jurassic Zoo charges 8 dollars for each adult and 4 dollars for each child. Total bill for the 201 people was 964 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many children were at the zoo?",
+                "answer": {
+                    "number": "161",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b1301141feffabac455e1f90a7de2054"
+            }
+        ]
+    },
+    "passage_116": {
+        "passage": "The product of 10 and a number is the same as 36 less twice that same number. Find the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "-4.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "69dafe8b58066478aea48f3d0f384820"
+            }
+        ]
+    },
+    "passage_117": {
+        "passage": "The sum of two numbers is 40 , one number is 8 more than the other. Find the numbers",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "16,24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "38651c4450f87348fcbe1f992746a954"
+            }
+        ]
+    },
+    "passage_118": {
+        "passage": "7 audio cassettes and 3 video cassettes cost rs 1110 , while 5 audio cassettes and 4 video cassettes cost rs 1350. Find the cost of an audio cassette and a video cassette",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "30,300",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "020bf2c45e7bb322f89a226bd2c5d41b"
+            }
+        ]
+    },
+    "passage_119": {
+        "passage": "Peter sold pumpkins from his farm. He sold jumbo pumpkins for 9.00 dollars each , and he sold regular pumpkins for 4.00 dollars each. Peter sold 80 pumpkins and collected 395.00 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many jumbo pumpkins and regular pumpkins did he sell? ",
+                "answer": {
+                    "number": "15,65",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d5e2c0adad503c91f91df240d0cd4e49"
+            }
+        ]
+    },
+    "passage_120": {
+        "passage": "Jerry Weller received 20,196 more votes than opponent John Pavich. If the total number of votes was 196,554 , find the number of votes for Jerry. Find the number of votes for John",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "108375,88179",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "598920e11d1eb2a49501d59fce5ecbb7"
+            }
+        ]
+    },
+    "passage_121": {
+        "passage": "A chemist has two solutions. One has 40 % the other 25 % concentrate",
+        "qa_pairs": [
+            {
+                "question": " How many liters of each solution must be mixed to obtain 129 liters of 34 % solution?",
+                "answer": {
+                    "number": "77.4,51.6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f52854cc99ae1c1966b0a21d0127975b"
+            }
+        ]
+    },
+    "passage_122": {
+        "passage": "Amber has 30 coins in nickels and dimes. In all she has 2.10 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many nickels and dimes does she have?",
+                "answer": {
+                    "number": "18,12",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "102f0bb6efb3a6128a3c750dd16729be"
+            }
+        ]
+    },
+    "passage_123": {
+        "passage": "Harold had a summer lemonade stand where he sold small cups of lemonade for 1.25 dollars and large cups for 2.50 dollars",
+        "qa_pairs": [
+            {
+                "question": " If Harold sold a total of 155 cups of lemonade and collected a total of 265 dollars , how many small cups and large cups did he sell? ",
+                "answer": {
+                    "number": "98,57",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a11f9e533f28593768ebf87075ab34f2"
+            }
+        ]
+    },
+    "passage_124": {
+        "passage": "The US Senate had a total of 99 Democrats and Republicans. There were 11 more Republicans than Democrats",
+        "qa_pairs": [
+            {
+                "question": " How many Democrats and Republicans were there in the Senate?",
+                "answer": {
+                    "number": "44,55",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8c9f32e03aeb2e3000825c8c875c4edd"
+            }
+        ]
+    },
+    "passage_125": {
+        "passage": "A local bus tour sold 65 tickets. Senior citizen tickets cost 10 dollars and regular tickets cost 15 dollars. The total sales were 855 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many senior citizen tickets were sold? How many regular tickets were sold? ",
+                "answer": {
+                    "number": "24,41",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a869ccbcbd9568808b8497e28275c7c8"
+            }
+        ]
+    },
+    "passage_126": {
+        "passage": "A mechanic charged 45 dollars an hour , plus 225 dollars for the parts",
+        "qa_pairs": [
+            {
+                "question": " If the total bill was 450 dollars , how man hours did the job take? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "db116b39f7a3ac5366079b1d9fe249a5"
+            }
+        ]
+    },
+    "passage_127": {
+        "passage": "To make 10 kilograms of aluminum alloy with 60 % aluminum , a scientist wants to use 2 metals with 45 % and 70 % aluminum content respectively",
+        "qa_pairs": [
+            {
+                "question": " How many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum should she mix?",
+                "answer": {
+                    "number": "4,6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2f4fe03d77724a7217006e5d16728874"
+            }
+        ]
+    },
+    "passage_128": {
+        "passage": "A plumber contractor decides to field-test two new pumps. One is rated at 180 gallons per hour and the other at 250 gallons per hour. Over a period of 6 hours , she pumps a total of 1325 gallons",
+        "qa_pairs": [
+            {
+                "question": " How many hours were used by the 180 gallons per hour pump? How many hours were used by the 250 gallons per hour pump? ",
+                "answer": {
+                    "number": "2.5,3.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "046ddf96c233a273fd390c3d0b1a9aa4"
+            }
+        ]
+    },
+    "passage_129": {
+        "passage": "24 is divided into two parts such that 7 times the first part added to 5 times the second part makes 146. Find each part",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "13,11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a3eb043e7bf775de87763e9f8121c953"
+            }
+        ]
+    },
+    "passage_130": {
+        "passage": "193 tickets were sold for the Class of 2003 ice cream picnic. Each student ticket costs 0.50 dollars each , and each non-student ticket costs 1.50 dollars each. A total of 206.50 dollars was collected",
+        "qa_pairs": [
+            {
+                "question": " How many student tickets were sold? ",
+                "answer": {
+                    "number": "83",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "23c97e9cb93576e45d2feaf00d0e8502"
+            }
+        ]
+    },
+    "passage_131": {
+        "passage": "A customer walks into an electronics store and buys 5 MP3 players and 8 sets of headphones , paying 840 dollars. A 2nd customer buys 3 MP3 players and 4 sets of headphones , and pays 480 dollars",
+        "qa_pairs": [
+            {
+                "question": " How much does an MP3 player cost? How much does a set of headphones cost? ",
+                "answer": {
+                    "number": "120,30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6048ff4e8cb07aa60b6777b6f7384d52"
+            }
+        ]
+    },
+    "passage_132": {
+        "passage": "Your family goes to a restaurant for dinner. There are 6 people in your family. Some order the chicken dinner for 14.80 dollars and some order the steak dinner for 17.00 dollars. If the total bill was 91.00 dollars , how many people ordered the steak dinner",
+        "qa_pairs": [
+            {
+                "question": " How many people ordered the chicked dinner? ",
+                "answer": {
+                    "number": "5,1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "28b60a16b55fd531047c0c958ce14b95"
+            }
+        ]
+    },
+    "passage_133": {
+        "passage": "",
+        "qa_pairs": [
+            {
+                "question": "If 530 pesos can buy 4 kilograms of fish and 2 kilograms of pork while 875 pesos can buy 7 kilograms of fish and 3 kilograms of pork , how much does a kilogram of fish cost? ",
+                "answer": {
+                    "number": "80",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "fc79250f8c5b804390e8da280b4cf06e"
+            }
+        ]
+    },
+    "passage_134": {
+        "passage": "Tickets cost 4 dollars for students , and 6 dollars for general admission. You sell 525 tickets and collect 2876 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many student tickets did you sell , and how many general admission tickets did you sell? ",
+                "answer": {
+                    "number": "137,388",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7a68443f5c80d181c42967cd71612af1"
+            }
+        ]
+    },
+    "passage_135": {
+        "passage": "Mitch is buying candy bars for his friends. He wants to give 2 bars to each friend , and he wants to have 10 spare bars. He can afford to buy 24 candy bars",
+        "qa_pairs": [
+            {
+                "question": " How many friends can he treat? ",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0747b9be4f90056c30eb5241f06bfe9b"
+            }
+        ]
+    },
+    "passage_136": {
+        "passage": "The Coffee Counter charges 9.00 dollars per pound for Kenyan French Roast coffee and 8.00 dollars per pound for Sumatran coffee. How many pounds of Kenyan French Roast and Sumatran should be used to make a 20-pound blend that sells for 8",
+        "qa_pairs": [
+            {
+                "question": "40 dollars per pound?",
+                "answer": {
+                    "number": "8,12",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "696b35cc35e710279b9c2dedc08e22d7"
+            }
+        ]
+    },
+    "passage_137": {
+        "passage": "The total cost of a shirt and a sweater is 80.34 dollars. If the price of the shirt is 7",
+        "qa_pairs": [
+            {
+                "question": "43 dollars less than the sweater , what was the price of the shirt , in dollars? ",
+                "answer": {
+                    "number": "36.46",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "99f59c0842e83c808dd1813b48a37c6a"
+            }
+        ]
+    },
+    "passage_138": {
+        "passage": "A special tea blend is made from two varieties of herbal tea , one that costs 4.00 dollars per kilogram and another that costs 2.00 dollars per kilogram. How many kilograms of each type are needed to make 20 kilograms of a blend worth 2",
+        "qa_pairs": [
+            {
+                "question": "50 dollars per kilogram? ",
+                "answer": {
+                    "number": "5,15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6e5025ccc7d638ae4e724da8938450a6"
+            }
+        ]
+    },
+    "passage_139": {
+        "passage": "The admission fee at an amusement park is 1.5 dollars for children and 4 dollars for adults. On a certain day 315 people entered the park , and the admission fees collected 810 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many children and adults were admitted? ",
+                "answer": {
+                    "number": "180,135",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "03255088ed63354a54e0e5ed957e9008"
+            }
+        ]
+    },
+    "passage_140": {
+        "passage": "One integer is twice another , and their sum is 96. Find the smaller and larger integer",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "32,64",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d7619beb6eb189509885fbc192d2874b"
+            }
+        ]
+    },
+    "passage_141": {
+        "passage": "2 teams of scientists leave a university at the same time in special vans to search for tornadoes. the 1st team travel east at 20 miles per hour and the 2nd team travels west at 30 miles per hour. their radios have a range of 125 miles",
+        "qa_pairs": [
+            {
+                "question": " How much time will pass before the scientists lose radio contact?",
+                "answer": {
+                    "number": "2.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "30aaf34d6afd4b11cc3b3ac4704c7908"
+            }
+        ]
+    },
+    "passage_142": {
+        "passage": "University Theater sold 510 tickets for a play. Tickets cost 21 dollars per adult and 15 dollars per senior citizen",
+        "qa_pairs": [
+            {
+                "question": " If total receipts were 8748 dollars , how many senior citizen tickets were sold? ",
+                "answer": {
+                    "number": "327",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7e05d6f828574fbc975a896b25bb011e"
+            }
+        ]
+    },
+    "passage_143": {
+        "passage": "Eldora and Finn went to an office supply store together. Eldora bought 15 boxes of paper clips and 7 packages of index cards for a total cost of 55.40 dollars. Finn bought 12 boxes of paper clips and 10 packages of index cards for a total cost of 61.70 dollars. Find the cost of one box of paper clips and the cost of one package of index cards",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "1.85,3.95",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "697e382cfd25b07a3e62275d3ee132b3"
+            }
+        ]
+    },
+    "passage_144": {
+        "passage": "A hotel purchased 38 bath towels and 61 washcloths for a total cost of 791.50 dollars. A second purchase of 54 bath towels and 50 washcloths , at the same prices , cost 923 dollars. Find the individual prices of the bath towels and washcloths",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "12,5.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9ed9328611fe3f45b3cce8ffe386ee97"
+            }
+        ]
+    },
+    "passage_145": {
+        "passage": "Mary began walking home from school , heading south at a rate of 4 miles per hour. Sharon left school at the same time heading north at 6 miles per hour",
+        "qa_pairs": [
+            {
+                "question": " How long will it take for them to be 3 miles apart? ",
+                "answer": {
+                    "number": "0.3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a03fa30821986dff10fc66647c84c9c3"
+            }
+        ]
+    },
+    "passage_146": {
+        "passage": "You sell tickets for admission to your school play and collect a total of 104 dollars. Admission prices are 6 dollars for adults and 4 dollars for children. You sold 21 tickets",
+        "qa_pairs": [
+            {
+                "question": " How many adult tickets did you sell? How many children 's tickets did you sell? ",
+                "answer": {
+                    "number": "10,11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9185f3ec501c674c7c788464a36e7fb3"
+            }
+        ]
+    },
+    "passage_147": {
+        "passage": "In a family there are two cars. The sum of the average miles per gallon obtained by the two cars in a particular week is 75 miles per gallon. The first car has consumed 25 gallons during that week , and the second has consumed 35 gallons , for a total of 2275 miles driven by the two cars combined",
+        "qa_pairs": [
+            {
+                "question": " What was the average gas mileage obtained by the first car that week? What was the average gas mileage obtained by the second car that week? ",
+                "answer": {
+                    "number": "35,40",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7fd804295ef7f6a2822bf4c61f9dc4a8"
+            }
+        ]
+    },
+    "passage_148": {
+        "passage": "You have 160 dollars and save 7 dollars per week. Your friend has 210 dollars and saves 5 dollars per week",
+        "qa_pairs": [
+            {
+                "question": " After how many weeks will each of you have saved the same amount of money?",
+                "answer": {
+                    "number": "25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "814a9c18f5abff398787c9cfcbf3d80c"
+            }
+        ]
+    },
+    "passage_149": {
+        "passage": "One thousand quarts of milk testing 4 % butterfat are to be reduced to 3 %",
+        "qa_pairs": [
+            {
+                "question": " How many quarts of cream testing 23 % butterfat must be separated from the milk to produce the required result?",
+                "answer": {
+                    "number": "50",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "934b535800b1cba8f96a5d72f72f1611"
+            }
+        ]
+    },
+    "passage_150": {
+        "passage": "There are 3 more girls than boys in Tom 's class , and the sum of girls and boys is 41",
+        "qa_pairs": [
+            {
+                "question": " How many boys are in the class? How many girls are in the class? ",
+                "answer": {
+                    "number": "19,22",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4cb811134b9d39fc3104bd06ce75abad"
+            }
+        ]
+    },
+    "passage_151": {
+        "passage": "The sum of 2 numbers is 15. 3 times one of the numbers is 11 less than 5 times the other",
+        "qa_pairs": [
+            {
+                "question": " What is the smaller number? What is the larger number?",
+                "answer": {
+                    "number": "7,8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0bf727e907c5fc9d5356f11e4c45d613"
+            }
+        ]
+    },
+    "passage_152": {
+        "passage": "Anne and Nancy use a metal alloy that is 24.9 % copper to make jewelry",
+        "qa_pairs": [
+            {
+                "question": " How many ounces of a 20 % alloy must be mixed with a 27 % alloy to form 100 ounces of the desired alloy?",
+                "answer": {
+                    "number": "30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e0a209539d1e74ab9fe46b9e01a19a97"
+            }
+        ]
+    },
+    "passage_153": {
+        "passage": "An employment agency specializing in temporary help pays heavy operators 129 dollars per day and general laborers 82 dollars per day",
+        "qa_pairs": [
+            {
+                "question": " If 31 people were hired and the payroll was 3952 dollars , how many heavy operators were employed? How many laborers? ",
+                "answer": {
+                    "number": "30,1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "243facb29564e7b448834a7c9d901201"
+            }
+        ]
+    },
+    "passage_154": {
+        "passage": "In a given week , the first car gets an average of 30 miles per gallon , and the second car gets 25 miles per gallon. The two cars combined drive a total of 1700 miles in that week , for a total gas consumption of 60 gallons",
+        "qa_pairs": [
+            {
+                "question": " How many gallons were consumed by the first car that week? How many gallons were consumed by the second car that week? ",
+                "answer": {
+                    "number": "40,20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f8b932c70d0b2e6bf071729a4fa68dfc"
+            }
+        ]
+    },
+    "passage_155": {
+        "passage": "The admission fee at a small fair is 1.50 dollars for children and 4.00 dollars for adults. On a certain day , 2200 people enter the fair and 5050 dollars is collected",
+        "qa_pairs": [
+            {
+                "question": " How many children and adults attended? ",
+                "answer": {
+                    "number": "1500,700",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f7e0b956540676a129760a3eae309294"
+            }
+        ]
+    },
+    "passage_156": {
+        "passage": "Honda day shift produced 4 times as much as second shift. The total production for the month was 5,500 cars",
+        "qa_pairs": [
+            {
+                "question": " How many did the day shift produce? How many did the second shift produce? ",
+                "answer": {
+                    "number": "4400,1100",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "269d837afada308dd4aeab28ca2d57e4"
+            }
+        ]
+    },
+    "passage_157": {
+        "passage": "In 1 week , a music store sold 7 violins for a total of 1600 dollars. 2 different types were sold. One cost 200 dollars and the other cost 300 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many 200-dollar violins were sold? How many 300-dollar violins were sold? ",
+                "answer": {
+                    "number": "5,2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8929c70f8d710e412d38da624b21c3c8"
+            }
+        ]
+    },
+    "passage_158": {
+        "passage": "Lisa invested 8000 dollars , part at 4 % and the rest at 5 % per year",
+        "qa_pairs": [
+            {
+                "question": " How much did she invest at 4 % and 5 % if her total return per year on the investments was 380 dollars? ",
+                "answer": {
+                    "number": "2000,6000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b21f9f98829dea9a48fd8aaddc1f159d"
+            }
+        ]
+    },
+    "passage_159": {
+        "passage": "A plane flying with a tail wind flew at a speed of 460 miles per hour , relative to the ground. When flying against the tailwind , it flew at a speed of 310 miles per hour. Find the speed of the tailwind",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "75",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "921c2dc40d0b979c2910298d2f880152"
+            }
+        ]
+    },
+    "passage_160": {
+        "passage": "Pedro goes to the market and buys a total of 32 plums and peaches for 52 dollars. A plum costs 2 dollars and a peach costs 1 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many plums did Pedro buy?",
+                "answer": {
+                    "number": "20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0d7363894acdee742caf7fe4e97c4d49"
+            }
+        ]
+    },
+    "passage_161": {
+        "passage": "The grocer has peanuts for 3.75 dollars a pound and walnuts for 2.75 dollars a pound. How many pounds of peanuts and walnuts must we mix to get 40 pounds of mixture to sell for 3.00 dollars per pound",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "10,30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4c5bcfec8584af0d967f1ab10179ca4b"
+            }
+        ]
+    },
+    "passage_162": {
+        "passage": "The Red Rose Theatre sells tickets for 4.50 dollars and 6.00 dollars. A total of 380 tickets were sold for their last performance of `` Mickey the Mouse ''. If the sales for the performance totaled 1972.50 dollars , how many tickets were sold for 6.00 dollars? How many tickets were sold for 4",
+        "qa_pairs": [
+            {
+                "question": "50 dollars? ",
+                "answer": {
+                    "number": "175,205",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6211080fa89981f66b1a0c9d55c61d0f"
+            }
+        ]
+    },
+    "passage_163": {
+        "passage": "The Johnson Farm has 500 acres of land allotted for cultivating corn and wheat. The cost of cultivating corn and wheat is 42 dollars for corn and 30 dollars for wheat. Mr.Johnson has 18,600 dollars available for cultivating these crops",
+        "qa_pairs": [
+            {
+                "question": " If he used all the land and entire budget , how many acres of corn and how many acres of wheat should he plant? ",
+                "answer": {
+                    "number": "300,200",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "850af92f8d9903e7a4e0559a98ecc857"
+            }
+        ]
+    },
+    "passage_164": {
+        "passage": "The sum of 2 numbers is 10. 3 times one of them is more than 4 times the second by 2. Find the smaller number. Find the larger number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "4,6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e3ca0449fa2ea7701a7ac53fb719c51a"
+            }
+        ]
+    },
+    "passage_165": {
+        "passage": "For his long distance phone service Milan pays a 2 dollars monthly fee plus 12 cents per minute. Last month , Milan 's long distance bill was 23.36 dollars",
+        "qa_pairs": [
+            {
+                "question": " For how many minutes was Milan billed for? ",
+                "answer": {
+                    "number": "178",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1f4fe6a4411edc2ff625888b4093e917"
+            }
+        ]
+    },
+    "passage_166": {
+        "passage": "A motorist drove 2 hours at one speed and then for 3 hours at another speed. He covered a distance of 252 kilometers. If he had travelled 4 hours at the first speed and 1 hour at the second speed , he would have covered 244 kilometers",
+        "qa_pairs": [
+            {
+                "question": " Find two speeds? ",
+                "answer": {
+                    "number": "48,52",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e2ad76f2326fbc6b56a45a56c59fafdb"
+            }
+        ]
+    },
+    "passage_167": {
+        "passage": "One gallon container is full of a 75 % alcohol solution",
+        "qa_pairs": [
+            {
+                "question": " How much must be drained off and replaced by a 50 % alcohol solution to produce one gallon of 65 % alcohol solution?",
+                "answer": {
+                    "number": "0.4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "01931a6925d3de09e5f87419d9d55055"
+            }
+        ]
+    },
+    "passage_168": {
+        "passage": "A 20-foot board is cut into 2 pieces. Twice the length of the shorter piece is 4 feet more than the length of the longer piece. Find the length of the shorter piece",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "296472c9542ad4d4788d543508116cbc"
+            }
+        ]
+    },
+    "passage_169": {
+        "passage": "In a family there are 2 cars. The sum of the average miles per gallon obtained by the two cars in a particular week is 45. The first car has consumed 40 gallons during that week , and the second car has consumed 20 gallons , for a total of 1400 miles driven by the two cars combined",
+        "qa_pairs": [
+            {
+                "question": " What was the average gas mileage obtained by each of the 2 cars that week? ",
+                "answer": {
+                    "number": "25,20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "831caa1b600f852b7844499430ecac17"
+            }
+        ]
+    },
+    "passage_170": {
+        "passage": "Bob invested 6100 dollars in 2 funds , which pay 7 % and 6 % simple interest respectively. The combined interest he earned for both funds was 405 dollars for one year",
+        "qa_pairs": [
+            {
+                "question": " How many dollars was invested at 7 %? How much was invested at 6 %? ",
+                "answer": {
+                    "number": "3900,2200",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6f4920ea25403ec77bee9efce43ea25e"
+            }
+        ]
+    },
+    "passage_171": {
+        "passage": "A 40 % sugar solution is added to an 85 % sugar solution to create 1800 milliliters of a 60 % solution",
+        "qa_pairs": [
+            {
+                "question": " How many milliliters of the 40 % solution should be used? How many millileters of the 85 % solution?",
+                "answer": {
+                    "number": "1000,800",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d9ff90f4000eacd3a6c9cb27f78994cf"
+            }
+        ]
+    },
+    "passage_172": {
+        "passage": "Seven times a number is the same as 12 more than 3 times the number. Find the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5314b9674c86e3f9d1ba25ef9bb32895"
+            }
+        ]
+    },
+    "passage_173": {
+        "passage": "Jill has 3.50 dollars in nickels and dimes",
+        "qa_pairs": [
+            {
+                "question": " If she has 50 coins , how many nickels does she have? How many dimes? ",
+                "answer": {
+                    "number": "30,20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "04ad5632029cbfbed8e136e5f6f7ddfa"
+            }
+        ]
+    },
+    "passage_174": {
+        "passage": "3 footballs and 1 soccer ball cost 155 dollars. 2 footballs and 3 soccer balls cost 220 dollars. Determine the cost of 1 football and the cost of one soccer ball , in dollars",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "35,50",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "326a8c055c0d04f5b06544665d8bb3ea"
+            }
+        ]
+    },
+    "passage_175": {
+        "passage": "An airplane has a total of 387 seats. The number of coach class seats is 2 more than 4 times the number of first-class seats",
+        "qa_pairs": [
+            {
+                "question": " How many first class and coach class seats are there on the plane?",
+                "answer": {
+                    "number": "77,310",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "635440afdfc39fe37995fed127d7df4f"
+            }
+        ]
+    },
+    "passage_176": {
+        "passage": "Trinidad has 2.35 dollars in nickels and dimes",
+        "qa_pairs": [
+            {
+                "question": " If she has 33 coins in all , how many nickels does she have? How many dimes does she have? ",
+                "answer": {
+                    "number": "19,14",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ab8aa05e782481f55fc1412a97e7ac34"
+            }
+        ]
+    },
+    "passage_177": {
+        "passage": "Two investments earn an annual income of 575 dollars. One investment earns an annual simple interest rate of 8.5 % , and the other investment earns an annual simple interest rate of 6.4 %. The amount invested is 8000 dollars",
+        "qa_pairs": [
+            {
+                "question": " How much money is invested in the first investment and second investment respectively? ",
+                "answer": {
+                    "number": "3000,5000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "fea9c11c4ad9a395a636ed944a28b51a"
+            }
+        ]
+    },
+    "passage_178": {
+        "passage": "According to Dr. Aaron R. Folsom of the University of Minnesota School of Public Health , your maximum ideal waist size is directly proportional to your hip size. For a woman with 40 inch hips , the maximum ideal waist size is 32 inches",
+        "qa_pairs": [
+            {
+                "question": " What is the maximum waist size for a woman with 35 inch hips? ",
+                "answer": {
+                    "number": "28",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f1e2b2c9255d552500a833ac828cd635"
+            }
+        ]
+    },
+    "passage_179": {
+        "passage": "A water flow restrictor has reduced the flow of water to 2 gallons per minute. This amount is 1 gallon per minute less than 0.6 the original flow rate. Find the original rate in gallons per minute",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cd0cbcc668fe4bc58e0af3cc7e0a653d"
+            }
+        ]
+    },
+    "passage_180": {
+        "passage": "The manager of a discount clothing store received 2 shipments of Fall clothing. The cost of the first shipment which contained 10 identical sweaters and 20 identical jackets was 800 dollars. The second shipment at the same prices , contained 5 of the same sweaters and 15 of the same jackets. The second shipment was 550 dollars. Find the cost of 1 jacket , in dollars",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5f6371c9126149517d9ba475def53139"
+            }
+        ]
+    },
+    "passage_181": {
+        "passage": "A weight of 80 pounds stretches a spring 4.5 inches",
+        "qa_pairs": [
+            {
+                "question": " How far will a weight of 125 pounds stretch the spring? ",
+                "answer": {
+                    "number": "7.03",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2d969e2cee8cfa07ce7ca0bb13c7a36d"
+            }
+        ]
+    },
+    "passage_182": {
+        "passage": "There were 42 people. There were twice as many children as adults",
+        "qa_pairs": [
+            {
+                "question": " How many children attended?",
+                "answer": {
+                    "number": "28",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5f14615696649541a025d3d0f8e0447f"
+            }
+        ]
+    },
+    "passage_183": {
+        "passage": "Sam has 30 nickels and dimes worth 2.40 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many nickels does he have?",
+                "answer": {
+                    "number": "12",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9fb7b048c96d44a0337f049e0a61ff06"
+            }
+        ]
+    },
+    "passage_184": {
+        "passage": "For a certain event , 821 tickets were sold , for a total of 1933 dollars",
+        "qa_pairs": [
+            {
+                "question": " If students paid 2 dollars per ticket and nonstudents paid 3 dollars per ticket , how many student tickets were sold? ",
+                "answer": {
+                    "number": "530",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "074177d3eb6371e32c16c55a3b8f706b"
+            }
+        ]
+    },
+    "passage_185": {
+        "passage": "Hockey teams receive 2 points for a win and 1 point for a tie. The wild cats once won a championship with 60 points. They won 9 more games than they tied",
+        "qa_pairs": [
+            {
+                "question": " How many wins and how many ties did the Wildcats have?",
+                "answer": {
+                    "number": "23,14",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cf2226ddd41b1a2d0ae51dab54d32c36"
+            }
+        ]
+    },
+    "passage_186": {
+        "passage": "Tickets for a concert were priced at 7 dollars for students and 10 dollars for non-students. There were 2000 tickets sold for a total of 17,339 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many student tickets were sold? How many non-student tickets? ",
+                "answer": {
+                    "number": "887,1113",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "dd28e50635038e9cf3a648c2dd17ad0a"
+            }
+        ]
+    },
+    "passage_187": {
+        "passage": "Pencils cost 6 dollars per carton and erasers cost 3 dollars per carton",
+        "qa_pairs": [
+            {
+                "question": " If an order comes in for a total of 100 cartons for 360 dollars , what was the specific number of cartons of pencils? ",
+                "answer": {
+                    "number": "20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1b5230e3ea6d7123847ad55a1e06fffd"
+            }
+        ]
+    },
+    "passage_188": {
+        "passage": "One year Walt invested 12,000 dollars. He invested part of the money at 7 % and the rest at 9 %. He made a total of 970 dollars in interest",
+        "qa_pairs": [
+            {
+                "question": " How much was invested at 7 %? ",
+                "answer": {
+                    "number": "5500",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c30fb4dc55d801fc7473840b5b161dfa"
+            }
+        ]
+    },
+    "passage_189": {
+        "passage": "A child has 17.55 dollars worth of nickels and dimes in her piggy bank. There are a total of 207 coins",
+        "qa_pairs": [
+            {
+                "question": " How many nickels does she have? How many dimes does she have?",
+                "answer": {
+                    "number": "63,144",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7cf64379eb6f29a4d25c4b6a2df713e4"
+            }
+        ]
+    },
+    "passage_190": {
+        "passage": "Each unit of grain A contains 2 grams of fat and 80 calories , and unit B has 3 grams of fat and 60 calories. If the final product is to provide 18 grams of fat and 480 calories , how much of grain A and how much of grain B should be used",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "3,4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f12ee9734e1edf70ed02d9829018b3d9"
+            }
+        ]
+    },
+    "passage_191": {
+        "passage": "Class A and class B donated their class fund totaling 127 dollars to an orphanage. If the amount donated by class A is 7 dollars short of 0.6667 of the amount donated by class B",
+        "qa_pairs": [
+            {
+                "question": " How much did Class A Donate? How much to class B donate?",
+                "answer": {
+                    "number": "46.61607,80.3839",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "db60b95decdeed944b4cd8685417cfdc"
+            }
+        ]
+    },
+    "passage_192": {
+        "passage": "586 people attend a banquet at Disney. Residents paid 12.95 dollars and non-residents paid 17.95 dollars. If Disney made 9423",
+        "qa_pairs": [
+            {
+                "question": "70 dollars from ticket sales for the event , how many residents and non-residents attended? ",
+                "answer": {
+                    "number": "219,367",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2a8a812400df8963b2e2ac0ed01b07b8"
+            }
+        ]
+    },
+    "passage_193": {
+        "passage": "A piece of rope 60 meters long is cut into two pieces so that the longest piece is twice as long as the shorter piece",
+        "qa_pairs": [
+            {
+                "question": " How long are the two pieces? ",
+                "answer": {
+                    "number": "20,40",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6be93f7a96fed60c477d30ae1de032fd"
+            }
+        ]
+    },
+    "passage_194": {
+        "passage": "A vendor sold 200 tickets for an upcoming rock concert. Floor seats were 36 dollars and stadium seats were 28 dollars. The vendor sold 6080 dollars in tickets",
+        "qa_pairs": [
+            {
+                "question": " How many 36-dollar tickets did the vendor sell? How many 28-dollar tickets did the vendor sell? ",
+                "answer": {
+                    "number": "60,140",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "96671501524948bc3937b4b30d0e57b9"
+            }
+        ]
+    },
+    "passage_195": {
+        "passage": "A total of 366 tickets were sold for the school play. The number of student tickets sold was two times the number of adult tickets sold",
+        "qa_pairs": [
+            {
+                "question": " How many adult tickets were sold?",
+                "answer": {
+                    "number": "122",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9407c826d8e3c07ad37cb2d13d1cb641"
+            }
+        ]
+    },
+    "passage_196": {
+        "passage": "A chemist is mixing a solution that is 32 % sodium and another solution that is 12 % sodium",
+        "qa_pairs": [
+            {
+                "question": " How many liters of 32 % and 12 % solution should the chemist use to produce 50 liters of the solution that is 20 % sodium?",
+                "answer": {
+                    "number": "20,30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "07a9d3fed4c5ea6b17e80258dee231fa"
+            }
+        ]
+    },
+    "passage_197": {
+        "passage": "Manuel opened a savings account with an initial deposit of 177 dollars",
+        "qa_pairs": [
+            {
+                "question": " If he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars? ",
+                "answer": {
+                    "number": "17",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5249ee8e0cff02ad6b4cc0ee0e50b7d1"
+            }
+        ]
+    },
+    "passage_198": {
+        "passage": "The sum of two numbers is 62. The greater number exceeds twice the smaller number by 5",
+        "qa_pairs": [
+            {
+                "question": " What are the two numbers?",
+                "answer": {
+                    "number": "19,43",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7cc532d783a7461f227a5da8ea80bfe1"
+            }
+        ]
+    },
+    "passage_199": {
+        "passage": "A plane flies 900 miles with a tail wind in 3 hours. The same plane takes 4 hours to make the return trip against the wind",
+        "qa_pairs": [
+            {
+                "question": " What is the speed of the plane in still air? ",
+                "answer": {
+                    "number": "262.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "04048aeca2c0f5d84639358008ed2ae7"
+            }
+        ]
+    },
+    "passage_200": {
+        "passage": "Paul has 30 postcards. He has 4 times as many large postcards as small postcards",
+        "qa_pairs": [
+            {
+                "question": " How many small postcards does he have? How many large postcards?",
+                "answer": {
+                    "number": "6,24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b06b5541a62ed438f956b662b4e1ec28"
+            }
+        ]
+    },
+    "passage_201": {
+        "passage": "The sum of two numbers is 85. The difference of twice of one of them and the other one is 5. Find both numbers",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "30,55",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3b92d18aa7a6176dd37d372bc2f1eb71"
+            }
+        ]
+    },
+    "passage_202": {
+        "passage": "4 pencils and 5 pens cost a total of 2.00 dollars. 3 pencils and 4 pens cost 1.58 dollars. Find the cost of a pencil and a pen in dollars",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "0.1,0.32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4ebd440d99504722d80de606ea8507da"
+            }
+        ]
+    },
+    "passage_203": {
+        "passage": "Nine books are to be bought by a student. Some cost 6 dollars each and the remainder cost 6.50 dollars each. The total amount spent was 56 dollars. How many 6-dollar books were sold? How many 6",
+        "qa_pairs": [
+            {
+                "question": "50-dollar books were sold? ",
+                "answer": {
+                    "number": "5,4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f80ff32e08a25270b5f252ce39522f72"
+            }
+        ]
+    },
+    "passage_204": {
+        "passage": "Find two numbers whose sum is 147 and one is 4 greather than 0.375 of the other",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "43,104",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6150ccc6069bea6b5716254057a194ef"
+            }
+        ]
+    },
+    "passage_205": {
+        "passage": "Admission to an amusement park is 8 dollars for adults and 5 dollars for children",
+        "qa_pairs": [
+            {
+                "question": " If 201 dollars was paid for 33 tickets , how many adult tickets were purchased? How many children 's tickets were purchased? ",
+                "answer": {
+                    "number": "12,21",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ac1ad983e08ad3304a97e147f522747e"
+            }
+        ]
+    },
+    "passage_206": {
+        "passage": "A total of 10,000 dollars is invested in 2 funds paying 5 % and 7 % annual interest. The combined annual interest is 630 dollars",
+        "qa_pairs": [
+            {
+                "question": " How much of the 10,000 dollars is invested at 5 %? How much at 7 %? ",
+                "answer": {
+                    "number": "3500,6500",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4b86abe48d358ecf194c56c69108433e"
+            }
+        ]
+    },
+    "passage_207": {
+        "passage": "The difference between 0.75 of a line and 0.4 of the same line is 28 centimeters. Find the length of the line",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "80",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2aaaddf27344ee54058548dc081c6541"
+            }
+        ]
+    },
+    "passage_208": {
+        "passage": "You are selling tickets to your school musical. Adult tickets cost 5 dollars and children 's tickets cost 3 dollars. You sell 1510 tickets and collect 6138 dollars",
+        "qa_pairs": [
+            {
+                "question": " Determine How many adult tickets were sold? How many children 's tickets were sold? ",
+                "answer": {
+                    "number": "804,706",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "49d4b2faeb4b7b9e745775793141e2b2"
+            }
+        ]
+    },
+    "passage_209": {
+        "passage": "Purses cost 7 dollars each. Scarves cost 8 dollars each. 17 combined items sold costing 130 dollars total",
+        "qa_pairs": [
+            {
+                "question": " How many purses were sold? How many scarves were sold? ",
+                "answer": {
+                    "number": "6,11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4a1590df1d5968d41b855005bb8b67bf"
+            }
+        ]
+    },
+    "passage_210": {
+        "passage": "A baseball player has a batting average of 0.320 with 192 hits in 600 bats. His average against left-handed pitching is 0.250. Against right-handed pitching it is 0.350",
+        "qa_pairs": [
+            {
+                "question": " How many times did he bat against left-handers? ",
+                "answer": {
+                    "number": "180",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "186fb23a33995d91ce3c2212189178c8"
+            }
+        ]
+    },
+    "passage_211": {
+        "passage": "A merchant wants to combine peanuts selling 2.40 dollars per pound and cashews selling for 6.00 dollars per pound to form 60 pounds which will sell at 3.00 dollars per pound",
+        "qa_pairs": [
+            {
+                "question": " What amount of peanuts and what amount of cashews must be used?",
+                "answer": {
+                    "number": "50,10",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2c6ae45a3e88aee548c0714fad7f8269"
+            }
+        ]
+    },
+    "passage_212": {
+        "passage": ".833 of a number is -60",
+        "qa_pairs": [
+            {
+                "question": " What is the number?",
+                "answer": {
+                    "number": "-72",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c182f930a06317057d31c73bb2fedd4f"
+            }
+        ]
+    },
+    "passage_213": {
+        "passage": "A boat travels 45 miles upstream in 5 hours. The boat travels the same distance downstream in 3 hours",
+        "qa_pairs": [
+            {
+                "question": " What is the speed of the boat in still water in miles per hour? What is the speed of the current in miles per hour? ",
+                "answer": {
+                    "number": "12,3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c8dfece5cc68249206e4690fc4737a8d"
+            }
+        ]
+    },
+    "passage_214": {
+        "passage": "The 6th graders from an elementary school are going to celebrate the end of the year by going to the local pizza parlor. There are 120 in the whole group and there are twice as many children as adults in the group",
+        "qa_pairs": [
+            {
+                "question": " How many children are there?",
+                "answer": {
+                    "number": "80",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "13111c20aee51aeb480ecbd988cd8cc9"
+            }
+        ]
+    },
+    "passage_215": {
+        "passage": "Twice a number equals 25 less than triple the same number",
+        "qa_pairs": [
+            {
+                "question": " What is the number?",
+                "answer": {
+                    "number": "25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "716e1b8c6cd17b771da77391355749f3"
+            }
+        ]
+    },
+    "passage_216": {
+        "passage": "Tickets to a movie were sold at 4.00 dollars per adult and 2.50 dollars per student. If 240 tickets were sold for a total of 765",
+        "qa_pairs": [
+            {
+                "question": "00 dollars , how many student tickets were sold? How many adult tickets were sold? ",
+                "answer": {
+                    "number": "130,110",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "426f990b332ef8193a61cc90516c1245"
+            }
+        ]
+    },
+    "passage_217": {
+        "passage": "Apples cost 0.60 dollars per pound and grapes cost 1.00 dollars per pound. Jenny bought 12 pounds of fruit and paid 10.00 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many pounds of apples did she buy? How many pounds of grapes? ",
+                "answer": {
+                    "number": "5,7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9f44e956e3a2b7b5598c625fcc802c36"
+            }
+        ]
+    },
+    "passage_218": {
+        "passage": "A high school sold gift wrap. The gift wrap in solid colors sold for 4.00 dollars per roll and the print gift wrap sold for 6.00 dollars per roll. The total number of rolls sold was 480 rolls , and the total amount of money collected was 2,340.00 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many solid rolls were sold? How many print rolls were sold? ",
+                "answer": {
+                    "number": "270,210",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1819932ff5cf474f4f19e7c7024640c2"
+            }
+        ]
+    },
+    "passage_219": {
+        "passage": "A chemist has two acid solutions. One solution is 20 % pure acid and the other is 60 % pure acid",
+        "qa_pairs": [
+            {
+                "question": " How much of 20 % pure acid and 60 % pure acid is needed to produce 80 square-centimeters of a solution that is 45 % pure acid?",
+                "answer": {
+                    "number": "30,50",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4de754248c196c85ee4fbdcee89179bd"
+            }
+        ]
+    },
+    "passage_220": {
+        "passage": "A self-employed contractor nearing retirement made two investments totaling 15,000 dollars. In one year , these investments yielded 1023 dollars in simple interest. Part of the money was invested at 6 % and the rest at 7.5 %",
+        "qa_pairs": [
+            {
+                "question": " How much was invested at each rate? ",
+                "answer": {
+                    "number": "8200,6800",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "92a0e7a415d64ebafcb16a8ca817cde4"
+            }
+        ]
+    },
+    "passage_221": {
+        "passage": "The sum of two numbers is 52 , and their difference is 6",
+        "qa_pairs": [
+            {
+                "question": " What are the numbers? ",
+                "answer": {
+                    "number": "29,23",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "149815eb972b3c370dee3b89d645ae14"
+            }
+        ]
+    },
+    "passage_222": {
+        "passage": "One number exceeds another by 10 and their sum is 34. Find the larger number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "22",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2952351097998ac1240cb2ab7333a3d2"
+            }
+        ]
+    },
+    "passage_223": {
+        "passage": "Your science test is worth 100 points and contains 38 questions. There are two-point and five-point questions on the test",
+        "qa_pairs": [
+            {
+                "question": " How many two-point questions and five-point questions are on the test?",
+                "answer": {
+                    "number": "30,8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b0df2270be9cb16c14537e5bc2f2d37b"
+            }
+        ]
+    },
+    "passage_224": {
+        "passage": "One number is 11 more than 3 times another number. Their sum is 55. Find the smaller number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0e4a2c65bdaddd66a53422d93daebe68"
+            }
+        ]
+    },
+    "passage_225": {
+        "passage": "The difference between 3 times a number and 1 is the same as twice a number. Find the number",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "228bbc2f87caeb21bb7f6949fddcb91d"
+            }
+        ]
+    },
+    "passage_226": {
+        "passage": "A teacher gives out a test of 30 problems. Each computation problem is worth 3 points. Each word problem is worth 5 points. The total points you can receive on the test is 110 points",
+        "qa_pairs": [
+            {
+                "question": " How many computation problems are there?",
+                "answer": {
+                    "number": "20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "61d77652c97ef636343742fc3dcf3ba9"
+            }
+        ]
+    },
+    "passage_227": {
+        "passage": "2 similar tables and 6 similar chairs cost 6600 dollars",
+        "qa_pairs": [
+            {
+                "question": " If the table cost 500 dollars more than a chair , what is the cost , in dollars , of the table? What is the cost of the chair? ",
+                "answer": {
+                    "number": "1200,700",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f8e59f4b2fe7c5705bf878bbd494ccdf"
+            }
+        ]
+    },
+    "passage_228": {
+        "passage": "Trenton sells electronic supplies. Each week he earns 190 dollars plus commission equal to 4 % of his sales. This week his goal is to earn no less than 500 dollars. Write and solve an inequality to find the amount of sales he must make to reach his goal",
+        "qa_pairs": [
+            {
+                "question": "",
+                "answer": {
+                    "number": "7750",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3e9e39fed3b8369ed940f52cf300cf88"
+            }
+        ]
+    },
+    "passage_229": {
+        "passage": "A company 's profit for the first half of the year is 2,750,000 dollars greater than the profit for the second half. If the total annual profit is 3,635,000 dollars , find the profit for the first half-year and the second half-year",
+        "qa_pairs": [
+            {
+                "question": " ",
+                "answer": {
+                    "number": "3192500,442500",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "41e7637e7b6a9f27a98b84d3a185c7c0"
+            }
+        ]
+    },
+    "passage_230": {
+        "passage": "Post card stamps are 0.20 dollars each. Letter stamps cost 0.33 dollars each. If you have 50 stamps worth 12",
+        "qa_pairs": [
+            {
+                "question": "60 dollars , how many post card stamps do you have? How many letter stamps? ",
+                "answer": {
+                    "number": "30,20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "350db081a661525235354dd3e19b8c05"
+            }
+        ]
+    },
+    "passage_231": {
+        "passage": "Maggie has a job working in an office for 10 dollars an hour and another job driving a tractor for 12 dollars an hour. One week she works in the office twice as long as she drives the tractor. Her total income for that week is 416 dollars",
+        "qa_pairs": [
+            {
+                "question": " How many hours did she spend at the office? How many hours driving the tractor?",
+                "answer": {
+                    "number": "26,13",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "87682805257e619d49b8e0dfdc14affa"
+            }
+        ]
+    },
+    "passage_232": {
+        "passage": "Your teacher is giving a test worth 200 points. There is a total of 30 5-point and 10-point questions",
+        "qa_pairs": [
+            {
+                "question": " How many 5-point questions are on the test?",
+                "answer": {
+                    "number": "20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8c59fd6fbe0e9793ec2b27971221cace"
+            }
+        ]
+    },
+    "passage_233": {
+        "passage": "A freight train and an express train leave towns 390 kilometers apart , traveling toward one another. The freight train travels 30 kilometers per hour slower than the express train. They pass one another 3 hours later",
+        "qa_pairs": [
+            {
+                "question": " How fast is the freight train , in miles per hour? How fast is the express train? ",
+                "answer": {
+                    "number": "50,80",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f516dfb84b9051ed85b89cdc3a8ab7f5"
+            }
+        ]
+    },
+    "passage_234": {
+        "passage": "You have exactly 537 dollars to spend on party gifts for your rich uncle 's birthday party. You decide to get watches for the ladies at 27.98 dollars each , and beepers for the men at 23.46 dollars each. You know that the number of watches required will be 3 times as much as the number of beepers",
+        "qa_pairs": [
+            {
+                "question": " How many watches do you buy? How many beepers do you buy? ",
+                "answer": {
+                    "number": "15,5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ea159dc9788ffac311592613b7f71fbb"
+            }
+        ]
+    },
+    "passage_235": {
+        "passage": "Two cyclists start at the same point and travel in opposite directions. One cyclist travels 8 kilometers per hour faster than the other",
+        "qa_pairs": [
+            {
+                "question": " If the two cyclists are 270 kilometers apart after 5 hours what is the rate of each cyclist?",
+                "answer": {
+                    "number": "23,31",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ee8fe9093fbbb687bef15a38facc44d2"
+            }
+        ]
+    }
+}

@@ -1,0 +1,2846 @@
+{
+    "passage_1": {
+        "passage": " A pet store had 38 siamese cats and 25 house cats.  During a sale they sold 45 cats",
+        "qa_pairs": [
+            {
+                "question": " How many cats do they have left? ",
+                "answer": {
+                    "number": "18",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "54a367d629152b720749e187b3eaa11b"
+            }
+        ]
+    },
+    "passage_2": {
+        "passage": " Edward earned 9 dollars for each lawn he mowed",
+        "qa_pairs": [
+            {
+                "question": " If he had 6 lawns to mow, but forgot to mow 2 of them, how much money did he actually earn? ",
+                "answer": {
+                    "number": "36",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2dffbc474aa176b6dc957938c15d0c8b"
+            }
+        ]
+    },
+    "passage_3": {
+        "passage": " At the arcade, Jerry won 29 tickets playing 'whack a mole' and 17 tickets playing 'skee ball'",
+        "qa_pairs": [
+            {
+                "question": " If he spent 12 of his tickets on a hat, how many tickets does Jerry have left? ",
+                "answer": {
+                    "number": "34",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7fec306d1e665bc9c748b5d2b99a6e97"
+            }
+        ]
+    },
+    "passage_4": {
+        "passage": " While playing at the arcade, Ned won 26 tickets playing 'whack a mole' and 19 tickets playing 'skee ball'",
+        "qa_pairs": [
+            {
+                "question": " If he was trying to buy candy that cost 9 tickets a piece, how many could he buy? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "05311655a15b75fab86956663e1819cd"
+            }
+        ]
+    },
+    "passage_5": {
+        "passage": " A pet shelter had 17 puppies when another 55 were brought in",
+        "qa_pairs": [
+            {
+                "question": " If 8 puppies a day are adopted, how long would it take for all of them to be adopted? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f29b38f160f87ae86df31cee1982066f"
+            }
+        ]
+    },
+    "passage_6": {
+        "passage": " In fourth grade there were 31 students at the start of the year.  During the year 5 students left and 11 new students came to school",
+        "qa_pairs": [
+            {
+                "question": " How many students were in fourth grade at the end? ",
+                "answer": {
+                    "number": "37",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4a213d37242bdcad8e7300e202e7caa4"
+            }
+        ]
+    },
+    "passage_7": {
+        "passage": " A new building needed 9 windows.  The builder had already installed 6 of them",
+        "qa_pairs": [
+            {
+                "question": " If it takes 6 hours to install each window, how long will it take him to install the rest? ",
+                "answer": {
+                    "number": "18",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "86e8f7ab32cfd12577bc2619bc635690"
+            }
+        ]
+    },
+    "passage_8": {
+        "passage": " There were 8 friends playing a video game online when 3 players quit",
+        "qa_pairs": [
+            {
+                "question": " If each player left had 3 lives, how many lives did they have total? ",
+                "answer": {
+                    "number": "15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6786f3c62fbf9021694f6e51cc07fe3c"
+            }
+        ]
+    },
+    "passage_9": {
+        "passage": " Oliver made 35 dollars mowing lawns over the summer",
+        "qa_pairs": [
+            {
+                "question": " If he spent 7 dollars buying new mower blades, how many 4 dollar games could he buy with the money he had left? ",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b5488aeff42889188d03c9895255cecc"
+            }
+        ]
+    },
+    "passage_10": {
+        "passage": " A chef needs to cook 9 potatoes.  He has already cooked 7",
+        "qa_pairs": [
+            {
+                "question": " If each potato takes 3 minutes to cook, how long will it take him to cook the rest? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "14d9e8007c9b41f57891c48e07c23f57"
+            }
+        ]
+    },
+    "passage_11": {
+        "passage": " The school cafeteria ordered 33 red apples and 23 green apples for students lunches",
+        "qa_pairs": [
+            {
+                "question": " But, if only 21 students wanted fruit, how many extra did the cafeteria end up with? ",
+                "answer": {
+                    "number": "35",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a9b7ba70783b617e9998dc4dd82eb3c5"
+            }
+        ]
+    },
+    "passage_12": {
+        "passage": " The schools debate team had 5 boys and 40 girls on it",
+        "qa_pairs": [
+            {
+                "question": " If they were split into groups of 9 how many groups could they make? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4671aeaf49c792689533b00664a5c3ef"
+            }
+        ]
+    },
+    "passage_13": {
+        "passage": " Wendy uploaded 22 pictures from her phone and 2 from her camera to facebook",
+        "qa_pairs": [
+            {
+                "question": " If she sorted the pics into 4 different albums with the same amount of pics in each album, how many pictures were in each of the albums? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a50abba8132a77191791390c3eb19fe7"
+            }
+        ]
+    },
+    "passage_14": {
+        "passage": " For homework Amy had 18 math problems and 6 spelling problems",
+        "qa_pairs": [
+            {
+                "question": " If she can finish 4 problems in an hour how long will it take her to finish all the problems? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "01e9565cecc4e989123f9620c1d09c09"
+            }
+        ]
+    },
+    "passage_15": {
+        "passage": " A group of 3 friends went into a restaurant.  The chef already had 8 chicken wings cooked but cooked 10 more for the group",
+        "qa_pairs": [
+            {
+                "question": " If they each got the same amount how many would each person get? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8edd72158ccd2a879f79cb2538568fdc"
+            }
+        ]
+    },
+    "passage_16": {
+        "passage": " While on vacation, Megan took 15 pictures at the zoo and 18 at the museum",
+        "qa_pairs": [
+            {
+                "question": " If she later deleted 31 of the pictures, how many pictures from her vacation did she still have? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5c936263f3428a40227908d5a3847c0b"
+            }
+        ]
+    },
+    "passage_17": {
+        "passage": " Will invited 9 friends to a birthday party, but 4 couldn't come",
+        "qa_pairs": [
+            {
+                "question": " If he wanted to buy enough cupcakes so each person could have exactly 8, how many should he buy? ",
+                "answer": {
+                    "number": "40",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ad3019b856147c17e82a5bead782d2a8"
+            }
+        ]
+    },
+    "passage_18": {
+        "passage": " Sam had 10 socks",
+        "qa_pairs": [
+            {
+                "question": " If he threw away 3 old ones that didn't fit and bought 36 new ones, how many socks would he have? ",
+                "answer": {
+                    "number": "43",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "af21d0c97db2e27e13572cbf59eb343d"
+            }
+        ]
+    },
+    "passage_19": {
+        "passage": " Roger earned 9 dollars for each lawn he mowed",
+        "qa_pairs": [
+            {
+                "question": " If he had 14 lawns to mow, but forgot to mow 8 of them, how much money did he actually earn? ",
+                "answer": {
+                    "number": "54",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4e0d67e54ad6626e957d15b08ae128a6"
+            }
+        ]
+    },
+    "passage_20": {
+        "passage": " A pet store has 4 bird cages",
+        "qa_pairs": [
+            {
+                "question": " If each cage has 8 parrots and 2 parakeets in it, how many birds does the pet store have total? ",
+                "answer": {
+                    "number": "40",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "310ce61c90f3a46e340ee8257bc70e93"
+            }
+        ]
+    },
+    "passage_21": {
+        "passage": " A worksheet had 7 problems on it",
+        "qa_pairs": [
+            {
+                "question": " If a teacher had 17 worksheets to grade and had already graded 8 of them, how many more problems does she have to grade? ",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8fb21ee7a2207526da55a679f0332de2"
+            }
+        ]
+    },
+    "passage_22": {
+        "passage": " There are 25 students trying out for the school's trivia teams",
+        "qa_pairs": [
+            {
+                "question": " If 15 of them didn't get picked for the team and the rest were put into 2 groups, how many students would be in each group? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ced556cd9f9c0c8315cfbe0744a3baf0"
+            }
+        ]
+    },
+    "passage_23": {
+        "passage": " Robin had 30 songs on her mp3 player",
+        "qa_pairs": [
+            {
+                "question": " If she deleted 8 old songs from it and then added 10 new songs, how many songs does she have on her mp3 player? ",
+                "answer": {
+                    "number": "32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b59c67bf196a4758191e42f76670ceba"
+            }
+        ]
+    },
+    "passage_24": {
+        "passage": " A pet store had 13 siamese cats and 5 house cats.  During a sale they sold 10 cats",
+        "qa_pairs": [
+            {
+                "question": " How many cats do they have left? ",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "168908dd3227b8358eababa07fcaf091"
+            }
+        ]
+    },
+    "passage_25": {
+        "passage": " Emily's team won their dodgeball game and scored 39 points total",
+        "qa_pairs": [
+            {
+                "question": " If Emily scored 23 of the points and everyone else scored 2 points each, how many players were on her team? ",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6d3a1e06d6a06349436bc054313b648c"
+            }
+        ]
+    },
+    "passage_26": {
+        "passage": " Edward earned 4 dollars for each lawn he mowed",
+        "qa_pairs": [
+            {
+                "question": " If he had 17 lawns to mow, but forgot to mow 9 of them, how much money did he actually earn? ",
+                "answer": {
+                    "number": "32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7895fc13088ee37f511913bac71fa66f"
+            }
+        ]
+    },
+    "passage_27": {
+        "passage": "Tony planted a 4 foot tree.  The tree grows at a rate of 5 feet every year",
+        "qa_pairs": [
+            {
+                "question": " How many years will it take to be 29 feet?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a96d3afec184766bfeca7a9f989fc7e7"
+            }
+        ]
+    },
+    "passage_28": {
+        "passage": " A toy store had 6 giant stuffed bears in stock when they got another shipment with 18 bears in it.  The put the bears onto shelves with 6 on each shelf",
+        "qa_pairs": [
+            {
+                "question": " How many shelves did they use? ",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a0872cc5b5ca4cc25076f3d868e1bdf8"
+            }
+        ]
+    },
+    "passage_29": {
+        "passage": " A company invited 24 people to a luncheon, but 10 of them didn't show up",
+        "qa_pairs": [
+            {
+                "question": " If the tables they had held 7 people each, how many tables do they need? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "748ba69d3e8d1af87f84fee909eef339"
+            }
+        ]
+    },
+    "passage_30": {
+        "passage": " At the fair there were 7 people in line for the bumper cars",
+        "qa_pairs": [
+            {
+                "question": " If 4 of them got tired of waiting and left and 8 more got in line, how many people would be in line? ",
+                "answer": {
+                    "number": "11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b9d487a30398d42ecff55c228ed5652b"
+            }
+        ]
+    },
+    "passage_31": {
+        "passage": " Debby had 30 coloring books",
+        "qa_pairs": [
+            {
+                "question": " If she gave away 7 of them, but then bought 35 more, how many would she have total? ",
+                "answer": {
+                    "number": "58",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "801c14f07f9724229175b8ef8b4585a8"
+            }
+        ]
+    },
+    "passage_32": {
+        "passage": " A group of 4 friends went into a restaurant.  The chef already had 9 chicken wings cooked but cooked 7 more for the group",
+        "qa_pairs": [
+            {
+                "question": " If they each got the same amount how many would each person get? ",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8e2cfdc275761edc592f73a076197c33"
+            }
+        ]
+    },
+    "passage_33": {
+        "passage": " At a company picnic 9 managers and 15 employees decided to start a game of volleyball",
+        "qa_pairs": [
+            {
+                "question": " If they split into 8 teams how many people would be on each team? ",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5e1b18c4c6a6d31695acbae3fd70ecc6"
+            }
+        ]
+    },
+    "passage_34": {
+        "passage": " Sarah had 4 pages of math homework and 6 pages of reading homework",
+        "qa_pairs": [
+            {
+                "question": " If each page had 4 problems on it, how many problems did she have to complete total? ",
+                "answer": {
+                    "number": "40",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "39e4973ba3321b80f37d9b55f63ed8b8"
+            }
+        ]
+    },
+    "passage_35": {
+        "passage": "Jonathan wants to buy a dictionary that costs $11, a dinosaur book that costs $19, and a children's cookbook that costs $7.  He has saved $8 from his allowance",
+        "qa_pairs": [
+            {
+                "question": " How much more money does Jonathan need to buy all three books?",
+                "answer": {
+                    "number": "29",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "09b15d48a1514d8209b192a8b8f34e48"
+            }
+        ]
+    },
+    "passage_36": {
+        "passage": " Rachel was playing a video game where she scores 9 points for each treasure she finds",
+        "qa_pairs": [
+            {
+                "question": " If she found 5 treasures on the first level and 2 on the second, what would her score be? ",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c8ba76c279269b1c6bc8a07e38e78fa4"
+            }
+        ]
+    },
+    "passage_37": {
+        "passage": " Kaleb had 12 dollars",
+        "qa_pairs": [
+            {
+                "question": " If he spent 8 bucks on a new game, how many 2 dollar toys could he buy with the money he had left? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "08040837089cdf46631a10aca5258e16"
+            }
+        ]
+    },
+    "passage_38": {
+        "passage": " Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook",
+        "qa_pairs": [
+            {
+                "question": " If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f93882cbd8fc7fb794c1011d63be6fb6"
+            }
+        ]
+    },
+    "passage_39": {
+        "passage": " For the school bake sale Wendy made pastries.  She baked 4 cupcakes and 29 cookies.  After the sale she had 24 to take back home",
+        "qa_pairs": [
+            {
+                "question": " How many pastries did she sell? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4e0cb6fb5fb446d1c92ede2ed8780188"
+            }
+        ]
+    },
+    "passage_40": {
+        "passage": " Debby's class is going on a field trip to the zoo",
+        "qa_pairs": [
+            {
+                "question": " If each van can hold 9 people and there are 40 students and 14 adults going, how many vans will they need? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8b0dc65f996f98fd178a9defd0efa077"
+            }
+        ]
+    },
+    "passage_41": {
+        "passage": " Luke was helping the cafeteria workers pick up lunch trays, but he could only carry 4 trays at a time",
+        "qa_pairs": [
+            {
+                "question": " If he had to pick up 20 trays from one table and 16 trays from another, how many trips will he make? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d10ec7c16cbe9de8fbb1c42787c3ec26"
+            }
+        ]
+    },
+    "passage_42": {
+        "passage": " At the arcade Jerry won 4 tickets",
+        "qa_pairs": [
+            {
+                "question": " If he spent 2 tickets on a beanie and later won 47 more tickets, how many would he have? ",
+                "answer": {
+                    "number": "49",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a26398dca6f47b49876cbaffbc9954f9"
+            }
+        ]
+    },
+    "passage_43": {
+        "passage": " Luke had 47 pieces of clothing to wash.  He put 17 of them in one load, but decided to split the rest into 5 equal loads",
+        "qa_pairs": [
+            {
+                "question": " How many pieces of clothing could go in each of the small loads? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "01d8bae291b1e4724443375634ccfa0e"
+            }
+        ]
+    },
+    "passage_44": {
+        "passage": " John was trying to expand his game collection.  He bought 21 games from a friend and bought 8 more at a garage sale",
+        "qa_pairs": [
+            {
+                "question": " If 23 of the games didn't work, how many good games did he end up with? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cc1aa436277138f61cda703991069eaf"
+            }
+        ]
+    },
+    "passage_45": {
+        "passage": " There were 8 friends playing a video game online when 5 players quit",
+        "qa_pairs": [
+            {
+                "question": " If each player left had 5 lives, how many lives did they have total? ",
+                "answer": {
+                    "number": "15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "70feb62b69f16e0238f741fab228fec2"
+            }
+        ]
+    },
+    "passage_46": {
+        "passage": " In fourth grade there were 40 students at the start of the year.  During the year 14 students left and 26 new students came to school",
+        "qa_pairs": [
+            {
+                "question": " How many students were in fourth grade at the end? ",
+                "answer": {
+                    "number": "52",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "731c83db8d2ff01bdc000083fd3c3740"
+            }
+        ]
+    },
+    "passage_47": {
+        "passage": " Nancy and her mom were picking carrots from their garden.  Nancy picked 38 and her mother picked 47",
+        "qa_pairs": [
+            {
+                "question": " If only 71 of the carrots were good, how many bad carrots did they have? ",
+                "answer": {
+                    "number": "14",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e515df0d202ae52fcebb14295743063b"
+            }
+        ]
+    },
+    "passage_48": {
+        "passage": " Bianca was organizing her book case making sure each of the shelves had exactly 8 books on it",
+        "qa_pairs": [
+            {
+                "question": " If she had 5 shelves of mystery books and 4 shelves of picture books, how many books did she have total? ",
+                "answer": {
+                    "number": "72",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6c14da109e294d1e8155be8aa4b1ce8e"
+            }
+        ]
+    },
+    "passage_49": {
+        "passage": "Dalton wants to buy a jump rope that costs $7, a board game that costs $12, and a playground ball that costs $4.  He has saved $6 from his allowance, and his uncle gave him $13",
+        "qa_pairs": [
+            {
+                "question": " How much more money does Dalton need to buy the jump rope, the game, and the ball?",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2647c1dba23bc0e0f9cdf75339e120d2"
+            }
+        ]
+    },
+    "passage_50": {
+        "passage": " A worksheet had 3 problems on it",
+        "qa_pairs": [
+            {
+                "question": " If a teacher had 15 worksheets to grade and had already graded 7 of them, how many more problems does she have to grade? ",
+                "answer": {
+                    "number": "24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "56352739f59643540a3a6e16985f62c7"
+            }
+        ]
+    },
+    "passage_51": {
+        "passage": " At the fair Kaleb bought 6 tickets.  After riding the ferris wheel he had 3 tickets left",
+        "qa_pairs": [
+            {
+                "question": " If each ticket cost 9 dollars, how much money did Kaleb spend riding the ferris wheel? ",
+                "answer": {
+                    "number": "27",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "540ae6b0f6ac6e155062f3dd4f0b2b01"
+            }
+        ]
+    },
+    "passage_52": {
+        "passage": " While shopping for music online, Isabel bought 4 country albums and 5 pop albums.  Each album came with a lyric sheet and had 8 songs",
+        "qa_pairs": [
+            {
+                "question": " How many songs did Isabel buy total? ",
+                "answer": {
+                    "number": "72",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a01610228fe998f515a72dd730294d87"
+            }
+        ]
+    },
+    "passage_53": {
+        "passage": " Dave had to wash 9 short sleeve shirts and 27 long sleeve shirts before school",
+        "qa_pairs": [
+            {
+                "question": " If he had only washed 20 of them by the time school started, how many did he not wash? ",
+                "answer": {
+                    "number": "16",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7f975a56c761db6506eca0b37ce6ec87"
+            }
+        ]
+    },
+    "passage_54": {
+        "passage": " A waiter had 33 customers to wait on",
+        "qa_pairs": [
+            {
+                "question": " If 31 customers left and he got another 26 customers, how many customers would he have? ",
+                "answer": {
+                    "number": "28",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "208e43f0e45c4c78cafadb83d2888cb6"
+            }
+        ]
+    },
+    "passage_55": {
+        "passage": " Nancy uploaded 41 pictures to Facebook.  She put 37 pics into one album and put the rest into 2 different albums",
+        "qa_pairs": [
+            {
+                "question": " How many pictures were in each album? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "98986c005e5def2da341b4e0627d4712"
+            }
+        ]
+    },
+    "passage_56": {
+        "passage": "Tim got 3 nickels and 13 dimes for shining shoes, and in his tip jar found 7 dimes and 9 half-dollars",
+        "qa_pairs": [
+            {
+                "question": " How much money did Tim get?",
+                "answer": {
+                    "number": "6.65",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8698ff92115213ab187d31d4ee5da8ea"
+            }
+        ]
+    },
+    "passage_57": {
+        "passage": " Nancy's class is going on a field trip to the zoo",
+        "qa_pairs": [
+            {
+                "question": " If each van can hold 5 people and there are 12 students and 3 adults going, how many vans will they need? ",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "018b59ce1fd616d874afad0f44ba338d"
+            }
+        ]
+    },
+    "passage_58": {
+        "passage": " Gwen was organizing her book case making sure each of the shelves had exactly 9 books on it",
+        "qa_pairs": [
+            {
+                "question": " If she had 3 shelves of mystery books and 5 shelves of picture books, how many books did she have total? ",
+                "answer": {
+                    "number": "72",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a7d8ae4569120b5bec12e7b6e9648b86"
+            }
+        ]
+    },
+    "passage_59": {
+        "passage": " A toy store had 5 giant stuffed bears in stock when they got another shipment with 7 bears in it.  The put the bears onto shelves with 6 on each shelf",
+        "qa_pairs": [
+            {
+                "question": " How many shelves did they use? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "71f6278d140af599e06ad9bf1ba03cb0"
+            }
+        ]
+    },
+    "passage_60": {
+        "passage": " A painter needed to paint 9 rooms in a building.  Each room takes 8 hours to paint",
+        "qa_pairs": [
+            {
+                "question": " If he already painted 5 rooms, how much longer will he take to paint the rest? ",
+                "answer": {
+                    "number": "32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2bd7f907b7f5b6bbd91822c0c7b835f6"
+            }
+        ]
+    },
+    "passage_61": {
+        "passage": " While shopping for music online, Megan bought 2 country albums and 8 pop albums.  Each album came with a lyric sheet and had 7 songs",
+        "qa_pairs": [
+            {
+                "question": " How many songs did Megan buy total? ",
+                "answer": {
+                    "number": "70",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2b6d65b9a9445c4271ab9076ead5605a"
+            }
+        ]
+    },
+    "passage_62": {
+        "passage": " There were 16 friends playing a video game online when 7 players quit",
+        "qa_pairs": [
+            {
+                "question": " If each player left had 8 lives, how many lives did they have total? ",
+                "answer": {
+                    "number": "72",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0e3a37aa85a14e359df74fa77eded3f6"
+            }
+        ]
+    },
+    "passage_63": {
+        "passage": " Paige had 43 math problems and 12 science problems for homework",
+        "qa_pairs": [
+            {
+                "question": " If she finished 44 of the problems at school, how many problems did she have to do for homework? ",
+                "answer": {
+                    "number": "11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b706835de79a2b4e80506f582af3676a"
+            }
+        ]
+    },
+    "passage_64": {
+        "passage": " A worksheet had 4 problems on it",
+        "qa_pairs": [
+            {
+                "question": " If a teacher had 16 worksheets to grade and had already graded 8 of them, how many more problems does she have to grade? ",
+                "answer": {
+                    "number": "32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7a674153c63cff1ad7f0e261c369ab2c"
+            }
+        ]
+    },
+    "passage_65": {
+        "passage": " George was working as a sacker at a grocery store where he made 5 dollars an hour.  On Monday he worked 7 hours and on Tuesday he worked 2 hours",
+        "qa_pairs": [
+            {
+                "question": " How much money did George make in those two days? ",
+                "answer": {
+                    "number": "45",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f47330643ae134ca204bf6b2481fec47"
+            }
+        ]
+    },
+    "passage_66": {
+        "passage": " In fourth grade there were 33 students at the start of the year.  During the year 18 students left and 14 new students came to school",
+        "qa_pairs": [
+            {
+                "question": " How many students were in fourth grade at the end? ",
+                "answer": {
+                    "number": "29",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "dc58e3a306451c9d670adcd37004f48f"
+            }
+        ]
+    },
+    "passage_67": {
+        "passage": " At the arcade Dave won 11 tickets",
+        "qa_pairs": [
+            {
+                "question": " If he spent 5 tickets on a beanie and later won 10 more tickets, how many would he have? ",
+                "answer": {
+                    "number": "16",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8ce6790cc6a94e65f17f908f462fae85"
+            }
+        ]
+    },
+    "passage_68": {
+        "passage": " Gwen was organizing her book case making sure each of the shelves had exactly 4 books on it",
+        "qa_pairs": [
+            {
+                "question": " If she had 5 shelves of mystery books and 3 shelves of picture books, how many books did she have total? ",
+                "answer": {
+                    "number": "32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "285ab9448d2751ee57ece7f762c39095"
+            }
+        ]
+    },
+    "passage_69": {
+        "passage": " There are 65 students trying out for the school's trivia teams",
+        "qa_pairs": [
+            {
+                "question": " If 17 of them didn't get picked for the team and the rest were put into 8 groups, how many students would be in each group? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "42ffcf057e133f94c1b7b5cf543ef3bd"
+            }
+        ]
+    },
+    "passage_70": {
+        "passage": " Luke was selling his old games.  He started out with 39 but sold 19 of them.  He packed the rest up putting 4 games into each box",
+        "qa_pairs": [
+            {
+                "question": " How many boxes did he have to use? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5cce8dede893813f879b873962fb669f"
+            }
+        ]
+    },
+    "passage_71": {
+        "passage": " Emily was planting vegetables in her garden.  She started with 42 seeds and planted 36 of them in the big garden and in each of her small gardens put 2 seeds each",
+        "qa_pairs": [
+            {
+                "question": " How many small gardens did Emily have? ",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4dcf435435894a4d0972046fc566af76"
+            }
+        ]
+    },
+    "passage_72": {
+        "passage": " Emily bought 4 new chairs and 2 new tables for her house",
+        "qa_pairs": [
+            {
+                "question": " If she spent 8 minutes on each piece furniture putting it together, how many minutes did it take her to finish? ",
+                "answer": {
+                    "number": "48",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "838e8afb1ca34354ac209f53d90c3a43"
+            }
+        ]
+    },
+    "passage_73": {
+        "passage": " A company invited 47 people to a luncheon, but 7 of them didn't show up",
+        "qa_pairs": [
+            {
+                "question": " If the tables they had held 5 people each, how many tables do they need? ",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8a146f1a3da4700cbf03cdc55e2daae6"
+            }
+        ]
+    },
+    "passage_74": {
+        "passage": " The school cafeteria ordered 42 red apples and 7 green apples for students lunches",
+        "qa_pairs": [
+            {
+                "question": " But, if only 9 students wanted fruit, how many extra did the cafeteria end up with? ",
+                "answer": {
+                    "number": "40",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d240e3d38a8882ecad8633c8f9c78c9b"
+            }
+        ]
+    },
+    "passage_75": {
+        "passage": " The cafeteria had 86 apples.  For lunch they handed out 30 to students and decided to use the rest to make pies",
+        "qa_pairs": [
+            {
+                "question": " If each pie takes 8 apples, how many pies could they make? ",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d010396ca8abf6ead8cacc2c2f2f26c7"
+            }
+        ]
+    },
+    "passage_76": {
+        "passage": " Bianca earned 5 points for each bag of cans she recycled",
+        "qa_pairs": [
+            {
+                "question": " If she had 17 bags, but didn't recycle 8 of them, how many points would she have earned? ",
+                "answer": {
+                    "number": "45",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b7087c1f4f89e63af8d46f3b20271153"
+            }
+        ]
+    },
+    "passage_77": {
+        "passage": " For Halloween Katie and her sister combined the candy they received.  Katie had 8 pieces of candy while her sister had 23",
+        "qa_pairs": [
+            {
+                "question": " If they ate 8 pieces the first night, how many pieces do they have left? ",
+                "answer": {
+                    "number": "23",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "58c54802a9fb9526cd0923353a34a7ae"
+            }
+        ]
+    },
+    "passage_78": {
+        "passage": "The sum of three consecutive even numbers is 162",
+        "qa_pairs": [
+            {
+                "question": " What is the smallest of the three numbers ?",
+                "answer": {
+                    "number": "52",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "be53ee61104935234b174e62a07e53cf"
+            }
+        ]
+    },
+    "passage_79": {
+        "passage": " While shopping, Maria bought 35 green towels and 21 white towels",
+        "qa_pairs": [
+            {
+                "question": " If she gave her mother 34 of them, how many towels did Maria end up with? ",
+                "answer": {
+                    "number": "22",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3806734b256c27e41ec2c6bffa26d9e7"
+            }
+        ]
+    },
+    "passage_80": {
+        "passage": " Rachel bought 7 new chairs and 3 new tables for her house",
+        "qa_pairs": [
+            {
+                "question": " If she spent 4 minutes on each piece furniture putting it together, how many minutes did it take her to finish? ",
+                "answer": {
+                    "number": "40",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c4851e8e264415c4094e4e85b0baa7cc"
+            }
+        ]
+    },
+    "passage_81": {
+        "passage": " Jerry made 14 dollars mowing lawns and 31 dollars weed eating",
+        "qa_pairs": [
+            {
+                "question": " If he only spent 5 dollar a week, how long would the money last him? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e48e13207341b6bffb7fb1622282247b"
+            }
+        ]
+    },
+    "passage_82": {
+        "passage": " Frank made 5 dollars mowing lawns and 58 dollars weed eating",
+        "qa_pairs": [
+            {
+                "question": " If he only spent 7 dollar a week, how long would the money last him? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "af4732711661056eadbf798ba191272a"
+            }
+        ]
+    },
+    "passage_83": {
+        "passage": " There were 10 friends playing a video game online when 7 players quit",
+        "qa_pairs": [
+            {
+                "question": " If each player left had 8 lives, how many lives did they have total? ",
+                "answer": {
+                    "number": "24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "512c5cad6c37edb98ae91c8a76c3a291"
+            }
+        ]
+    },
+    "passage_84": {
+        "passage": " Vanessa and her mom were picking carrots from their garden.  Vanessa picked 17 and her mother picked 14",
+        "qa_pairs": [
+            {
+                "question": " If only 24 of the carrots were good, how many bad carrots did they have? ",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "aa68c75c4a77c87f97fb686b2f068676"
+            }
+        ]
+    },
+    "passage_85": {
+        "passage": " For Halloween Emily received 5 pieces of candy from neighbors and 13 pieces from her older sister",
+        "qa_pairs": [
+            {
+                "question": " If she only ate 9 pieces a day, how long would the candy last her? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ee8374ec4e4ad797d42350c904d73077"
+            }
+        ]
+    },
+    "passage_86": {
+        "passage": "On Monday, 375 students went on a trip to the zoo.  All 7 buses were filled and 4 students had to travel in cars",
+        "qa_pairs": [
+            {
+                "question": " How many students were in each bus ?",
+                "answer": {
+                    "number": "53",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "655ea4bd3b5736d88afc30c9212ccddf"
+            }
+        ]
+    },
+    "passage_87": {
+        "passage": " There are 58 students trying out for the school's trivia teams",
+        "qa_pairs": [
+            {
+                "question": " If 10 of them didn't get picked for the team and the rest were put into 8 groups, how many students would be in each group? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "471c75ee6643a10934502bdafee198fb"
+            }
+        ]
+    },
+    "passage_88": {
+        "passage": " A teacher had 38 worksheets to grade",
+        "qa_pairs": [
+            {
+                "question": " If she graded 4, but then another 15 were turned in, how many worksheets would she have to grade? ",
+                "answer": {
+                    "number": "49",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "43baa6762fa81bb43b39c62553b2970d"
+            }
+        ]
+    },
+    "passage_89": {
+        "passage": " At the town carnival Oliver rode the ferris wheel 7 times and the bumper cars 3 times",
+        "qa_pairs": [
+            {
+                "question": " If each ride cost 3 tickets, how many tickets did he use? ",
+                "answer": {
+                    "number": "30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e6d8545daa42d5ced125a4bf747b3688"
+            }
+        ]
+    },
+    "passage_90": {
+        "passage": " Kaleb had 34 books",
+        "qa_pairs": [
+            {
+                "question": " If he sold 17 of them and used the money he earned to buy 7 new books, how many books would Kaleb have? ",
+                "answer": {
+                    "number": "24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d8700cbd38cc9f30cecb34f0c195b137"
+            }
+        ]
+    },
+    "passage_91": {
+        "passage": " Olivia and her mom were picking carrots from their garden.  Olivia picked 20 and her mother picked 14",
+        "qa_pairs": [
+            {
+                "question": " If only 19 of the carrots were good, how many bad carrots did they have? ",
+                "answer": {
+                    "number": "15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0768281a05da9f27df178b5c39a51263"
+            }
+        ]
+    },
+    "passage_92": {
+        "passage": " A vase can hold 6 flowers",
+        "qa_pairs": [
+            {
+                "question": " If you had 7 carnations and 47 roses, how many vases would you need to hold the flowers? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b51a15f382ac914391a58850ab343b00"
+            }
+        ]
+    },
+    "passage_93": {
+        "passage": " For Halloween Katie and her sister combined the candy they received.  Katie had 10 pieces of candy while her sister had 6",
+        "qa_pairs": [
+            {
+                "question": " If they ate 9 pieces the first night, how many pieces do they have left? ",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "27ed0fb950b856b06e1273989422e7d3"
+            }
+        ]
+    },
+    "passage_94": {
+        "passage": " Sarah was planting vegetables in her garden.  She started with 21 seeds and planted 12 of them in the big garden and in each of her small gardens put 3 seeds each",
+        "qa_pairs": [
+            {
+                "question": " How many small gardens did Sarah have? ",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "35309226eb45ec366ca86a4329a2b7c3"
+            }
+        ]
+    },
+    "passage_95": {
+        "passage": " Mike had 15 video games but 9 of them weren't working",
+        "qa_pairs": [
+            {
+                "question": " If he wanted to sell the working games for $5 each, how much money could he earn? ",
+                "answer": {
+                    "number": "30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e94f63f579e05cb49c05c2d050ead9c0"
+            }
+        ]
+    },
+    "passage_96": {
+        "passage": " A trivia team had 15 members total, but during a game 6 members didn't show up",
+        "qa_pairs": [
+            {
+                "question": " If each member that did show up scored 3 points, how many points were scored total? ",
+                "answer": {
+                    "number": "27",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "79a49b3e3762632813f9e35f4ba53d6c"
+            }
+        ]
+    },
+    "passage_97": {
+        "passage": " Frank had saved up 3 dollars",
+        "qa_pairs": [
+            {
+                "question": " If he received another 37 dollars for his allowance, how many 8 dollar toys could he buy? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5caf41d62364d5b41a893adc1a9dd5d4"
+            }
+        ]
+    },
+    "passage_98": {
+        "passage": " At the fair Adam bought 13 tickets.  After riding the ferris wheel he had 4 tickets left",
+        "qa_pairs": [
+            {
+                "question": " If each ticket cost 9 dollars, how much money did Adam spend riding the ferris wheel? ",
+                "answer": {
+                    "number": "81",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "363763e5c3dc3a68b399058c34aecf2c"
+            }
+        ]
+    },
+    "passage_99": {
+        "passage": " Isabel baked 39 cupcakes for her school's bake sale",
+        "qa_pairs": [
+            {
+                "question": " If her brother, Todd, ate 21 of them how many packages could she make if she put 3 cupcake in each package? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3fb451ca2e89b3a13095b059d8705b15"
+            }
+        ]
+    },
+    "passage_100": {
+        "passage": " For Halloween Janet and her sister combined the candy they received.  Janet had 34 pieces of candy while her sister had 33",
+        "qa_pairs": [
+            {
+                "question": " If they ate 4 pieces the first night, how many pieces do they have left? ",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a1140a3d0df1c81e24ae954d935e8926"
+            }
+        ]
+    },
+    "passage_101": {
+        "passage": " Faye had 46 math problems and 9 science problems for homework",
+        "qa_pairs": [
+            {
+                "question": " If she finished 40 of the problems at school, how many problems did she have to do for homework? ",
+                "answer": {
+                    "number": "15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e744f91c29ec99f0e662c9177946c627"
+            }
+        ]
+    },
+    "passage_102": {
+        "passage": " For a birthday party Cody bought 4 regular sodas and 44 diet sodas",
+        "qa_pairs": [
+            {
+                "question": " If his fridge would only hold 6 on each shelf, how many shelves would he fill up? ",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3546ab441e56fa333f8b44b610d95691"
+            }
+        ]
+    },
+    "passage_103": {
+        "passage": " Katie picked 3 tulips and 9 roses to make flower bouquets",
+        "qa_pairs": [
+            {
+                "question": " If she only used 10 of the flowers though, how many extra flowers did Katie pick? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8f468c873a32bb0619eaeb2050ba45d1"
+            }
+        ]
+    },
+    "passage_104": {
+        "passage": " The cafeteria had 62 apples.  For lunch they handed out 8 to students and decided to use the rest to make pies",
+        "qa_pairs": [
+            {
+                "question": " If each pie takes 9 apples, how many pies could they make? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "fe70c36866add1572a8e2b96bfede7bf"
+            }
+        ]
+    },
+    "passage_105": {
+        "passage": " Wendy had 82 files on her computer.  She deleted 37 of them and put the rest into folders with 5 files in each one",
+        "qa_pairs": [
+            {
+                "question": " How many folders did Wendy end up with? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "99adff456950dd9629a5260c4de21858"
+            }
+        ]
+    },
+    "passage_106": {
+        "passage": " A teacher had 6 worksheets to grade",
+        "qa_pairs": [
+            {
+                "question": " If she graded 4, but then another 18 were turned in, how many worksheets would she have to grade? ",
+                "answer": {
+                    "number": "20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a89cf525e1d9f04d16ce31165e139a4b"
+            }
+        ]
+    },
+    "passage_107": {
+        "passage": " Kaleb had 10 video games but 8 of them weren't working",
+        "qa_pairs": [
+            {
+                "question": " If he wanted to sell the working games for $6 each, how much money could he earn? ",
+                "answer": {
+                    "number": "12",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "28fc2782ea7ef51c1104ccf7b9bea13d"
+            }
+        ]
+    },
+    "passage_108": {
+        "passage": " Haley and her friends were recycling paper for their class.  For every 3 pounds they recycled they earned one point",
+        "qa_pairs": [
+            {
+                "question": " If Haley recycled 11 pounds and her friends recycled 16 pounds, how many points did they earn? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2df45244f09369e16ea3f9117ca45157"
+            }
+        ]
+    },
+    "passage_109": {
+        "passage": " A waiter had 22 customers in his section",
+        "qa_pairs": [
+            {
+                "question": " If 14 of them left and the rest of his tables had 4 people at each table, how many tables did he have? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e60e81c4cbe5171cd654662d9887aec2"
+            }
+        ]
+    },
+    "passage_110": {
+        "passage": " Ned was helping the cafeteria workers pick up lunch trays, but he could only carry 5 trays at a time",
+        "qa_pairs": [
+            {
+                "question": " If he had to pick up 5 trays from one table and 5 trays from another, how many trips will he make? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "17fafe5f6ce2f1904eb09d2e80a4cbf6"
+            }
+        ]
+    },
+    "passage_111": {
+        "passage": " Henry had 11 dollars.  For his birthday he got 18 more dollars but spent 10 on a new game",
+        "qa_pairs": [
+            {
+                "question": " How much money does he have now? ",
+                "answer": {
+                    "number": "19",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2ab56412b1163ee131e1246da0955bd1"
+            }
+        ]
+    },
+    "passage_112": {
+        "passage": " Bianca and her friends were recycling paper for their class.  For every 3 pounds they recycled they earned one point",
+        "qa_pairs": [
+            {
+                "question": " If Bianca recycled 24 pounds and her friends recycled 3 pounds, how many points did they earn? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "76cf99d3614e23eabab16fb27e944bf9"
+            }
+        ]
+    },
+    "passage_113": {
+        "passage": " A florist had 50 roses",
+        "qa_pairs": [
+            {
+                "question": " If she sold 15 of them and then later picked 21 more, how many roses would she have? ",
+                "answer": {
+                    "number": "56",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8248a99e81e752cb9b41da3fc43fbe7f"
+            }
+        ]
+    },
+    "passage_114": {
+        "passage": " In fourth grade there were 8 students at the start of the year.  During the year 5 students left and 8 new students came to school",
+        "qa_pairs": [
+            {
+                "question": " How many students were in fourth grade at the end? ",
+                "answer": {
+                    "number": "11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c7635bfd99248a2cdef8249ef7bfbef4"
+            }
+        ]
+    },
+    "passage_115": {
+        "passage": " Bianca and her mom were picking carrots from their garden.  Bianca picked 26 and her mother picked 15",
+        "qa_pairs": [
+            {
+                "question": " If only 16 of the carrots were good, how many bad carrots did they have? ",
+                "answer": {
+                    "number": "25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4311359ed4969e8401880e3c1836fbe1"
+            }
+        ]
+    },
+    "passage_116": {
+        "passage": "Mrs.  Hilt baked pies last weekend for a holiday dinner.  She baked 16 pecan pies and 14 apples pies",
+        "qa_pairs": [
+            {
+                "question": " If she wants to arrange all of the pies in rows of 5 pies each, how many rows will she have?",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d198bd736a97e7cecfdf8f4f2027ef80"
+            }
+        ]
+    },
+    "passage_117": {
+        "passage": "Elise had $8.  Then she saved $13 from her allowance and spent $2 on a comic book and $18 on a puzzle",
+        "qa_pairs": [
+            {
+                "question": " How much money does Elise have left?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f2d887e01a80e813d9080038decbbabb"
+            }
+        ]
+    },
+    "passage_118": {
+        "passage": " A painter needed to paint 11 rooms in a building.  Each room takes 7 hours to paint",
+        "qa_pairs": [
+            {
+                "question": " If he already painted 2 rooms, how much longer will he take to paint the rest? ",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0e4e946668cf2afc4299b462b812caca"
+            }
+        ]
+    },
+    "passage_119": {
+        "passage": " The schools debate team had 28 boys and 4 girls on it",
+        "qa_pairs": [
+            {
+                "question": " If they were split into groups of 4 how many groups could they make? ",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c0a271bc0ecb776a094786474322cb82"
+            }
+        ]
+    },
+    "passage_120": {
+        "passage": " Maria bought 2 new chairs and 2 new tables for her house",
+        "qa_pairs": [
+            {
+                "question": " If she spent 8 minutes on each piece furniture putting it together, how many minutes did it take her to finish? ",
+                "answer": {
+                    "number": "32",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "82c2559140b95ccda9c6ca4a8b981f1e"
+            }
+        ]
+    },
+    "passage_121": {
+        "passage": " Zoe and her friends were recycling paper for their class.  For every 8 pounds they recycled they earned one point",
+        "qa_pairs": [
+            {
+                "question": " If Zoe recycled 25 pounds and her friends recycled 23 pounds, how many points did they earn? ",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "82965d4ed8150294d4330ace00821d77"
+            }
+        ]
+    },
+    "passage_122": {
+        "passage": " A waiter at 'The Greasy Spoon' restaurant had 39 customers to wait on.  During the lunch rush he added another 12 customers",
+        "qa_pairs": [
+            {
+                "question": " If 49 of the customers didn't leave him a tip, how many customers did leave a tip? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1019c8091693ef5c5f55970346633f92"
+            }
+        ]
+    },
+    "passage_123": {
+        "passage": " There were 6 girls and 48 boys trying out for the schools basketball team",
+        "qa_pairs": [
+            {
+                "question": " If only 7 of them got called back, how many students didn't make the cut? ",
+                "answer": {
+                    "number": "47",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ce5140df15d046a66883807d18d0264b"
+            }
+        ]
+    },
+    "passage_124": {
+        "passage": " Oliver is at the library helping put away books.  There are 46 book to put away total but a librarian takes 10 of them and leaves Oliver with the rest",
+        "qa_pairs": [
+            {
+                "question": " If he can fit 4 books on a shelf, how many shelves will he need? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6d9cb7de5e8ac30bd5e8734bc96a35c1"
+            }
+        ]
+    },
+    "passage_125": {
+        "passage": " There school's baseball team had 4 new players and 6 returning players",
+        "qa_pairs": [
+            {
+                "question": " If the coach put them into groups with 5 players in each group, how many groups would there be? ",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d94e18a8adb4cc0f623f7a83b1ac75b4"
+            }
+        ]
+    },
+    "passage_126": {
+        "passage": " Each chocolate bar in a box cost $3",
+        "qa_pairs": [
+            {
+                "question": " If a box had 9 bars total and Wendy sold all but 3 bars, how much money would she have made? ",
+                "answer": {
+                    "number": "18",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "215a71a12769b056c3c32e7299f1c5ed"
+            }
+        ]
+    },
+    "passage_127": {
+        "passage": " Gwen had 18 math problems and 11 science problems for homework",
+        "qa_pairs": [
+            {
+                "question": " If she finished 24 of the problems at school, how many problems did she have to do for homework? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6d70cb65d15211726dcce4c0e971e21c"
+            }
+        ]
+    },
+    "passage_128": {
+        "passage": " At a restaurant each adult meal costs $5 and kids eat free",
+        "qa_pairs": [
+            {
+                "question": " If a group of 15 people came in and 8 were kids, how much would it cost for the group to eat? ",
+                "answer": {
+                    "number": "35",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9a1756fd0c741126d7bbd4b692ccbd91"
+            }
+        ]
+    },
+    "passage_129": {
+        "passage": " A chef needs to cook 15 potatoes.  He has already cooked 8",
+        "qa_pairs": [
+            {
+                "question": " If each potato takes 9 minutes to cook, how long will it take him to cook the rest? ",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "856fc81623da2150ba2210ba1b51d241"
+            }
+        ]
+    },
+    "passage_130": {
+        "passage": " A pet store had 18 puppies.  In one day they sold 3 of them and put the rest into cages with 5 in each cage",
+        "qa_pairs": [
+            {
+                "question": " How many cages did they use? ",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5e76bef6e019b2541ff53db39f407a98"
+            }
+        ]
+    },
+    "passage_131": {
+        "passage": " The cafeteria had 47 apples.  For lunch they handed out 27 to students and decided to use the rest to make pies",
+        "qa_pairs": [
+            {
+                "question": " If each pie takes 4 apples, how many pies could they make? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6490791e7abf6b29a381288cc23a8223"
+            }
+        ]
+    },
+    "passage_132": {
+        "passage": " Emily was playing a trivia game.  In the first round she scored 16 points and in the second round she scored 33 points.  In the last round she lost 48 points",
+        "qa_pairs": [
+            {
+                "question": " How many points did she have at the end of the game? ",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9ab0d88431732957a618d4a469a0d4c3"
+            }
+        ]
+    },
+    "passage_133": {
+        "passage": " The school cafeteria ordered 33 red apples and 23 green apples for students lunches",
+        "qa_pairs": [
+            {
+                "question": " But, if only 21 students wanted fruit, how many extra did the cafeteria end up with? ",
+                "answer": {
+                    "number": "35",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1e48c4420b7073bc11916c6c1de226bb"
+            }
+        ]
+    },
+    "passage_134": {
+        "passage": " A pet store had 102 puppies.  In one day they sold 21 of them and put the rest into cages with 9 in each cage",
+        "qa_pairs": [
+            {
+                "question": " How many cages did they use? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5607fe8879e4fd269e88387e8cb30b7e"
+            }
+        ]
+    },
+    "passage_135": {
+        "passage": " At a restaurant each adult meal costs $3 and kids eat free",
+        "qa_pairs": [
+            {
+                "question": " If a group of 12 people came in and 7 were kids, how much would it cost for the group to eat? ",
+                "answer": {
+                    "number": "15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6a5889bb0190d0211a991f47bb19a777"
+            }
+        ]
+    },
+    "passage_136": {
+        "passage": " In fourth grade there were 11 students at the start of the year.  During the year 6 students left and 42 new students came to school",
+        "qa_pairs": [
+            {
+                "question": " How many students were in fourth grade at the end? ",
+                "answer": {
+                    "number": "47",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4588e674d3f0faf985047d4c3f13ed0d"
+            }
+        ]
+    },
+    "passage_137": {
+        "passage": " A waiter had 9 tables he was waiting on, with 4 women and 3 men at each table",
+        "qa_pairs": [
+            {
+                "question": " How many customers total did the waiter have? ",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4d2e7bd33c475784381a64e43e50922f"
+            }
+        ]
+    },
+    "passage_138": {
+        "passage": " Roger had 120 pieces of clothing to wash.  He put 48 of them in one load, but decided to split the rest into 9 equal loads",
+        "qa_pairs": [
+            {
+                "question": " How many pieces of clothing could go in each of the small loads? ",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "db1915052d15f7815c8b88e879465a1e"
+            }
+        ]
+    },
+    "passage_139": {
+        "passage": " Isabel baked 3 brownies, but needed 5 total for her party",
+        "qa_pairs": [
+            {
+                "question": " If she used 5 cups of flour on each one, how much cups of flour does she still need? ",
+                "answer": {
+                    "number": "10",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0663a4ddceacb40b095eda264a85f15c"
+            }
+        ]
+    },
+    "passage_140": {
+        "passage": " While playing at the arcade, Frank won 33 tickets playing 'whack a mole' and 9 tickets playing 'skee ball'",
+        "qa_pairs": [
+            {
+                "question": " If he was trying to buy candy that cost 6 tickets a piece, how many could he buy? ",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "bb04af0f7ecaee4aae62035497da1387"
+            }
+        ]
+    },
+    "passage_141": {
+        "passage": " Ned had 15 video games but 6 of them weren't working",
+        "qa_pairs": [
+            {
+                "question": " If he wanted to sell the working games for $7 each, how much money could he earn? ",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f52378e14237225a6f6c7d802dc6abbd"
+            }
+        ]
+    },
+    "passage_142": {
+        "passage": " Edward had 43 books",
+        "qa_pairs": [
+            {
+                "question": " If he sold 19 of them and used the money he earned to buy 14 new books, how many books would Edward have? ",
+                "answer": {
+                    "number": "38",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a5e0ff62be0b08456fc7f1e88812af3d"
+            }
+        ]
+    },
+    "passage_143": {
+        "passage": " The schools debate team had 11 boys and 45 girls on it",
+        "qa_pairs": [
+            {
+                "question": " If they were split into groups of 7 how many groups could they make? ",
+                "answer": {
+                    "number": "8",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0ce2ffd21fc958d9ef0ee9ba5336e357"
+            }
+        ]
+    },
+    "passage_144": {
+        "passage": " Katie had 11 songs on her mp3 player",
+        "qa_pairs": [
+            {
+                "question": " If she deleted 7 old songs from it and then added 24 new songs, how many songs does she have on her mp3 player? ",
+                "answer": {
+                    "number": "28",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "678a1491514b7f1006d605e9161946b1"
+            }
+        ]
+    },
+    "passage_145": {
+        "passage": " While shopping, Maria bought 40 green towels and 44 white towels",
+        "qa_pairs": [
+            {
+                "question": " If she gave her mother 65 of them, how many towels did Maria end up with? ",
+                "answer": {
+                    "number": "19",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b9141aff1412dc76340b3822d9ea6c72"
+            }
+        ]
+    },
+    "passage_146": {
+        "passage": " Cody had 45 dollars.  For his birthday he got 9 more dollars but spent 19 on a new game",
+        "qa_pairs": [
+            {
+                "question": " How much money does he have now? ",
+                "answer": {
+                    "number": "35",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "db576a7d2453575f29eab4bac787b919"
+            }
+        ]
+    },
+    "passage_147": {
+        "passage": " At the fair there were 30 people in line for the bumper cars",
+        "qa_pairs": [
+            {
+                "question": " If 10 of them got tired of waiting and left and 5 more got in line, how many people would be in line? ",
+                "answer": {
+                    "number": "25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8a1e808b55fde9455cb3d8857ed88389"
+            }
+        ]
+    },
+    "passage_148": {
+        "passage": " Will had 57 dollars",
+        "qa_pairs": [
+            {
+                "question": " If he spent 27 bucks on a new game, how many 6 dollar toys could he buy with the money he had left? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0a1bf96b7165e962e90cb14648c9462d"
+            }
+        ]
+    },
+    "passage_149": {
+        "passage": " For Halloween Sarah received 66 pieces of candy from neighbors and 15 pieces from her older sister",
+        "qa_pairs": [
+            {
+                "question": " If she only ate 9 pieces a day, how long would the candy last her? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0e9fa1f3e9e66792401a6972d477dcc3"
+            }
+        ]
+    },
+    "passage_150": {
+        "passage": " A company invited 45 people to a luncheon, but 35 of them didn't show up",
+        "qa_pairs": [
+            {
+                "question": " If the tables they had held 2 people each, how many tables do they need? ",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "81c8727c62e800be708dbf37c4695dff"
+            }
+        ]
+    },
+    "passage_151": {
+        "passage": " There were 4 friends playing a video game online when 5 more players joined the game",
+        "qa_pairs": [
+            {
+                "question": " If each player had 3 lives, how many lives did they have total? ",
+                "answer": {
+                    "number": "27",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b495ce63ede0f4efc9eec62cb947c162"
+            }
+        ]
+    },
+    "passage_152": {
+        "passage": " Edward started his own lawn mowing business.  In the spring he made 2 dollars mowing lawns and in the summer he made 27 dollars",
+        "qa_pairs": [
+            {
+                "question": " If he had to spend 5 dollars buying supplies, how much money did he end up with? ",
+                "answer": {
+                    "number": "24",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "03e0704b5690a2dee1861dc3ad3316c9"
+            }
+        ]
+    },
+    "passage_153": {
+        "passage": " While shopping for music online, Faye bought 2 country albums and 3 pop albums.  Each album came with a lyric sheet and had 6 songs",
+        "qa_pairs": [
+            {
+                "question": " How many songs did Faye buy total? ",
+                "answer": {
+                    "number": "30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e1d5be1c7f2f456670de3d53c7b54f4a"
+            }
+        ]
+    },
+    "passage_154": {
+        "passage": " There were 11 friends playing a video game online when 5 players quit",
+        "qa_pairs": [
+            {
+                "question": " If each player left had 5 lives, how many lives did they have total? ",
+                "answer": {
+                    "number": "30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "83adc9225e4deb67d7ce42d58fe5157c"
+            }
+        ]
+    },
+    "passage_155": {
+        "passage": " A pet store has 9 bird cages",
+        "qa_pairs": [
+            {
+                "question": " If each cage has 2 parrots and 6 parakeets in it, how many birds does the pet store have total? ",
+                "answer": {
+                    "number": "72",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3948ead63a9f2944218de038d8934305"
+            }
+        ]
+    },
+    "passage_156": {
+        "passage": " Paige was unboxing some of her old winter clothes.  She found 6 boxes of clothing and inside each box there were 5 scarves and 5 mittens",
+        "qa_pairs": [
+            {
+                "question": " How many pieces of winter clothing did Paige have total? ",
+                "answer": {
+                    "number": "60",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6eb6e75fddec0218351dc5c0c8464104"
+            }
+        ]
+    },
+    "passage_157": {
+        "passage": " April's discount flowers was having a sale where each flower was 8 dollars",
+        "qa_pairs": [
+            {
+                "question": " If Vanessa bought 3 roses and 3 daisies, how much did she spend? ",
+                "answer": {
+                    "number": "48",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "25df35de87aa441b88f22a6c2a830a17"
+            }
+        ]
+    },
+    "passage_158": {
+        "passage": " The cafeteria had 50 apples.  For lunch they handed out 5 to students and decided to use the rest to make pies",
+        "qa_pairs": [
+            {
+                "question": " If each pie takes 5 apples, how many pies could they make? ",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2b3bf3eee2475e03885a110e9acaab61"
+            }
+        ]
+    }
+}
